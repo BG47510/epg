@@ -7,7 +7,7 @@ Ce script Bash permet de récupérer, filtrer et fusionner plusieurs sources de 
 ## ✨ Fonctionnalités
 
 - **Multi-sources** : Télécharge des fichiers XML ou compressés (.gz) depuis plusieurs URLs.
-- **Filtrage précis** : Ne conserve que les IDs de chaînes spécifiés dans un fichier de configuration.
+- **Filtrage précis** : Ne conserve que les IDs de chaînes spécifiées dans un fichier de configuration.
 - **Fenêtre temporelle** : Supprime automatiquement les programmes passés et limite les programmes futurs à 3 jours (configurable).
 - **Dédoublonnage intelligent** : Évite les doublons de programmes (même chaîne, même heure) lors de la fusion de plusieurs sources.
 - **Optimisation** : Génère un fichier final compressé (.xml.gz) pour économiser de la bande passante.
@@ -45,7 +45,7 @@ France2.fr
 M6.fr 
 ```
 
-`urls.txt` : Listez les URLs de vos sources XMLTV.
+`urls.txt` : Listez les URLs de vos sources XMLTV (une par ligne).
 
 ```
 https://exemple.com/epg_complet.xml
