@@ -1,0 +1,44 @@
+name: xml b02
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # Tous les jours à 02:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Vérifier le code source
+        uses: actions/checkout@v5
+
+      - name: Installer xmlstarlet
+        run: sudo apt-get install -y xmlstarlet
+
+      - name: Configurer Git
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "BG47510"
+
+      - name: Rendre le script exécutable
+        run: chmod +x ${GITHUB_WORKSPACE}/b02/script_xml.sh
+
+      - name: Exécuter le script
+        run: ${GITHUB_WORKSPACE}/b02/script_xml.sh
+
+      - name: Ajouter les modifications à Git
+        run: |
+          git add -A
+          git status
+      
+      - name: Commit et push des modifications
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Les liens sont mis à jour"
+            git push
+          else
+            echo "Aucune modification à committer"
+          fi
