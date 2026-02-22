@@ -22,7 +22,7 @@ Le script repose sur deux outils standards sous Linux :
 Pour les installer sur Debian/Ubuntu :
 
 ```bash
-sudo apt update && sudo apt install curl xmlstarlet -y
+sudo apt-get install -y xmlstarlet
 ```
 
 ## 🚀 Installation et Utilisation
@@ -30,7 +30,7 @@ sudo apt update && sudo apt install curl xmlstarlet -y
 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/BG47510/epg.git cd votre-repo chmod +x filter_epg.sh
+git clone https://github.com/BG47510/epg.git cd votre-repo chmod +x script_xml.sh
 ```
 
 2. Configuration
@@ -57,7 +57,7 @@ https://autre-source.org/guide.xml.gz
 Lancez simplement le script :
 
 ```bash
-./filter_epg.sh
+./script_xml.sh
 ```
 
 Le fichier final sera généré sous le nom `filtered_epg.xml.gz`.
