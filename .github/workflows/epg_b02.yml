@@ -37,7 +37,7 @@ jobs:
       - name: Commit et push des modifications
         run: |
           if [ -n "$(git status --porcelain)" ]; then
-            git commit -m "Les liens sont mis à jour"
+            git commit -m "Mise à jour automatique de l'EPG"
             git push
           else
             echo "Aucune modification à committer"
