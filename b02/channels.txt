@@ -42,5 +42,7 @@ TV5MondeInfo.fr
 TV7Bordeaux.fr
 W9.fr
 ZDF.de
+# EPG iptv-epg.org
+FranceTVSeries
 # EPG Catch-up-TV-and-More
 C2111.api.telerama.fr
