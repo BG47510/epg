@@ -43,4 +43,4 @@ TV7Bordeaux.fr
 W9.fr
 ZDF.de
 # EPG Catch-up-TV-and-More
-C174.api.telerama.fr
+C2111.api.telerama.fr
