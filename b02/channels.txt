@@ -45,5 +45,6 @@ ZDF.de
 # EPG iptv-epg.org
 FranceTVSeries
 # EPG Catch-up-TV-and-More
+C205.api.telerama.fr
 C2111.api.telerama.fr
 C481.api.telerama.fr
