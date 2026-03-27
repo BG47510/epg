@@ -43,8 +43,8 @@ TV7Bordeaux.fr
 W9.fr
 ZDF.de
 # EPG iptv-epg.org
-FranceTVSeries
 # EPG Catch-up-TV-and-More
+C234.api.telerama.fr
 C205.api.telerama.fr
 C2111.api.telerama.fr
 C481.api.telerama.fr
