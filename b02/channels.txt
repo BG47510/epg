@@ -44,6 +44,6 @@ ZDF.de
 # EPG Catch-up-TV-and-More
 C234.api.telerama.fr
 C205.api.telerama.fr
-C2111.api.telerama.fr
 C481.api.telerama.fr
+C2111.api.telerama.fr
 C1404.api.telerama.fr
