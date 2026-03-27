@@ -20,7 +20,6 @@ FranceTVDocs.fr
 Gulli.fr
 LCI.fr
 LEquipe21.fr
-LaChaineParlementaire.fr
 M6.fr
 MCMTop.fr
 Mezzo.fr
@@ -35,7 +34,6 @@ RTSDeux.ch
 RougeTV.ch
 T18.fr
 TF1.fr
-TF1SeriesFilms.fr
 TMC.fr
 TV5Monde.fr
 TV5MondeInfo.fr
