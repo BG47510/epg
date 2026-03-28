@@ -42,7 +42,7 @@ W9.fr
 ZDF.de
 # EPG https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz
 20.minutes.TV.fr
-Figaro.TV.IDF.fr
+Le.Figaro.TV.fr
 TECH.and.CO.fr
 # EPG Catch-up-TV-and-More
 C234.api.telerama.fr
