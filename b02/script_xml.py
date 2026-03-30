@@ -6,18 +6,13 @@ from datetime import datetime, timedelta
 import os
 
 # --- CONFIGURATION DYNAMIQUE DES CHEMINS ---
-# On récupère le dossier où se trouve le script actuel
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-
-# On joint ce dossier aux noms de fichiers
 CHANNELS_FILE = os.path.join(BASE_DIR, "channels.txt")
 URLS_FILE = os.path.join(BASE_DIR, "urls.txt")
 OUTPUT_FILE = os.path.join(BASE_DIR, "filtered_epg.xml")
-
-DAYS_AHEAD = 3 # Nombre de jours de programme à conserver
+DAYS_AHEAD = 3
 
 def load_list(filename):
-    """Charge une liste depuis un fichier en ignorant les commentaires."""
     if not os.path.exists(filename):
         print(f"Erreur : {filename} introuvable.")
         return []
@@ -25,17 +20,14 @@ def load_list(filename):
         return [line.strip() for line in f if line.strip() and not line.startswith("#")]
 
 def get_stream(url):
-    """Récupère le flux de données selon l'extension du fichier."""
     headers = {'User-Agent': 'Mozilla/5.0'}
     resp = requests.get(url, stream=True, timeout=60, headers=headers)
     resp.raise_for_status()
-    
     if url.lower().endswith(".gz"):
         return gzip.GzipFile(fileobj=resp.raw)
     elif url.lower().endswith(".xz"):
         return lzma.LZMAFile(resp.raw)
     else:
-        # Traitement direct du XML brut
         return resp.raw
 
 def filter_epg():
@@ -43,86 +35,76 @@ def filter_epg():
     urls = load_list(URLS_FILE)
     
     if not target_ids or not urls:
-        print("Erreur : Listes de chaînes ou d'URLs vides.")
+        print("Listes vides. Vérifiez channels.txt et urls.txt.")
         return
 
-    # Date actuelle et limite pour le filtrage temporel
     now = datetime.now()
     limit = now + timedelta(days=DAYS_AHEAD)
 
-    # Création de la racine du nouveau fichier XMLTV
     new_root = ET.Element("tv", {"generator-info-name": "PythonEPGFilter"})
     
     seen_channels = set()
-    seen_programs = set() # Stocke des tuples (channel_id, start_time_normalized)
+    seen_programs = set() # Contiendra la clé unique (id_chaine, heure_debut_courte)
 
     print(f"--- Démarrage du filtrage ---")
 
     for url in urls:
-        print(f"Analyse de : {url} ...", end=" ", flush=True)
+        print(f"Traitement : {url} ...", end=" ", flush=True)
         try:
             stream = get_stream(url)
-            # Chargement du XML en mémoire (incrémental pour les gros fichiers)
             tree = ET.parse(stream)
             root = tree.getroot()
 
-            # 1. Extraction des balises <channel> (Nom, Logo, etc.)
-            chan_count = 0
+            # 1. CHANNELS
             for channel in root.findall("channel"):
                 c_id = channel.get("id")
                 if c_id in target_ids and c_id not in seen_channels:
                     new_root.append(channel)
                     seen_channels.add(c_id)
-                    chan_count += 1
 
-            # 2. Extraction des balises <programme> (Grille horaire)
-            prog_count = 0
+            # 2. PROGRAMMES
+            p_added = 0
             for prog in root.findall("programme"):
                 c_id = prog.get("channel")
-                start_raw = prog.get("start") # Format attendu : YYYYMMDDHHMMSS...
+                start_raw = prog.get("start")
                 
                 if c_id in target_ids and start_raw:
-                    # Normalisation : on garde YYYYMMDDHHMM (12 caractères)
-                    start_norm = start_raw[:12]
-                    key = (c_id, start_norm)
+                    # NORMALISATION CRITIQUE :
+                    # On ne prend que les 12 premiers caractères (YYYYMMDDHHMM)
+                    # On ignore les secondes et le fuseau horaire (+0200)
+                    start_key = start_raw[:12]
+                    
+                    # Clé unique composée de l'ID de la chaîne + Heure de début courte
+                    unique_key = (c_id, start_key)
 
-                    # Conversion en objet date pour le filtrage temporel
-                    try:
-                        prog_date = datetime.strptime(start_norm, "%Y%m%d%H%M")
-                        
-                        # Dédoublonnage + Filtrage 3 jours
-                        if key not in seen_programs and now <= prog_date <= limit:
-                            new_root.append(prog)
-                            seen_programs.add(key)
-                            prog_count += 1
-                    except ValueError:
-                        continue # Format de date invalide
-            
-            print(f"OK ({chan_count} ch / {prog_count} prog)")
+                    if unique_key not in seen_programs:
+                        try:
+                            # Filtrage temporel (optionnel mais recommandé)
+                            prog_date = datetime.strptime(start_key, "%Y%m%d%H%M")
+                            if now - timedelta(hours=2) <= prog_date <= limit:
+                                new_root.append(prog)
+                                seen_programs.add(unique_key)
+                                p_added += 1
+                        except ValueError:
+                            continue
+            print(f"OK (+{p_added} programmes)")
 
         except Exception as e:
             print(f"ERREUR : {e}")
 
-    # --- SAUVEGARDE ET COMPRESSION ---
-    if len(seen_programs) > 0:
-        print(f"--- Écriture du fichier final ---")
-        
-        # On trie un peu le XML pour plus de propreté (Optionnel)
+    # Sauvegarde
+    if seen_programs:
         new_tree = ET.ElementTree(new_root)
-        
-        # Écriture du XML brut
         with open(OUTPUT_FILE, "wb") as f:
             new_tree.write(f, encoding="UTF-8", xml_declaration=True)
         
-        # Compression en .gz pour l'IPTV
+        # Compression GZ
         with open(OUTPUT_FILE, 'rb') as f_in:
-            with gzip.open(OUTPUT_FILE + '.gz', 'wb') as f_out:
+            with gzip.open(OUTPUT_FILE + ".gz", 'wb') as f_out:
                 f_out.writelines(f_in)
-        
-        print(f"Succès ! Fichier créé : {OUTPUT_FILE}.gz")
-        print(f"Total : {len(seen_channels)} chaînes et {len(seen_programs)} programmes.")
+        print(f"Succès : {OUTPUT_FILE}.gz créé.")
     else:
-        print("Aucun programme trouvé. Vérifiez les IDs dans channels.txt.")
+        print("Aucun programme trouvé.")
 
 if __name__ == "__main__":
     filter_epg()
