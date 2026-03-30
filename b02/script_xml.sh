@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Aller au répertoire du script
+# Aller au répertoire du script pour éviter les erreurs de chemin
 cd "$(dirname "$0")" || exit 1
 
 # ==============================================================================
@@ -8,132 +8,128 @@ cd "$(dirname "$0")" || exit 1
 # ==============================================================================
 CHANNELS_FILE="channels.txt"
 URLS_FILE="urls.txt"
+OUTPUT_FILE="filtered_epg.xml"
+TEMP_DIR="./temp_epg"
 
-# Vérification des dépendances nécessaires
-for cmd in curl xmlstarlet xz gunzip; do
+# Vérification des dépendances (commandes nécessaires)
+for cmd in curl xmlstarlet xz gunzip awk; do
     if ! command -v "$cmd" &> /dev/null; then
         echo "Erreur : La commande '$cmd' est requise mais n'est pas installée."
         exit 1
     fi
 done
 
-# Vérification des fichiers de configuration
-for f in "$CHANNELS_FILE" "$URLS_FILE"; do
-    if [[ ! -f "$f" ]]; then
-        echo "Erreur : Le fichier $f est introuvable."
-        exit 1
-    fi
-done
+# Vérification des fichiers d'entrée
+if [[ ! -f "$CHANNELS_FILE" ]] || [[ ! -f "$URLS_FILE" ]]; then
+    echo "Erreur : $CHANNELS_FILE ou $URLS_FILE introuvable."
+    exit 1
+fi
 
-# Lecture des fichiers : ignore les lignes vides et les commentaires (#)
+# Nettoyage et création du dossier temporaire
+rm -rf "$TEMP_DIR"
+mkdir -p "$TEMP_DIR"
+
+# Chargement des données (ignore les commentaires et lignes vides)
 mapfile -t CHANNEL_IDS < <(grep -vE '^\s*(#|$)' "$CHANNELS_FILE")
 mapfile -t URLS < <(grep -vE '^\s*(#|$)' "$URLS_FILE")
 
-OUTPUT_FILE="filtered_epg.xml"
-TEMP_DIR="./temp_epg"
-mkdir -p "$TEMP_DIR"
-
-# ==============================================================================
-# PARAMÈTRES TEMPORELS
-# ==============================================================================
+# Paramètres de filtrage temporel (Aujourd'hui à +3 jours)
 NOW=$(date +%Y%m%d%H%M)
 LIMIT=$(date -d "+3 days" +%Y%m%d%H%M)
 
-# Construction des filtres XPath
-xpath_channels=""
-xpath_progs=""
+# Construction du filtre XPath pour les IDs de chaînes
+xpath_filter=""
 for id in "${CHANNEL_IDS[@]}"; do
-    xpath_channels+="@id='$id' or "
-    xpath_progs+="@channel='$id' or "
+    xpath_filter+="@id='$id' or "
 done
-xpath_channels="${xpath_channels% or }"
-xpath_progs="${xpath_progs% or }"
+xpath_filter="${xpath_filter% or }"
 
-echo "--- Démarrage du traitement ---"
+echo "--- Étape 1 : Téléchargement et filtrage individuel ---"
 
-# ==============================================================================
-# 1. RÉCUPÉRATION ET FILTRAGE INDIVIDUEL
-# ==============================================================================
 count=0
 for url in "${URLS[@]}"; do
+    # Nettoyage de l'URL (caractères invisibles Windows)
     url=$(echo "$url" | tr -d '\r' | xargs)
     [[ -z "$url" ]] && continue
-
+    
     count=$((count + 1))
-    echo "Source $count : $url"
-    
     RAW_FILE="$TEMP_DIR/raw_$count.xml"
-    
-    # --- MODIFICATION ICI : Gestion des formats GZ, XZ et XML brut ---
+    echo "Source $count : $url"
+
+    # Téléchargement avec gestion des formats (GZ, XZ, Brut)
     if [[ "$url" == *.gz ]]; then
-        curl -sL --connect-timeout 10 --max-time 60 --fail "$url" | gunzip > "$RAW_FILE" 2>/dev/null
+        curl -sL --connect-timeout 15 --max-time 120 --fail "$url" | gunzip > "$RAW_FILE" 2>/dev/null
     elif [[ "$url" == *.xz ]]; then
-        # Décompression du format XZ
-        curl -sL --connect-timeout 10 --max-time 60 --fail "$url" | xz -d > "$RAW_FILE" 2>/dev/null
+        curl -sL --connect-timeout 15 --max-time 120 --fail "$url" | xz -d > "$RAW_FILE" 2>/dev/null
     else
-        curl -sL --connect-timeout 10 --max-time 60 --fail "$url" > "$RAW_FILE" 2>/dev/null
+        curl -sL --connect-timeout 15 --max-time 120 --fail "$url" > "$RAW_FILE" 2>/dev/null
     fi
 
-    # On vérifie si le fichier a été créé et n'est pas vide
+    # Si le fichier existe, on filtre immédiatement pour économiser de la place
     if [[ -s "$RAW_FILE" ]]; then
-        # Traitement XML
-        if ! xmlstarlet ed \
-            -d "/tv/channel[not($xpath_channels)]" \
-            -d "/tv/programme[not($xpath_progs)]" \
+        xmlstarlet ed \
+            -d "/tv/channel[not($xpath_filter)]" \
+            -d "/tv/programme[not(parent::tv/channel[@id=current()/@channel]) and not(contains('$xpath_filter', @channel))]" \
             -d "/tv/programme[substring(@stop,1,12) < '$NOW']" \
             -d "/tv/programme[substring(@start,1,12) > '$LIMIT']" \
-            "$RAW_FILE" > "$TEMP_DIR/src_$count.xml" 2>/dev/null; then
-            echo "Attention : Erreur de structure XML pour la source $count"
-        fi
+            "$RAW_FILE" > "$TEMP_DIR/src_$count.xml" 2>/dev/null
         rm -f "$RAW_FILE"
     else
-        echo "Attention : Source $count injoignable ou format invalide (Timeout/404)"
+        echo "   -> Échec ou fichier vide."
     fi
 done
 
-# B. On traite les programmes avec dédoublonnage intelligent
-echo "Filtrage des programmes (doublons)..."
+# ==============================================================================
+# Étape 2 : Fusion finale et suppression des doublons
+# ==============================================================================
+echo "--- Étape 2 : Fusion et dédoublonnage intelligent ---"
+
+# 1. En-tête XML
+echo '<?xml version="1.0" encoding="UTF-8"?>' > "$OUTPUT_FILE"
+echo '<tv generator-info-name="CustomEPGFilter">' >> "$OUTPUT_FILE"
+
+# 2. CHANNELS (Noms et logos des chaînes)
+echo "Traitement des chaînes..."
+xmlstarlet sel -t -c "/tv/channel" "$TEMP_DIR"/*.xml 2>/dev/null | \
+    awk 'BEGIN { RS="</channel>"; ORS="" } 
+    { 
+        if (match($0, /id="([^"]+)"/, a)) { 
+            id=a[1]; 
+            if (!seen_chan[id]++) print $0 "</channel>\n" 
+        } 
+    }' >> "$OUTPUT_FILE"
+
+# 3. PROGRAMMES (La grille horaire avec dédoublonnage strict)
+echo "Traitement des programmes (Dédoublonnage)..."
 xmlstarlet sel -t -c "/tv/programme" "$TEMP_DIR"/*.xml 2>/dev/null | \
-    awk '
-    BEGIN { 
-        RS="</programme>"; 
-        ORS="" 
-    }
-    {
-        # 1. On extrait l ID de la chaîne et l heure de début
-        if (match($0, /channel="([^"]+)"/, c) && match($0, /start="([^"]+)"/, s)) {
-            
-            chan_id = c[1]
-            start_time = s[1]
-            
-            # 2. Clé unique : Identifiant + Heure de début
-            # On peut aussi ajouter la fin : key = c[1] s[1] f[1]
-            key = chan_id "_" start_time
-            
-            # 3. On ne garde que la première occurrence rencontrée
-            if (!seen[key]++) {
-                # Nettoyage des espaces/retours à la ligne inutiles pour compacter
-                gsub(/\n/, " ", $0)
-                gsub(/ +/, " ", $0)
+    awk 'BEGIN { RS="</programme>"; ORS="" } 
+    { 
+        # On extrait l ID de la chaine et les 12 premiers chiffres de l heure (YYYYMMDDHHMM)
+        if (match($0, /channel="([^"]+)"/, c) && match($0, /start="([0-9]{12})/, s)) {
+            key = c[1] "_" s[1]
+            if (!seen_prog[key]++) {
+                # On aplatit les retours à la ligne internes pour un XML propre
+                gsub(/\r?\n/, " ", $0)
                 print $0 "</programme>\n"
             }
         }
     }' >> "$OUTPUT_FILE"
 
+# 4. Fin du XML
 echo '</tv>' >> "$OUTPUT_FILE"
 
-# ==============================================================================
-# NETTOYAGE ET FINALISATION
-# ==============================================================================
+# Nettoyage final
 rm -rf "$TEMP_DIR"
 
+# ==============================================================================
+# Étape 3 : Finalisation
+# ==============================================================================
 if [ -s "$OUTPUT_FILE" ]; then
     SIZE=$(du -sh "$OUTPUT_FILE" | cut -f1)
-    echo "SUCCÈS : Fichier $OUTPUT_FILE créé ($SIZE)."
-    echo "Compression du fichier final..."
+    echo "SUCCÈS : $OUTPUT_FILE généré ($SIZE)."
+    echo "Compression en cours..."
     gzip -f "$OUTPUT_FILE"
-    echo "Terminé : ${OUTPUT_FILE}.gz prêt."
+    echo "TERMINÉ : ${OUTPUT_FILE}.gz est prêt."
 else
-    echo "ERREUR : Le fichier final est vide."
-    rm -f "$OUTPUT_FILE"
+    echo "ERREUR : Le fichier final est vide. Vérifiez vos IDs dans $CHANNELS_FILE."
 fi
