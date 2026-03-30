@@ -15,19 +15,26 @@ jobs:
       - name: Vérifier le code source
         uses: actions/checkout@v5
 
-      - name: Installer xmlstarlet
-        run: sudo apt-get install -y xmlstarlet
+      - name: Configurer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'  # Version de Python à utiliser
+
+      - name: Installer les dépendances
+        run: |
+         pip install requests  # Installer requests
+        # Ajouter d'autres dépendances si nécessaire
 
       - name: Configurer Git
         run: |
           git config --global user.email "action@github.com"
           git config --global user.name "BG47510"
 
-      - name: Rendre le script exécutable
-        run: chmod +x ${GITHUB_WORKSPACE}/b02/script_xml.sh
+    #  - name: Rendre le script exécutable
+    #    run: chmod +x ${GITHUB_WORKSPACE}/b02/script_xml.sh
 
       - name: Exécuter le script
-        run: ${GITHUB_WORKSPACE}/b02/script_xml.sh
+        run: ${GITHUB_WORKSPACE}/b02/script_xml.py
 
       - name: Ajouter les modifications à Git
         run: |
