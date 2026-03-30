@@ -34,7 +34,7 @@ jobs:
     #    run: chmod +x ${GITHUB_WORKSPACE}/b02/script_xml.sh
 
       - name: Exécuter le script
-        run: ${GITHUB_WORKSPACE}/b02/script_xml.py
+        run: python ${GITHUB_WORKSPACE}/b02/script_xml.py
 
       - name: Ajouter les modifications à Git
         run: |
