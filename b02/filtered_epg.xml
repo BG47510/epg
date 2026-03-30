@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv generator-info-name="PythonEPGFilter_UTC"><channel id="BFMTV.fr">
+<tv generator-info-name="PythonEPGFilter_UTC">
+  <channel id="BFMTV.fr">
     <display-name lang="fr">BFM TV</display-name>
   </channel>
   <channel id="France4.fr">
@@ -194,11 +195,6 @@
     <title lang="fr">BFM Non Stop</title>
     <sub-title lang="fr">Magazine Info ║ 2026</sub-title>
     <desc lang="fr">Chaque jour de 14h à 17h, Pauline Simonet fait le point sur l'actualité nationale et internationale avec ses chroniqueurs et ses invités dans "BFM Non-Stop".</desc>
-  </programme>
-  <programme start="20260330081700 +0000" stop="20260330082900 +0000" channel="France4.fr">
-    <title lang="fr">Anatole Latuile</title>
-    <sub-title lang="fr">S2E36 ║ Le gros rhume du directeur ║ Série De Dessins Animés ║ 2018</sub-title>
-    <desc lang="fr">Anatole Latuile, un écolier dissipé mais plein de ressources, dépense toute son énergie à s'attirer des ennuis.</desc>
   </programme>
   <programme start="20260330082900 +0000" stop="20260330083200 +0000" channel="France4.fr">
     <title lang="fr">Anatole Latuile</title>
@@ -2536,6 +2532,21 @@ Donald Reignoux (Acteur) .. Rafik
 Jeff Schjerlund (Acteur) .. Rafik / Ozzy
 Yoann Sover (Acteur) .. Boyster.</desc>
   </programme>
+  <programme start="20260402141700 +0000" stop="20260402143700 +0000" channel="France4.fr">
+    <title lang="fr">Molusco</title>
+    <sub-title lang="fr">S1E17 ║ La piscine ║ Série De Dessins Animés ║ 2014</sub-title>
+    <desc lang="fr">Petit garçon mi-huître mi-humain, Molusco est différent. En effet, quel autre enfant comprend le langage des baleines, possède une coquille qui parle ou peut fabriquer des perles en mangeant de la craie bien calcaire? Pourtant, Molusco n'a qu'un souhait : vivre la vie normale et épanouie d'un enfant de 11 ans... et une seule crainte : que son secret soit découvert. Comment les autres pourraient-ils aimer un mollusque ? Le monde est-il prêt à accueillir cet être hors du commun ? Ainsi, entre cour de récré et contrôles de maths, bagarres et histoires de coeur, un épisode typique de la série nous fait partager le quotidien semé d'embûches de Molusco qui tente de vivre pleinement la vie d'un enfant de son âge, tout en préservant le secret de ses origines... La vie de petit garçon n'est pas facile quand on est une huître...
+Marc Bretonnière (Acteur) .. Mr. Pluss
+Matthew Forbes (Acteur) .. Shelby
+Emmanuel Garijo (Acteur) .. Shelby
+Rasmus Hardiker (Acteur) .. Rafik
+Akie Kotabe (Acteur) .. Boyster
+Caroline Mozzone (Acteur) .. Alicia
+Rob Rackstraw (Acteur) .. Mr. Pluss
+Donald Reignoux (Acteur) .. Rafik
+Jeff Schjerlund (Acteur) .. Rafik / Ozzy
+Yoann Sover (Acteur) .. Boyster.</desc>
+  </programme>
   <programme start="20260331024500 +0200" stop="20260331035000 +0200" channel="France4.fr">
     <title lang="fr">Marion Mezadorian : Pépites</title>
     <sub-title lang="fr">Spectacle Humour</sub-title>
@@ -2601,4 +2612,4 @@ Yoann Sover (Acteur) .. Boyster.</desc>
     <title lang="fr">Les matinales</title>
     <sub-title lang="fr">Emission du 02 avr. 2026</sub-title>
   </programme>
-  </tv>
+</tv>
