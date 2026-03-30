@@ -5,11 +5,16 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 import os
 
-# --- CONFIGURATION ---
-CHANNELS_FILE = "channels.txt"  # Un ID par ligne
-URLS_FILE = "urls.txt"          # Une URL par ligne (.xml, .gz ou .xz)
-OUTPUT_FILE = "filtered_epg.xml"
-DAYS_AHEAD = 3  # Nombre de jours de programme à conserver
+# --- CONFIGURATION DYNAMIQUE DES CHEMINS ---
+# On récupère le dossier où se trouve le script actuel
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# On joint ce dossier aux noms de fichiers
+CHANNELS_FILE = os.path.join(BASE_DIR, "channels.txt")
+URLS_FILE = os.path.join(BASE_DIR, "urls.txt")
+OUTPUT_FILE = os.path.join(BASE_DIR, "filtered_epg.xml")
+
+DAYS_AHEAD = 3 # Nombre de jours de programme à conserver
 
 def load_list(filename):
     """Charge une liste depuis un fichier en ignorant les commentaires."""
