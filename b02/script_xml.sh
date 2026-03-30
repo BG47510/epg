@@ -91,26 +91,31 @@ for url in "${URLS[@]}"; do
     fi
 done
 
-# ==============================================================================
-# 2. FUSION ET DÉDOUBLONNAGE
-# ==============================================================================
-echo "Fusion et suppression des doublons..."
-
-echo '<?xml version="1.0" encoding="UTF-8"?><tv>' > "$OUTPUT_FILE"
-
-# A. Chaînes
-xmlstarlet sel -t -c "/tv/channel" "$TEMP_DIR"/*.xml 2>/dev/null | \
-    awk '!x[$0]++' >> "$OUTPUT_FILE"
-
-# B. Programmes avec dédoublonnage intelligent
+# B. On traite les programmes avec dédoublonnage intelligent
+echo "Filtrage des programmes (doublons)..."
 xmlstarlet sel -t -c "/tv/programme" "$TEMP_DIR"/*.xml 2>/dev/null | \
     awk '
-    BEGIN { RS="</programme>"; FS="<programme " }
+    BEGIN { 
+        RS="</programme>"; 
+        ORS="" 
+    }
     {
+        # 1. On extrait l ID de la chaîne et l heure de début
         if (match($0, /channel="([^"]+)"/, c) && match($0, /start="([^"]+)"/, s)) {
-            key = c[1] s[1]
+            
+            chan_id = c[1]
+            start_time = s[1]
+            
+            # 2. Clé unique : Identifiant + Heure de début
+            # On peut aussi ajouter la fin : key = c[1] s[1] f[1]
+            key = chan_id "_" start_time
+            
+            # 3. On ne garde que la première occurrence rencontrée
             if (!seen[key]++) {
-                print $0 "</programme>"
+                # Nettoyage des espaces/retours à la ligne inutiles pour compacter
+                gsub(/\n/, " ", $0)
+                gsub(/ +/, " ", $0)
+                print $0 "</programme>\n"
             }
         }
     }' >> "$OUTPUT_FILE"
