@@ -1,3 +1,3 @@
 http://www.xmltvepg.nl/rytecTNT_Basic.xz
-https://xmltvfr.fr/xmltv/xmltv.xml.gz
-https://epgshare01.online/epgshare01/epg_ripper_FR1.xml.gz
+http://www.xmltvepg.nl/rytecFR_Mixte.xz
+http://www.xmltvepg.nl/rytecBE_FR_Common.xz
