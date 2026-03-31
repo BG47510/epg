@@ -1,3 +1,37 @@
 # http://www.xmltvepg.nl/rytecTNT_Basic.xz
 BFMTV.fr
 France4.fr
+TMC.fr
+Gulli.fr
+T18.fr
+France3.fr
+France5.fr
+CStar.fr
+TFX.fr
+France2.fr
+CNews.fr
+Franceinfo.fr
+TF1.fr
+TF1SeriesFilms.fr
+6ter.fr
+RMCStory.fr
+Lequipe.fr
+RMCdecouverte.fr
+RMCLife.fr
+W9.fr
+M6.fr
+LCI.fr
+ARTE.fr
+LaChaineParlementaire.fr
+France3NouvelleAquitaine.fr
+# http://www.xmltvepg.nl/rytecFR_Mixte.xz
+FigaroTV.fr
+BFMGrandsReportages.fr
+TECH_CO.fr
+TV7Bordeaux.fr
+MCM.fr
+NOVO19.fr
+# http://www.xmltvepg.nl/rytecBE_FR_Common.xz
+Animaux.fr
+Mezzo.fr
+PlanetePlus.fr
