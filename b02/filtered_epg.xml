@@ -6,41 +6,6 @@
   <channel id="France4.fr">
     <display-name lang="fr">France 4</display-name>
   </channel>
-  <programme start="20260330100000 +0000" stop="20260330120000 +0000" channel="BFMTV.fr">
-    <title lang="fr">Midi BFM</title>
-    <sub-title lang="fr">Actualités ║ 2026</sub-title>
-    <desc lang="fr">Deux heures d'info pour comprendre l'actualité partout en France. Tout ce qui compte vraiment dans le quotidien des Français.</desc>
-  </programme>
-  <programme start="20260330120000 +0000" stop="20260330150000 +0000" channel="BFMTV.fr">
-    <title lang="fr">BFM Non Stop</title>
-    <sub-title lang="fr">Magazine Info ║ 2026</sub-title>
-    <desc lang="fr">Chaque jour de 14h à 17h, Pauline Simonet fait le point sur l'actualité nationale et internationale avec ses chroniqueurs et ses invités dans "BFM Non-Stop".</desc>
-  </programme>
-  <programme start="20260330150000 +0000" stop="20260330170000 +0000" channel="BFMTV.fr">
-    <title lang="fr">Marschall Truchot BFM Story</title>
-    <sub-title lang="fr">Actualités ║ 2026</sub-title>
-    <desc lang="fr">Alain Marschall et Olivier Truchot présentent une tranche d'informations avec des points sur les grands sujets d'actualité de la journée et de la semaine.</desc>
-  </programme>
-  <programme start="20260330170000 +0000" stop="20260330180000 +0000" channel="BFMTV.fr">
-    <title lang="fr">60 Minutes Fauvelle</title>
-    <sub-title lang="fr">Actualités ║ 2026</sub-title>
-    <desc lang="fr">Relire l'actualité du jour avec Marc Fauvelle. L'éclairer, l'analyser, tenter de la mettre en perspective. Sans parti pris, et sans concession.</desc>
-  </programme>
-  <programme start="20260330180000 +0000" stop="20260330200000 +0000" channel="BFMTV.fr">
-    <title lang="fr">20h BFM</title>
-    <sub-title lang="fr">Actualités ║ 2026</sub-title>
-    <desc lang="fr">Le rendez-vous d'info incontournable. Maxime Switek et Alice Darfeuille présentent un grand journal de deux heures, accompagnés de plusieurs chroniqueurs.</desc>
-  </programme>
-  <programme start="20260330200000 +0000" stop="20260330220000 +0000" channel="BFMTV.fr">
-    <title lang="fr">BFM Grand Soir</title>
-    <sub-title lang="fr">Actualités ║ 2026</sub-title>
-    <desc lang="fr">Du lundi au vendredi, Julie Hammett et Emilie Broussouloux reviennent sur des sujets qui font la une de l'actualité de 22h à 00h dans BFM Grand Soir.</desc>
-  </programme>
-  <programme start="20260330220000 +0000" stop="20260331023000 +0000" channel="BFMTV.fr">
-    <title lang="fr">Le direct BFMTV</title>
-    <sub-title lang="fr">Actualités ║ 2026</sub-title>
-    <desc lang="fr">Le plein d'informations avec "Le direct BFMTV", la plage d'informations en direct du samedi et du dimanche matin, présentée par François Gapihan.</desc>
-  </programme>
   <programme start="20260331023000 +0000" stop="20260331040000 +0000" channel="BFMTV.fr">
     <title lang="fr">BFM Première : Pré-matinale</title>
     <sub-title lang="fr">Informations ║ 2026</sub-title>
@@ -196,486 +161,35 @@
     <sub-title lang="fr">Magazine Info ║ 2026</sub-title>
     <desc lang="fr">Chaque jour de 14h à 17h, Pauline Simonet fait le point sur l'actualité nationale et internationale avec ses chroniqueurs et ses invités dans "BFM Non-Stop".</desc>
   </programme>
-  <programme start="20260330083200 +0000" stop="20260330084400 +0000" channel="France4.fr">
-    <title lang="fr">Anatole Latuile</title>
-    <sub-title lang="fr">S2E38 ║ Chamallo ║ Série De Dessins Animés ║ 2018</sub-title>
-    <desc lang="fr">Le chat de madame Latouche vient d'avoir un petit chaton : Chamalo. Marjane aimerait l'adopter, mais ses parents ne veulent pas. Anatole et Jason vont l'aider.</desc>
+  <programme start="20260402150000 +0000" stop="20260402170000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Marschall Truchot BFM Story</title>
+    <sub-title lang="fr">Actualités ║ 2026</sub-title>
+    <desc lang="fr">Alain Marschall et Olivier Truchot présentent une tranche d'informations avec des points sur les grands sujets d'actualité de la journée et de la semaine.</desc>
   </programme>
-  <programme start="20260330084400 +0000" stop="20260330085000 +0000" channel="France4.fr">
-    <title lang="fr">Anatole Latuile</title>
-    <sub-title lang="fr">S2E39 ║ La star montante ║ Série De Dessins Animés ║ 2018</sub-title>
-    <desc lang="fr">Anatole Latuile, un écolier dissipé mais plein de ressources, dépense toute son énergie à s'attirer des ennuis.</desc>
+  <programme start="20260402170000 +0000" stop="20260402180000 +0000" channel="BFMTV.fr">
+    <title lang="fr">60 Minutes Fauvelle</title>
+    <sub-title lang="fr">Actualités ║ 2026</sub-title>
+    <desc lang="fr">Relire l'actualité du jour avec Marc Fauvelle. L'éclairer, l'analyser, tenter de la mettre en perspective. Sans parti pris, et sans concession.</desc>
   </programme>
-  <programme start="20260330085000 +0000" stop="20260330085900 +0000" channel="France4.fr">
-    <title lang="fr">Chouette, pas chouette</title>
-    <sub-title lang="fr">S1E13 ║ La licorne ║ Série D'animation ║ 2020</sub-title>
-    <desc lang="fr">En jouant aux quilles avec Nono, Gégé a soudain peur d'une fourmi. Nono en profite pour se moquer de lui. Un garçon ça n'a pas peur d'abord ! Grâce à une expérience de gymnastique de haute voltige et un tour en train fantôme, Nono va finir par admettre que c'est bien naturel d'avoir peur et tout autant de l'exprimer. De retour à la réalité, il sera d'accord pour dire que fille ou garçon, il n'y a jamais de honte à avoir peur. Il s'excusera auprès de Gégé avant de bondir en hurlant à la vue d'une araignée.</desc>
+  <programme start="20260402180000 +0000" stop="20260402200000 +0000" channel="BFMTV.fr">
+    <title lang="fr">20h BFM</title>
+    <sub-title lang="fr">Actualités ║ 2026</sub-title>
+    <desc lang="fr">Le rendez-vous d'info incontournable. Maxime Switek et Alice Darfeuille présentent un grand journal de deux heures, accompagnés de plusieurs chroniqueurs.</desc>
   </programme>
-  <programme start="20260330085900 +0000" stop="20260330091000 +0000" channel="France4.fr">
-    <title lang="fr">Les as de la jungle à la rescousse</title>
-    <sub-title lang="fr">S3E18 ║ Le cinquième aimant ║ Série D'animation ║ 2013</sub-title>
-    <desc lang="fr">La jungle n'est pas toujours un endroit paisible. Les animaux qui la peuplent en savent quelque chose. Maurice, un manchot tigré, Batricia, une chauve-souris, Miguel, un gorille ou encore Gilbert, un tarsier, sont là pour assurer la sécurité de leurs amis. Pour les appeler, il suffit de tirer un signal d'alarme qui envoie de petits nuages de fumée au sommet d'un volcan. Une fois leur plan d'action établi, les As de la jungle interviennent au plus vite. Produit par une société toulousaine, un dessin animé inventif destiné au jeune public.</desc>
+  <programme start="20260402200000 +0000" stop="20260402220000 +0000" channel="BFMTV.fr">
+    <title lang="fr">BFM Grand Soir</title>
+    <sub-title lang="fr">Actualités ║ 2026</sub-title>
+    <desc lang="fr">Du lundi au vendredi, Julie Hammett et Emilie Broussouloux reviennent sur des sujets qui font la une de l'actualité de 22h à 00h dans BFM Grand Soir.</desc>
   </programme>
-  <programme start="20260330091000 +0000" stop="20260330093000 +0000" channel="France4.fr">
-    <title lang="fr">Les as de la jungle à la rescousse</title>
-    <sub-title lang="fr">S2E12 ║ Le règne des mammouths ║ Série D'animation ║ 2013</sub-title>
-    <desc lang="fr">La jungle n'est pas toujours un endroit paisible. Les animaux qui la peuplent en savent quelque chose. Maurice, un manchot tigré, Batricia, une chauve-souris, Miguel, un gorille ou encore Gilbert, un tarsier, sont là pour assurer la sécurité de leurs amis. Pour les appeler, il suffit de tirer un signal d'alarme qui envoie de petits nuages de fumée au sommet d'un volcan. Une fois leur plan d'action établi, les As de la jungle interviennent au plus vite. Produit par une société toulousaine, un dessin animé inventif destiné au jeune public.</desc>
+  <programme start="20260402220000 +0000" stop="20260403040000 +0000" channel="BFMTV.fr">
+    <title lang="fr">Le direct BFMTV</title>
+    <sub-title lang="fr">Actualités ║ 2026</sub-title>
+    <desc lang="fr">Le plein d'informations avec "Le direct BFMTV", la plage d'informations en direct du samedi et du dimanche matin, présentée par François Gapihan.</desc>
   </programme>
-  <programme start="20260330093000 +0000" stop="20260330094100 +0000" channel="France4.fr">
-    <title lang="fr">Les as de la jungle à la rescousse</title>
-    <sub-title lang="fr">S3E19 ║ Le choc des tisanes ║ Série D'animation ║ 2013</sub-title>
-    <desc lang="fr">La jungle n'est pas toujours un endroit paisible. Les animaux qui la peuplent en savent quelque chose. Maurice, un manchot tigré, Batricia, une chauve-souris, Miguel, un gorille ou encore Gilbert, un tarsier, sont là pour assurer la sécurité de leurs amis. Pour les appeler, il suffit de tirer un signal d'alarme qui envoie de petits nuages de fumée au sommet d'un volcan. Une fois leur plan d'action établi, les As de la jungle interviennent au plus vite. Produit par une société toulousaine, un dessin animé inventif destiné au jeune public.</desc>
-  </programme>
-  <programme start="20260330094100 +0000" stop="20260330094200 +0000" channel="France4.fr">
-    <title lang="fr">Les as de la jungle à la rescousse</title>
-    <sub-title lang="fr">S3E20 ║ Princesse monochromée ║ Série D'animation ║ 2013</sub-title>
-    <desc lang="fr">La jungle n'est pas toujours un endroit paisible. Les animaux qui la peuplent en savent quelque chose. Maurice, un manchot tigré, Batricia, une chauve-souris, Miguel, un gorille ou encore Gilbert, un tarsier, sont là pour assurer la sécurité de leurs amis. Pour les appeler, il suffit de tirer un signal d'alarme qui envoie de petits nuages de fumée au sommet d'un volcan. Une fois leur plan d'action établi, les As de la jungle interviennent au plus vite. Produit par une société toulousaine, un dessin animé inventif destiné au jeune public.</desc>
-  </programme>
-  <programme start="20260330094200 +0000" stop="20260330095400 +0000" channel="France4.fr">
-    <title lang="fr">Les as de la jungle : en direct</title>
-    <sub-title lang="fr">S1E17 ║ Le spectacle de magie ║ Série D'animation ║ 2011</sub-title>
-    <desc lang="fr">Maurice a tout d'un pingouin… mais le tigre est en lui ! Elevé par une tigresse, ce pingouin loin d'être manchot est devenu un pro du Kung Fu. Avec ses amis, les As de la jungle, Maurice entend dorénavant faire régner l'ordre et la justice dans la jungle, comme sa mère avant lui. Mais Igor, un koala diabolique, entouré de ses babouins mercenaires pas très futés, a pour projet de détruire la jungle… Les As de la jungle, à la rescousse !
-Paul Borne (Acteur) .. Bob the Toad
-Philippe Bozo (Acteur) .. Maurice the Penguin
-Pascal Casanova (Acteur) .. Miguel the Gorilla
-Emmanuel Curtil (Acteur) .. Al the Toad
-Michel Mella (Acteur) .. Fred the Warthog
-Céline Monsarrat (Acteur) .. Batricia the Bat
-Laurent Morteau (Acteur) .. Gilbert the Tarsier
-Jean-Philippe Puymartin (Acteur) .. Reporter
-Benjamin Van Meggelen (Acteur) .. Dirty Beard.</desc>
-  </programme>
-  <programme start="20260330095400 +0000" stop="20260330095600 +0000" channel="France4.fr">
-    <title lang="fr">Shaun le mouton</title>
-    <sub-title lang="fr">S7E15 ║ Chasse au trésor ║ Série D'animation ║ 2009</sub-title>
-    <desc lang="fr">Bitzer ne se rappelle plus où il a enterré son os. C'est à Shaun et au troupeau d'essayer de le retrouver en utilisant des méthodes peu orthodoxes.
-Justin Fletcher (Acteur) .. Shaun
-John Sparkes (Acteur) .. Bitzer
-Richard Webber (Acteur) .. Shirley.</desc>
-  </programme>
-  <programme start="20260330095600 +0000" stop="20260330100700 +0000" channel="France4.fr">
-    <title lang="fr">Shaun le mouton</title>
-    <sub-title lang="fr">S7E16 ║ Visite surprise ║ Série D'animation ║ 2009</sub-title>
-    <desc lang="fr">Bitzer est embarrassé lorsque son père lui rend une visite surprise et trouve la cour de la ferme en désordre. Shaun et le troupeau se lancent alors dans un grand rangement.
-Justin Fletcher (Acteur) .. Shaun
-John Sparkes (Acteur) .. Bitzer
-Richard Webber (Acteur) .. Shirley.</desc>
-  </programme>
-  <programme start="20260330100700 +0000" stop="20260330101400 +0000" channel="France4.fr">
-    <title lang="fr">Shaun le mouton</title>
-    <sub-title lang="fr">S2E18 ║ Sacrés martiens ║ Série D'animation ║ 2009</sub-title>
-    <desc lang="fr">Le fermier organise une fête costumée pour son anniversaire. Quand Bitzer perd tous les cartons d'invitation, Shaun trouve une idée de génie pour sauver la soirée...
-Justin Fletcher (Acteur) .. Shaun
-John Sparkes (Acteur) .. Bitzer
-Richard Webber (Acteur) .. Shirley.</desc>
-  </programme>
-  <programme start="20260330101400 +0000" stop="20260330101600 +0000" channel="France4.fr">
-    <title lang="fr">Les 3 Mousquetaires</title>
-    <sub-title lang="fr">S1E45 ║ Inès entre en scène ║ Série D'animation ║ 2024</sub-title>
-    <desc lang="fr">Inès rêve du jour où elle pourra accomplir son rêve : devenir comédienne. Troublée par cette confidence, d'Artagnan se met en tête de dissuader son amie de quitter les Mousquetaires. Elle ignore que si celle-ci s'éloigne de Paris à bord d'un chariot, ce n'est pas pour partir de la capitale, mais pour protéger secrétement Adémar de l'Adandur, venu signer un traité de paix et menacé par les sbires de Milady….</desc>
-  </programme>
-  <programme start="20260330101600 +0000" stop="20260330103700 +0000" channel="France4.fr">
-    <title lang="fr">Les 3 Mousquetaires</title>
-    <sub-title lang="fr">S1E46 ║ Adieu, D'Artagnan ║ Série D'animation ║ 2024</sub-title>
-    <desc lang="fr">D'Artagnan poursuit Grippe-Tout dans les rues de Paris, quand son fidèle destrier est soudain pris de panique. Elle est loin de se douter que c'est dû à une manigance de Jussac, qui s'est allié avec Grippe-Tout. Pensant que Planchet ne supporte plus Paris, d'Artagnan quitte la capitale pour rentrer en Gascogne… Elle ignore qu'elle laisse ainsi la place libre pour Jussac, qui ne compte pas s'arrêter là !</desc>
-  </programme>
-  <programme start="20260330103700 +0000" stop="20260330104800 +0000" channel="France4.fr">
-    <title lang="fr">Les 3 Mousquetaires</title>
-    <sub-title lang="fr">S1E47 ║ La vengeance de Milady ║ Série D'animation ║ 2024</sub-title>
-    <desc lang="fr">Richelieu trafique un jambon rare et cher volé dans la réserve personnelle du roi d'Espagne. Pour assurer la réussite de son coup, il remplace Milady par le colossal Viking, mercenaire réputé pour son machisme. Déterminée à retrouver sa place, Milady convainc D'Artagnan et les Trois Mousquetaires de s'associer à elle pour arrêter le Viking… et, ainsi, éviter une brouille dramatique entre la France et l'Espagne.</desc>
-  </programme>
-  <programme start="20260330104800 +0000" stop="20260330110100 +0000" channel="France4.fr">
-    <title lang="fr">Les 3 Mousquetaires</title>
-    <sub-title lang="fr">S1E48 ║ Le trésor ║ Série D'animation ║ 2024</sub-title>
-    <desc lang="fr">Paris, début du XVIIe siècle. Charlotte, Inès, Olivia et Isa rêvent de devenir des mousquetaires pour protéger et servir le jeune roi Louis XIII. Mais ce corps prestigieux est réservé aux hommes. Aussi, c'est masquées et sous les noms de D'Artagnan, Porthos, Aramis et Athos, que les quatre justicières déjouent les complots ourdis par Richelieu et Milady et ferraillent contre tous les ennemis du royaume de France.</desc>
-  </programme>
-  <programme start="20260330110100 +0000" stop="20260330111300 +0000" channel="France4.fr">
-    <title lang="fr">Belfort &amp; Lupin</title>
-    <sub-title lang="fr">S1E5 ║ Chien d'élite ║ Série De Dessins Animés ║ 2025</sub-title>
-    <desc lang="fr">Aujourd'hui, les chiens royaux doivent passer une épreuve devant le Roi : retrouver chacun un mouchoir parfumé en pleine forêt. Catastrophe pour Belfort dont la truffe ne fonctionne pas ! Cette fois, c'est sûr, il va décevoir son maître et finir au chenil ! Lupin, professionnel du flair, se lance dans un coaching pour réveiller la truffe de son ami. Mais rien à faire, Belfort ne sent rien ! Pour Lupin, il n'y a plus qu'une solution : tricher et trouver le mouchoir parfumé à la place de Belfort… Mais ce dernier ne peut se résoudre à faire une chose pareille !
-Alexandre Nguyen (Acteur) .. Belfort
-Hugo Brunswick (Acteur) .. Lupin
-Nathalie Homs (Acteur)
-Barbara Tissier (Acteur)
-Magali Rosenzweig (Acteur)
-Antoine Schoumsky (Acteur)
-Emmanuel Rausenberger (Acteur)
-Guillaume Beaujolais (Acteur).</desc>
-  </programme>
-  <programme start="20260330111300 +0000" stop="20260330112500 +0000" channel="France4.fr">
-    <title lang="fr">Belfort &amp; Lupin</title>
-    <sub-title lang="fr">S1E6 ║ Le carrousel de Bucéphale ║ Série De Dessins Animés ║ 2025</sub-title>
-    <desc lang="fr">Un grand spectacle équestre se prépare aux Grandes Ecuries de Versailles. Mais le noble cheval Bucéphale souffre d'un mal de jambe que personne ne semble pouvoir soigner ! Bucéphale est persuadé qu'il va être chassé des Ecuries et conduit au pré… Touchés par sa détresse, Belfort et Lupin vont tout faire pour lui permettre de guérir, de participer au carrousel, et ainsi garder sa place aux Ecuries Royales !
-Alexandre Nguyen (Acteur) .. Belfort
-Hugo Brunswick (Acteur) .. Lupin
-Nathalie Homs (Acteur)
-Barbara Tissier (Acteur)
-Magali Rosenzweig (Acteur)
-Antoine Schoumsky (Acteur)
-Emmanuel Rausenberger (Acteur)
-Guillaume Beaujolais (Acteur).</desc>
-  </programme>
-  <programme start="20260330112500 +0000" stop="20260330113000 +0000" channel="France4.fr">
-    <title lang="fr">Okoo-koo</title>
-    <sub-title lang="fr">Emission Jeunesse ║ 2026</sub-title>
-    <desc lang="fr">Okoo-koo est l'émission d'accueil et de divertissement quotidienne d'Okoo, portée par une bande de jeunes animateurs : Manon, Julia et Karim et Jason. Rendez-vous inspirant et véritable repère ouvert à tous les enfants dès 6-7 ans, Okoo-koo est l'émission où l'on partage, on discute, on cuisine, on découvre, on s'amuse. Point de contact chaleureux et sécurisé entre Okoo et son jeune public, notre bande retrouve les enfants tous les jours sur l'appli Okoo et sur France 4 à partir de 17h30. Okoo-koo les invite à partager des activités (contenus originaux), propose des trucs et astuces pour rendre la vie quotidienne plus marrante, un lieu de vie pour inventer ensemble le monde de demain.</desc>
-  </programme>
-  <programme start="20260330113000 +0000" stop="20260330115500 +0000" channel="France4.fr">
-    <title lang="fr">C'est toujours pas sorcier</title>
-    <sub-title lang="fr">S8E8 ║ Magazine Jeunesse ║ 2021</sub-title>
-    <desc lang="fr">L'archéologie est une discipline qui permet de mieux connaître nos ancêtres et leur mode de vie, en fouillant le sol pour découvrir des vestiges. Mais aujourd'hui, la discipline va beaucoup plus loin, en utilisant des technologies révolutionnaires : lidar, lasergrammétrie, datation au carbone 14… Grâce à l'aide de la science, les archéologues sont capables de retrouver des traces insoupçonnées, de donner une nouvelle vie à des objets vieux de plusieurs milliers d'années ! Bien loin d'être une science poussiéreuse, c'est aujourd'hui une discipline à la pointe de l'innovation. Mathieu va découvrir ce qu'est un champ de fouilles et ce que deviennent les objets découverts, comment ils sont restaurés. Cécile se rend au théâtre antique d'Orange pour découvrir la technique de la lasergrammétrie. Et Max nous explique en plateau les nouvelles technologies à disposition des archéologues.</desc>
-  </programme>
-  <programme start="20260330115500 +0000" stop="20260330121300 +0000" channel="France4.fr">
-    <title lang="fr">Un jour, une question</title>
-    <sub-title lang="fr">S10E ║ Infos Jeunesse ║ 2026</sub-title>
-    <desc lang="fr">1 jour 1 question est un programme d'actualité produit par des journalistes jeunesse qui répond aux questions d'enfants. Illustré par des dessins de presse, il traite avec humour de questions d'actu comme la guerre, le climat, la santé...</desc>
-  </programme>
-  <programme start="20260330121300 +0000" stop="20260330123600 +0000" channel="France4.fr">
-    <title lang="fr">ASKIP</title>
-    <sub-title lang="fr">S3E43 ║ Le jour des derniers choisis ║ Drame Jeunesse ║ 2022</sub-title>
-    <desc lang="fr">Efia, Maxime, Lou, Youcef, Jade, Rose et leurs copains sont élèves au collège François Truffaut de Sète. Tous différents, mais liés par une amitié indéfectible, ils racontent leur quotidien de pré-adolescents, entre complexes insurmontables, amours contrariées, difficultés à s'insérer, harcèlement ou crise du covid. Dans cette 3e saison, la série poursuit son exploration juste et tendre de la pré-adolescence en abordant des problématiques sérieuses sur un ton souvent drôle.
-Guillaume Auvert (Acteur) .. Jules
-Gabriel Caballero (Acteur) .. Maxime
-Nassima Benchicou (Acteur) .. Leila Faki
-Emilia Blayer (Acteur) .. Tom
-Agnès Miguras (Acteur) .. Sophie Chémène.</desc>
-  </programme>
-  <programme start="20260330123600 +0000" stop="20260330124200 +0000" channel="France4.fr">
-    <title lang="fr">ASKIP</title>
-    <sub-title lang="fr">S3E45 ║ Le jour du vaccin ║ Drame Jeunesse ║ 2022</sub-title>
-    <desc lang="fr">Efia, Maxime, Lou, Youcef, Jade, Rose et leurs copains sont élèves au collège François Truffaut de Sète. Tous différents, mais liés par une amitié indéfectible, ils racontent leur quotidien de pré-adolescents, entre complexes insurmontables, amours contrariées, difficultés à s'insérer, harcèlement ou crise du covid. Dans cette 3e saison, la série poursuit son exploration juste et tendre de la pré-adolescence en abordant des problématiques sérieuses sur un ton souvent drôle.
-Guillaume Auvert (Acteur) .. Jules
-Gabriel Caballero (Acteur) .. Maxime
-Nassima Benchicou (Acteur) .. Leila Faki
-Emilia Blayer (Acteur) .. Tom
-Agnès Miguras (Acteur) .. Sophie Chémène.</desc>
-  </programme>
-  <programme start="20260330124200 +0000" stop="20260330130700 +0000" channel="France4.fr">
-    <title lang="fr">L'Académie des Super-Héros</title>
-    <sub-title lang="fr">S1E13 ║ Edgaz et les Quatre Prodigieux ║ Série Comédie ║ 2022</sub-title>
-    <desc lang="fr">Après avoir fait pipi dans son thermos la nuit, Uno tombe sur Toundra, et échange, sans le vouloir, son thermos avec celui de sa professeure. Il doit le récupérer avant qu'elle l'ouvre et en boive une gorgée ! Pendant le cours sur les armes, Archivolt est exposé par erreur à la potion d'amour d'Alpha et tombe éperdument amoureux de la première chose qu'il voit, un rideau.
-Kadir Duran (Acteur) .. Edgar
-Bjørn Isak Winther (Acteur) .. Raymond
-Natalia Dellaporta (Acteur) .. Alpha
-Elita Marie Mack Roald (Acteur) .. Tellie
-Nils Peder Vassnes (Acteur) .. Uno
-Selome Emnetu (Acteur) .. Tundra
-Olli Wermskog (Acteur) .. Tordenbolt
-Birgitte Victoria Svendsen (Acteur) .. Lintellectuelle
-John F. Brungot (Acteur) .. Johan
-Storm Berge-Flataker (Acteur).</desc>
-  </programme>
-  <programme start="20260330130700 +0000" stop="20260330131500 +0000" channel="France4.fr">
-    <title lang="fr">L'Académie des Super-Héros</title>
-    <sub-title lang="fr">S2E1 ║ Rentrée des classes ║ Série Comédie ║ 2022</sub-title>
-    <desc lang="fr">Après avoir fait pipi dans son thermos la nuit, Uno tombe sur Toundra, et échange, sans le vouloir, son thermos avec celui de sa professeure. Il doit le récupérer avant qu'elle l'ouvre et en boive une gorgée ! Pendant le cours sur les armes, Archivolt est exposé par erreur à la potion d'amour d'Alpha et tombe éperdument amoureux de la première chose qu'il voit, un rideau.
-Kadir Duran (Acteur) .. Edgar
-Bjørn Isak Winther (Acteur) .. Raymond
-Natalia Dellaporta (Acteur) .. Alpha
-Elita Marie Mack Roald (Acteur) .. Tellie
-Nils Peder Vassnes (Acteur) .. Uno
-Selome Emnetu (Acteur) .. Tundra
-Olli Wermskog (Acteur) .. Tordenbolt
-Birgitte Victoria Svendsen (Acteur) .. Lintellectuelle
-John F. Brungot (Acteur) .. Johan
-Storm Berge-Flataker (Acteur).</desc>
-  </programme>
-  <programme start="20260330131500 +0000" stop="20260330133600 +0000" channel="France4.fr">
-    <title lang="fr">Héros à moitié</title>
-    <sub-title lang="fr">S1E20 ║ Braquage avec les pieds ║ Série D'animation ║ 2021</sub-title>
-    <desc lang="fr">Catastrophe ! Mo a oublié de faire son devoir d'art plastique. Ni une ni deux, il embarque un pied anatomique appartenant à sa mère et le fait passer pour une oeuvre d'art. Ça marche mais Sélina se rend vite compte de la disparition du pied et menace de punir Mo. De plus, dans le pied se trouve le jeu vidéo préféré de Mo que Sélina avait confisqué et caché ! Mo tente vite de récupérer le pied mais il a été mis sous clé dans le placard à oeuvre d'arts de Brick. Mo ne le récupéra pas avant la fin de l'année ! Mo est obligé de monter un braquage du bureau de Brick pour le récupérer...
-Thomas Sagols (Acteur) .. Mo
-Fanny Bloc (Acteur) .. Sam
-Emmanuel Curtil (Acteur) .. M. Brick
-Adeline Chetail (Acteur) .. Stella
-Benjamin Bollen (Acteur) .. John-Cédric
-Yoann Sover (Acteur) .. M. Tataillé
-Claire Baradat (Acteur) .. Angèle
-Emmanuel Garijo (Acteur) .. Rodolf.</desc>
-  </programme>
-  <programme start="20260330133600 +0000" stop="20260330133700 +0000" channel="France4.fr">
-    <title lang="fr">Héros à moitié</title>
-    <sub-title lang="fr">S1E21 ║ Ouvrez les vannes ║ Série D'animation ║ 2021</sub-title>
-    <desc lang="fr">Ce soir, Sam doit participer à un concours d'éloquence que toutes les filles de la famille (sa mère, sa grand-mère, ...) ont gagné en leur temps. La fillette est ultra angoissée et réalise que quand elle stresse, elle n'a plus de répondant. Pour éviter la catastrophe, elle demande au sceptre le pouvoir d'avoir des réparties qui claquent. Mais problème : avec le pouvoir à moitié, ce ne sont pas des répliques bien senties qui fusent mais un langage pour le moins fleuri... C'est le début des problèmes !
-Thomas Sagols (Acteur) .. Mo
-Fanny Bloc (Acteur) .. Sam
-Emmanuel Curtil (Acteur) .. M. Brick
-Adeline Chetail (Acteur) .. Stella
-Benjamin Bollen (Acteur) .. John-Cédric
-Yoann Sover (Acteur) .. M. Tataillé
-Claire Baradat (Acteur) .. Angèle
-Emmanuel Garijo (Acteur) .. Rodolf.</desc>
-  </programme>
-  <programme start="20260330133700 +0000" stop="20260330135700 +0000" channel="France4.fr">
-    <title lang="fr">Héros à moitié</title>
-    <sub-title lang="fr">S1E22 ║ Un problème de taille ║ Série D'animation ║ 2021</sub-title>
-    <desc lang="fr">Les élèves doivent préparer un exposé sur le système solaire. Sam est aux anges mais son enthousiasme est modéré quand Angèle lui propose de faire l'exposé ensemble. Horreur ! Pour éloigner la déléguée, Sam explique qu'elle préfère le faire seule. Mais quand la rumeur prétend qu'Angèle prépare quelque chose de dément, Sam prise d'une grosse bouffée de curiosité et d'orgueil, veut en savoir plus mais sans l'avouer à Angèle. Pour ça, il faut qu'elle aille voir le projet en toute discrétion... Ainsi, afin de se faufiler comme une petite souris chez Angèle et revenir ensuite à sa taille normale, Sam demande au Sceptre le pouvoir de changer de taille.
-Thomas Sagols (Acteur) .. Mo
-Fanny Bloc (Acteur) .. Sam
-Emmanuel Curtil (Acteur) .. M. Brick
-Adeline Chetail (Acteur) .. Stella
-Benjamin Bollen (Acteur) .. John-Cédric
-Yoann Sover (Acteur) .. M. Tataillé
-Claire Baradat (Acteur) .. Angèle
-Emmanuel Garijo (Acteur) .. Rodolf.</desc>
-  </programme>
-  <programme start="20260330135700 +0000" stop="20260330135800 +0000" channel="France4.fr">
-    <title lang="fr">Héros à moitié</title>
-    <sub-title lang="fr">S1E23 ║ Frankensam ║ Série D'animation ║ 2021</sub-title>
-    <desc lang="fr">Sam est élue super écoresponsable de la classe pour son programme de recyclage de vieux jouets. Mais quand il s'agit de recycler les vieilles poupées qu'elle aimait tant enfant, Sam a un coup au coeur. Pour les sauver, elle demande le pouvoir de donner une nouvelle vie aux objets abimés. Mais le demi-pouvoir au lieu de réparer les poupées, leur donne vie et les poupées s'enfuient. Sam va devoir trouver une solution pour que personne ne s'aperçoive qu'elle a essayé de déjouer son propre programme.
-Thomas Sagols (Acteur) .. Mo
-Fanny Bloc (Acteur) .. Sam
-Emmanuel Curtil (Acteur) .. M. Brick
-Adeline Chetail (Acteur) .. Stella
-Benjamin Bollen (Acteur) .. John-Cédric
-Yoann Sover (Acteur) .. M. Tataillé
-Claire Baradat (Acteur) .. Angèle
-Emmanuel Garijo (Acteur) .. Rodolf.</desc>
-  </programme>
-  <programme start="20260330135800 +0000" stop="20260330141800 +0000" channel="France4.fr">
-    <title lang="fr">Héros à moitié</title>
-    <sub-title lang="fr">S1E24 ║ La guerre des trônes ║ Série D'animation ║ 2021</sub-title>
-    <desc lang="fr">Depuis qu'il leur a appris que Timothy Bloom, la star d'Hollywood, était son cousin, des courtisans s'amassent autour de JC au sein de l'école et lui proposent tout plein de services. Sam et Stella sont ulcérées par cet abus de pouvoir. Mo, lui, s'en fiche... du moins jusqu'à ce qu'il soit empêché d'aller aux toilettes, sous prétexte que JC en a fait son QG. C'est la goutte d'eau qui fait déborder la cuvette ! Bien décidé à siphonner la cour de JC, le garçon demande illico au sceptre le pouvoir de faire de n'importe qui son courtisan. Mais problème : avec le pouvoir à moitié, ses courtisans sont carrément maladroits et plutôt envahissants...
-Thomas Sagols (Acteur) .. Mo
-Fanny Bloc (Acteur) .. Sam
-Emmanuel Curtil (Acteur) .. M. Brick
-Adeline Chetail (Acteur) .. Stella
-Benjamin Bollen (Acteur) .. John-Cédric
-Yoann Sover (Acteur) .. M. Tataillé
-Claire Baradat (Acteur) .. Angèle
-Emmanuel Garijo (Acteur) .. Rodolf.</desc>
-  </programme>
-  <programme start="20260330141800 +0000" stop="20260330142100 +0000" channel="France4.fr">
-    <title lang="fr">Héros à moitié</title>
-    <sub-title lang="fr">S1E25 ║ Incalculables ║ Série D'animation ║ 2021</sub-title>
-    <desc lang="fr">Mo en a marre d'être toujours choisi. Dès qu'il faut envoyer un élève au tableau ou faire une corvée : c'est toujours sur lui que ça tombe ! Quand M. Brick cherche un binôme pour John-Cédric dans le cadre de la journée 'j'aime mon école', il décide d'utiliser le Spectre Spectral pour ne plus être choisi, devenir transparent, incalculable. Mais c'est son pote Rodolf qui est désigné à sa place. Mo va apprendre qu'il faut parfois sortir du rang pour venir en aide à ses amis.
-Thomas Sagols (Acteur) .. Mo
-Fanny Bloc (Acteur) .. Sam
-Emmanuel Curtil (Acteur) .. M. Brick
-Adeline Chetail (Acteur) .. Stella
-Benjamin Bollen (Acteur) .. John-Cédric
-Yoann Sover (Acteur) .. M. Tataillé
-Claire Baradat (Acteur) .. Angèle
-Emmanuel Garijo (Acteur) .. Rodolf.</desc>
-  </programme>
-  <programme start="20260330142100 +0000" stop="20260330143200 +0000" channel="France4.fr">
-    <title lang="fr">Molusco</title>
-    <sub-title lang="fr">S1E4 ║ Terminaprof ║ Série De Dessins Animés ║ 2014</sub-title>
-    <desc lang="fr">Petit garçon mi-huître mi-humain, Molusco est différent. En effet, quel autre enfant comprend le langage des baleines, possède une coquille qui parle ou peut fabriquer des perles en mangeant de la craie bien calcaire? Pourtant, Molusco n'a qu'un souhait : vivre la vie normale et épanouie d'un enfant de 11 ans... et une seule crainte : que son secret soit découvert. Comment les autres pourraient-ils aimer un mollusque ? Le monde est-il prêt à accueillir cet être hors du commun ? Ainsi, entre cour de récré et contrôles de maths, bagarres et histoires de coeur, un épisode typique de la série nous fait partager le quotidien semé d'embûches de Molusco qui tente de vivre pleinement la vie d'un enfant de son âge, tout en préservant le secret de ses origines... La vie de petit garçon n'est pas facile quand on est une huître...
-Marc Bretonnière (Acteur) .. Mr. Pluss
-Matthew Forbes (Acteur) .. Shelby
-Emmanuel Garijo (Acteur) .. Shelby
-Rasmus Hardiker (Acteur) .. Rafik
-Akie Kotabe (Acteur) .. Boyster
-Caroline Mozzone (Acteur) .. Alicia
-Rob Rackstraw (Acteur) .. Mr. Pluss
-Donald Reignoux (Acteur) .. Rafik
-Jeff Schjerlund (Acteur) .. Rafik / Ozzy
-Yoann Sover (Acteur) .. Boyster.</desc>
-  </programme>
-  <programme start="20260330143200 +0000" stop="20260330145200 +0000" channel="France4.fr">
-    <title lang="fr">Molusco</title>
-    <sub-title lang="fr">S1E5 ║ Coup de foudre ║ Série De Dessins Animés ║ 2014</sub-title>
-    <desc lang="fr">Petit garçon mi-huître mi-humain, Molusco est différent. En effet, quel autre enfant comprend le langage des baleines, possède une coquille qui parle ou peut fabriquer des perles en mangeant de la craie bien calcaire? Pourtant, Molusco n'a qu'un souhait : vivre la vie normale et épanouie d'un enfant de 11 ans... et une seule crainte : que son secret soit découvert. Comment les autres pourraient-ils aimer un mollusque ? Le monde est-il prêt à accueillir cet être hors du commun ? Ainsi, entre cour de récré et contrôles de maths, bagarres et histoires de coeur, un épisode typique de la série nous fait partager le quotidien semé d'embûches de Molusco qui tente de vivre pleinement la vie d'un enfant de son âge, tout en préservant le secret de ses origines... La vie de petit garçon n'est pas facile quand on est une huître...
-Marc Bretonnière (Acteur) .. Mr. Pluss
-Matthew Forbes (Acteur) .. Shelby
-Emmanuel Garijo (Acteur) .. Shelby
-Rasmus Hardiker (Acteur) .. Rafik
-Akie Kotabe (Acteur) .. Boyster
-Caroline Mozzone (Acteur) .. Alicia
-Rob Rackstraw (Acteur) .. Mr. Pluss
-Donald Reignoux (Acteur) .. Rafik
-Jeff Schjerlund (Acteur) .. Rafik / Ozzy
-Yoann Sover (Acteur) .. Boyster.</desc>
-  </programme>
-  <programme start="20260330145200 +0000" stop="20260330150300 +0000" channel="France4.fr">
-    <title lang="fr">Molusco</title>
-    <sub-title lang="fr">S1E6 ║ Par amour de l'art ║ Série De Dessins Animés ║ 2014</sub-title>
-    <desc lang="fr">Petit garçon mi-huître mi-humain, Molusco est différent. En effet, quel autre enfant comprend le langage des baleines, possède une coquille qui parle ou peut fabriquer des perles en mangeant de la craie bien calcaire? Pourtant, Molusco n'a qu'un souhait : vivre la vie normale et épanouie d'un enfant de 11 ans... et une seule crainte : que son secret soit découvert. Comment les autres pourraient-ils aimer un mollusque ? Le monde est-il prêt à accueillir cet être hors du commun ? Ainsi, entre cour de récré et contrôles de maths, bagarres et histoires de coeur, un épisode typique de la série nous fait partager le quotidien semé d'embûches de Molusco qui tente de vivre pleinement la vie d'un enfant de son âge, tout en préservant le secret de ses origines... La vie de petit garçon n'est pas facile quand on est une huître...
-Marc Bretonnière (Acteur) .. Mr. Pluss
-Matthew Forbes (Acteur) .. Shelby
-Emmanuel Garijo (Acteur) .. Shelby
-Rasmus Hardiker (Acteur) .. Rafik
-Akie Kotabe (Acteur) .. Boyster
-Caroline Mozzone (Acteur) .. Alicia
-Rob Rackstraw (Acteur) .. Mr. Pluss
-Donald Reignoux (Acteur) .. Rafik
-Jeff Schjerlund (Acteur) .. Rafik / Ozzy
-Yoann Sover (Acteur) .. Boyster.</desc>
-  </programme>
-  <programme start="20260330150300 +0000" stop="20260330151500 +0000" channel="France4.fr">
-    <title lang="fr">Molusco</title>
-    <sub-title lang="fr">S1E7 ║ Un nouvel ami ║ Série De Dessins Animés ║ 2014</sub-title>
-    <desc lang="fr">Petit garçon mi-huître mi-humain, Molusco est différent. En effet, quel autre enfant comprend le langage des baleines, possède une coquille qui parle ou peut fabriquer des perles en mangeant de la craie bien calcaire? Pourtant, Molusco n'a qu'un souhait : vivre la vie normale et épanouie d'un enfant de 11 ans... et une seule crainte : que son secret soit découvert. Comment les autres pourraient-ils aimer un mollusque ? Le monde est-il prêt à accueillir cet être hors du commun ? Ainsi, entre cour de récré et contrôles de maths, bagarres et histoires de coeur, un épisode typique de la série nous fait partager le quotidien semé d'embûches de Molusco qui tente de vivre pleinement la vie d'un enfant de son âge, tout en préservant le secret de ses origines... La vie de petit garçon n'est pas facile quand on est une huître...
-Marc Bretonnière (Acteur) .. Mr. Pluss
-Matthew Forbes (Acteur) .. Shelby
-Emmanuel Garijo (Acteur) .. Shelby
-Rasmus Hardiker (Acteur) .. Rafik
-Akie Kotabe (Acteur) .. Boyster
-Caroline Mozzone (Acteur) .. Alicia
-Rob Rackstraw (Acteur) .. Mr. Pluss
-Donald Reignoux (Acteur) .. Rafik
-Jeff Schjerlund (Acteur) .. Rafik / Ozzy
-Yoann Sover (Acteur) .. Boyster.</desc>
-  </programme>
-  <programme start="20260330151500 +0000" stop="20260330153700 +0000" channel="France4.fr">
-    <title lang="fr">Mystery Lane</title>
-    <sub-title lang="fr">S1E26 ║ La cause ║ Série D'animation ║ 2022</sub-title>
-    <desc lang="fr">A Londres, dans le quartier de Lexington, Clever, une cochon d'Inde au sens aiguisé de l'observation, et Bro, son frère un peu impulsif, se lancent dans des enquêtes policières. Les deux s'attaquent à des affaires complexes que même Scotland Yard ne parvient à résoudre depuis des années.
-Kaycie Chase (Acteur) .. Clever
-Andy Chase (Acteur)
-Rudi James Jephcott (Acteur)
-Doug Rand (Acteur)
-Barbara Scaff (Acteur)
-Benoît Du Pac (Acteur)
-Martial Le Minoux (Acteur)
-Guillaume Orsat (Acteur)
-Jérémy Prévost (Acteur)
-Barbara Tissier (Acteur).</desc>
-  </programme>
-  <programme start="20260330153700 +0000" stop="20260330155200 +0000" channel="France4.fr">
-    <title lang="fr">Mystery Lane</title>
-    <sub-title lang="fr">S1E1 ║ Le voleur invisible ║ Série D'animation ║ 2022</sub-title>
-    <desc lang="fr">Clever est la cochon d'Inde la plus intelligente du monde. Et cet esprit hors du commun est au service d'une noble cause : la justice. Ou la vérité. Ou les deux si possible. Car Clever enquête, et pas n'importe où. Au coeur du Londres mystérieux et brumeux à souhaits, Clever résout les mystères les plus épais qui touchent les animaux de compagnie londoniens et leurs maîtres.
-Kaycie Chase (Acteur) .. Clever
-Andy Chase (Acteur)
-Rudi James Jephcott (Acteur)
-Doug Rand (Acteur)
-Barbara Scaff (Acteur)
-Benoît Du Pac (Acteur)
-Martial Le Minoux (Acteur)
-Guillaume Orsat (Acteur)
-Jérémy Prévost (Acteur)
-Barbara Tissier (Acteur).</desc>
-  </programme>
-  <programme start="20260330155200 +0000" stop="20260330160800 +0000" channel="France4.fr">
-    <title lang="fr">Okoo-koo</title>
-    <sub-title lang="fr">Emission du 30 mars 2026 ║ Emission Jeunesse ║ 2026</sub-title>
-    <desc lang="fr">Okoo-koo est l'émission d'accueil et de divertissement quotidienne d'Okoo, portée par une bande de jeunes animateurs : Manon, Julia et Karim et Jason. Rendez-vous inspirant et véritable repère ouvert à tous les enfants dès 6-7 ans, Okoo-koo est l'émission où l'on partage, on discute, on cuisine, on découvre, on s'amuse. Point de contact chaleureux et sécurisé entre Okoo et son jeune public, notre bande retrouve les enfants tous les jours sur l'appli Okoo et sur France 4 à partir de 17h30. Okoo-koo les invite à partager des activités (contenus originaux), propose des trucs et astuces pour rendre la vie quotidienne plus marrante, un lieu de vie pour inventer ensemble le monde de demain.</desc>
-  </programme>
-  <programme start="20260330160800 +0000" stop="20260330162100 +0000" channel="France4.fr">
-    <title lang="fr">Les aventures de Pil</title>
-    <sub-title lang="fr">S1E20 ║ La demoiselle du Rock Fort ║ Série D'animation ║ 2026</sub-title>
-    <desc lang="fr">Pil est une fillette vive et malicieuse, une véritable petite rebelle capable aussi bien de bondir de toit en toit que de se glisser dans les habits d'une princesse. Dans la cité médiévale de Roc-en-Brume, elle protège avec courage les habitants, épaulée par Crobar, le chevalier gaffeur, et Rigolin, le bouffon fantasque, ses fidèles compagnons. Après le succès du long métrage "Pil"; ses créateurs reviennent avec une série d'animation qui leur donne l'occasion d'étoffer l'histoire de chacun de ses personnages attachants.</desc>
-  </programme>
-  <programme start="20260330162100 +0000" stop="20260330162400 +0000" channel="France4.fr">
-    <title lang="fr">Les aventures de Pil</title>
-    <sub-title lang="fr">S1E21 ║ Des vacances parfaites ║ Série D'animation ║ 2026</sub-title>
-    <desc lang="fr">Pil est une fillette vive et malicieuse, une véritable petite rebelle capable aussi bien de bondir de toit en toit que de se glisser dans les habits d'une princesse. Dans la cité médiévale de Roc-en-Brume, elle protège avec courage les habitants, épaulée par Crobar, le chevalier gaffeur, et Rigolin, le bouffon fantasque, ses fidèles compagnons. Après le succès du long métrage "Pil"; ses créateurs reviennent avec une série d'animation qui leur donne l'occasion d'étoffer l'histoire de chacun de ses personnages attachants.</desc>
-  </programme>
-  <programme start="20260330162400 +0000" stop="20260330164200 +0000" channel="France4.fr">
-    <title lang="fr">Okoo-koo</title>
-    <sub-title lang="fr">Emission du 30 mars 2026 ║ Emission Jeunesse ║ 2026</sub-title>
-    <desc lang="fr">Okoo-koo est l'émission d'accueil et de divertissement quotidienne d'Okoo, portée par une bande de jeunes animateurs : Manon, Julia et Karim et Jason. Rendez-vous inspirant et véritable repère ouvert à tous les enfants dès 6-7 ans, Okoo-koo est l'émission où l'on partage, on discute, on cuisine, on découvre, on s'amuse. Point de contact chaleureux et sécurisé entre Okoo et son jeune public, notre bande retrouve les enfants tous les jours sur l'appli Okoo et sur France 4 à partir de 17h30. Okoo-koo les invite à partager des activités (contenus originaux), propose des trucs et astuces pour rendre la vie quotidienne plus marrante, un lieu de vie pour inventer ensemble le monde de demain.</desc>
-  </programme>
-  <programme start="20260330164200 +0000" stop="20260330164500 +0000" channel="France4.fr">
-    <title lang="fr">Les aventures de Pil</title>
-    <sub-title lang="fr">S1E22 ║ Il faut sauver le Bouffon Rigolin ║ Série D'animation ║ 2026</sub-title>
-    <desc lang="fr">Pil est une fillette vive et malicieuse, une véritable petite rebelle capable aussi bien de bondir de toit en toit que de se glisser dans les habits d'une princesse. Dans la cité médiévale de Roc-en-Brume, elle protège avec courage les habitants, épaulée par Crobar, le chevalier gaffeur, et Rigolin, le bouffon fantasque, ses fidèles compagnons. Après le succès du long métrage "Pil"; ses créateurs reviennent avec une série d'animation qui leur donne l'occasion d'étoffer l'histoire de chacun de ses personnages attachants.</desc>
-  </programme>
-  <programme start="20260330164500 +0000" stop="20260330165700 +0000" channel="France4.fr">
-    <title lang="fr">Les aventures de Pil</title>
-    <sub-title lang="fr">S1E23 ║ Fais le Beau ║ Série D'animation ║ 2026</sub-title>
-    <desc lang="fr">Pil est une fillette vive et malicieuse, une véritable petite rebelle capable aussi bien de bondir de toit en toit que de se glisser dans les habits d'une princesse. Dans la cité médiévale de Roc-en-Brume, elle protège avec courage les habitants, épaulée par Crobar, le chevalier gaffeur, et Rigolin, le bouffon fantasque, ses fidèles compagnons. Après le succès du long métrage "Pil"; ses créateurs reviennent avec une série d'animation qui leur donne l'occasion d'étoffer l'histoire de chacun de ses personnages attachants.</desc>
-  </programme>
-  <programme start="20260330165700 +0000" stop="20260330170600 +0000" channel="France4.fr">
-    <title lang="fr">Okoo-koo</title>
-    <sub-title lang="fr">Emission du 30 mars 2026 ║ Emission Jeunesse ║ 2026</sub-title>
-    <desc lang="fr">Okoo-koo est l'émission d'accueil et de divertissement quotidienne d'Okoo, portée par une bande de jeunes animateurs : Manon, Julia et Karim et Jason. Rendez-vous inspirant et véritable repère ouvert à tous les enfants dès 6-7 ans, Okoo-koo est l'émission où l'on partage, on discute, on cuisine, on découvre, on s'amuse. Point de contact chaleureux et sécurisé entre Okoo et son jeune public, notre bande retrouve les enfants tous les jours sur l'appli Okoo et sur France 4 à partir de 17h30. Okoo-koo les invite à partager des activités (contenus originaux), propose des trucs et astuces pour rendre la vie quotidienne plus marrante, un lieu de vie pour inventer ensemble le monde de demain.</desc>
-  </programme>
-  <programme start="20260330170600 +0000" stop="20260330171300 +0000" channel="France4.fr">
-    <title lang="fr">Bluey</title>
-    <sub-title lang="fr">S2E15 ║ Les trains ║ Série D'animation ║ 2018</sub-title>
-    <desc lang="fr">Bluey est de retour, avec sa petite sœur Bingo, pour transformer la vie de tous les jours en jeu amusant ! Quand Bluey est invitée à une fête d'anniversaire, Bingo utilise sa plume magique pour rendre les préparatifs difficiles. Lorsque c'est au tour de papa d'emmener les filles à l'école, le duo des Heeler juniors va assurément lui compliquer la tâche. Grâce à son imagination sans limites et avec sa sœur à ses côtés, Bluey continue de diriger sa petite famille dans les jeux… comme dans tout le reste.
-David McCormack (Acteur) .. Dad
-Melanie Zanetti (Acteur) .. Mum.</desc>
-  </programme>
-  <programme start="20260330171300 +0000" stop="20260330172900 +0000" channel="France4.fr">
-    <title lang="fr">Bluey</title>
-    <sub-title lang="fr">S2E23 ║ Les reines ║ Série D'animation ║ 2018</sub-title>
-    <desc lang="fr">Bluey est de retour, avec sa petite sœur Bingo, pour transformer la vie de tous les jours en jeu amusant ! Quand Bluey est invitée à une fête d'anniversaire, Bingo utilise sa plume magique pour rendre les préparatifs difficiles. Lorsque c'est au tour de papa d'emmener les filles à l'école, le duo des Heeler juniors va assurément lui compliquer la tâche. Grâce à son imagination sans limites et avec sa sœur à ses côtés, Bluey continue de diriger sa petite famille dans les jeux… comme dans tout le reste.
-David McCormack (Acteur) .. Dad
-Melanie Zanetti (Acteur) .. Mum.</desc>
-  </programme>
-  <programme start="20260330172900 +0000" stop="20260330173000 +0000" channel="France4.fr">
-    <title lang="fr">Bluey</title>
-    <sub-title lang="fr">S2E24 ║ Le meuble en kit ║ Série D'animation ║ 2018</sub-title>
-    <desc lang="fr">Bluey est de retour, avec sa petite sœur Bingo, pour transformer la vie de tous les jours en jeu amusant ! Quand Bluey est invitée à une fête d'anniversaire, Bingo utilise sa plume magique pour rendre les préparatifs difficiles. Lorsque c'est au tour de papa d'emmener les filles à l'école, le duo des Heeler juniors va assurément lui compliquer la tâche. Grâce à son imagination sans limites et avec sa sœur à ses côtés, Bluey continue de diriger sa petite famille dans les jeux… comme dans tout le reste.
-David McCormack (Acteur) .. Dad
-Melanie Zanetti (Acteur) .. Mum.</desc>
-  </programme>
-  <programme start="20260330173000 +0000" stop="20260330173100 +0000" channel="France4.fr">
-    <title lang="fr">Bluey</title>
-    <sub-title lang="fr">S2E16 ║ L'armée ║ Série D'animation ║ 2018</sub-title>
-    <desc lang="fr">Bluey est de retour, avec sa petite sœur Bingo, pour transformer la vie de tous les jours en jeu amusant ! Quand Bluey est invitée à une fête d'anniversaire, Bingo utilise sa plume magique pour rendre les préparatifs difficiles. Lorsque c'est au tour de papa d'emmener les filles à l'école, le duo des Heeler juniors va assurément lui compliquer la tâche. Grâce à son imagination sans limites et avec sa sœur à ses côtés, Bluey continue de diriger sa petite famille dans les jeux… comme dans tout le reste.
-David McCormack (Acteur) .. Dad
-Melanie Zanetti (Acteur) .. Mum.</desc>
-  </programme>
-  <programme start="20260330173100 +0000" stop="20260330173200 +0000" channel="France4.fr">
-    <title lang="fr">Bluey</title>
-    <sub-title lang="fr">S2E17 ║ Le restaurant de luxe ║ Série D'animation ║ 2018</sub-title>
-    <desc lang="fr">Bluey est de retour, avec sa petite sœur Bingo, pour transformer la vie de tous les jours en jeu amusant ! Quand Bluey est invitée à une fête d'anniversaire, Bingo utilise sa plume magique pour rendre les préparatifs difficiles. Lorsque c'est au tour de papa d'emmener les filles à l'école, le duo des Heeler juniors va assurément lui compliquer la tâche. Grâce à son imagination sans limites et avec sa sœur à ses côtés, Bluey continue de diriger sa petite famille dans les jeux… comme dans tout le reste.
-David McCormack (Acteur) .. Dad
-Melanie Zanetti (Acteur) .. Mum.</desc>
-  </programme>
-  <programme start="20260330173200 +0000" stop="20260330173300 +0000" channel="France4.fr">
-    <title lang="fr">Bluey</title>
-    <sub-title lang="fr">S2E6 ║ La fête des souches ║ Série D'animation ║ 2018</sub-title>
-    <desc lang="fr">Bluey est de retour, avec sa petite sœur Bingo, pour transformer la vie de tous les jours en jeu amusant ! Quand Bluey est invitée à une fête d'anniversaire, Bingo utilise sa plume magique pour rendre les préparatifs difficiles. Lorsque c'est au tour de papa d'emmener les filles à l'école, le duo des Heeler juniors va assurément lui compliquer la tâche. Grâce à son imagination sans limites et avec sa sœur à ses côtés, Bluey continue de diriger sa petite famille dans les jeux… comme dans tout le reste.
-David McCormack (Acteur) .. Dad
-Melanie Zanetti (Acteur) .. Mum.</desc>
-  </programme>
-  <programme start="20260330173300 +0000" stop="20260330173800 +0000" channel="France4.fr">
-    <title lang="fr">Bluey</title>
-    <sub-title lang="fr">S2E19 ║ Le spectacle ║ Série D'animation ║ 2018</sub-title>
-    <desc lang="fr">Bluey est de retour, avec sa petite sœur Bingo, pour transformer la vie de tous les jours en jeu amusant ! Quand Bluey est invitée à une fête d'anniversaire, Bingo utilise sa plume magique pour rendre les préparatifs difficiles. Lorsque c'est au tour de papa d'emmener les filles à l'école, le duo des Heeler juniors va assurément lui compliquer la tâche. Grâce à son imagination sans limites et avec sa sœur à ses côtés, Bluey continue de diriger sa petite famille dans les jeux… comme dans tout le reste.
-David McCormack (Acteur) .. Dad
-Melanie Zanetti (Acteur) .. Mum.</desc>
-  </programme>
-  <programme start="20260330173800 +0000" stop="20260330181800 +0000" channel="France4.fr">
-    <title lang="fr">Les maternelles XXL</title>
-    <sub-title lang="fr">Famille + Education ║ 2026</sub-title>
-    <desc lang="fr">Les Maternelles XXL c'est la maison qui s'agrandit. L'émission iconique ouvre encore plus grand ses portes pour accueillir toutes les générations : jeunes parents, enfants, ados, grands parents et toutes les formes de famille. Marie Portolano, accompagnée par Houssem Loussaief et toute la bande des Maternelles XXL explore la vie de famille sous toutes ses formes : parentalité, enfance, adolescence, grands bouleversements du quotidien, tendances éducatives et sociétales. Grâce au tchat en direct, aux vidéos envoyées par les tvsp, aux votes en live, le talk est connecté à son époque, utile et joyeux.</desc>
-  </programme>
-  <programme start="20260330181800 +0000" stop="20260330185000 +0000" channel="France4.fr">
-    <title lang="fr">Les maternelles XXL</title>
-    <sub-title lang="fr">Famille + Education ║ 2026</sub-title>
-    <desc lang="fr">Les Maternelles XXL c'est la maison qui s'agrandit. L'émission iconique ouvre encore plus grand ses portes pour accueillir toutes les générations : jeunes parents, enfants, ados, grands parents et toutes les formes de famille. Marie Portolano, accompagnée par Houssem Loussaief et toute la bande des Maternelles XXL explore la vie de famille sous toutes ses formes : parentalité, enfance, adolescence, grands bouleversements du quotidien, tendances éducatives et sociétales. Grâce au tchat en direct, aux vidéos envoyées par les tvsp, aux votes en live, le talk est connecté à son époque, utile et joyeux.</desc>
-  </programme>
-  <programme start="20260330185000 +0000" stop="20260330185500 +0000" channel="France4.fr">
-    <title lang="fr">Consomag</title>
-    <sub-title lang="fr">Economie + Consommation ║ 2026</sub-title>
-    <desc lang="fr">Le magazine de l'Institut national de la consommation donne à chacun des conseils pratiques pour mieux consommer, toutes les thématiques peuvent être abordées autour de nos achats.</desc>
-  </programme>
-  <programme start="20260330185500 +0000" stop="20260330190000 +0000" channel="France4.fr">
-    <title lang="fr">Stances</title>
-    <sub-title lang="fr">Littérature ║ 2026</sub-title>
-    <desc lang="fr">Production: Electron Libre Productions (Mediawan), Yannis Chebbi, Michael Kazan Stances est un programme court dédié à la poésie française et internationale, conçu comme une parenthèse enchantée dans notre quotidien saturé d'informations. Il remet la poésie au cœur de la vie, lui rendant ainsi sa puissance d'évocation et son ancrage dans le réel. Des interprètes provenant de tous les horizons, célèbres ou moins célèbres, s'empareront d'un poème choisi dans la poésie mondiale et de tous les siècles.</desc>
-  </programme>
-  <programme start="20260330190000 +0000" stop="20260330203000 +0000" channel="France4.fr">
-    <title lang="fr">Les trésors du Paris des Années folles</title>
-    <sub-title lang="fr">Art + Culture ║ 2021</sub-title>
-    <desc lang="fr">Sophie Jovillard part à la découverte des trésors du Paris des Années folles. Entre 1919 et 1929, la capitale foisonne. Elle est alors la ville cosmopolite par excellence : le quartier Montparnasse et ses fameuses brasseries du carrefour Vavin accueille une génération d'artistes comme Modigliani, Foujita ou Man Ray dont l'âme emplit toujours ces restaurants de légende. C'est là qu'ils rencontrent l'une des icônes de cette période exubérante, leur muse : la fameuse Kiki de Montparnasse. Au Bal Blomet, lieu mythique où est apparu le jazz, l'une des plus belles étoiles dans ce firmament artistique est, sans nul doute, Joséphine Baker dont le charleston fascine le public parisien.</desc>
-  </programme>
-  <programme start="20260330203000 +0000" stop="20260330212500 +0000" channel="France4.fr">
-    <title lang="fr">Paris au temps du Bal Nègre</title>
-    <sub-title lang="fr">Art + Culture ║ 2023</sub-title>
-    <desc lang="fr">L'aventure commence en 1924 dans le 15e arrondissement, au 33, rue Blomet, dans une maison du XVIIIe siècle reconvertie en commerce de vins puis en cabaret sous le nom de "Bal Blomet". Au lendemain de la Grande Guerre, la génération des Années folles avide de distractions se passionne pour ce lieu, baptisé "Bal Nègre" par Robert Desnos. Les célébrités y croisent des anonymes, des ouvriers côtoient des intellectuels. Le Bal Blomet devient le creuset d'une nouvelle identité noire où se croisent les créoles de Paris, petits-bourgeois assimilés, travailleurs manuels, intellectuels et révolutionnaires venus danser sur la biguine en oubliant, le temps d'une parenthèse enchantée, la réalité de leur condition.</desc>
-  </programme>
-  <programme start="20260330212500 +0000" stop="20260330222000 +0000" channel="France4.fr">
-    <title lang="fr">Les Légitimus, une famille française</title>
-    <sub-title lang="fr">Documentaire ║ 2023</sub-title>
-    <desc lang="fr">De Darling à Pascal, le clan Légitimus est riche de personnalités fortes qui, de génération en génération, s'est transmis le goût de la musique, du spectacle, du cinéma et de la politique. Cette famille est ancrée dans des valeurs fortes de générosité, de combat, de vitalité. A travers eux, c'est une autre façon de raconter la France et les Antilles qui se dessine. Retour sur une famille aux trajectoires exceptionnelles qui a évolué de l'archipel des Petites Antilles à la Mostra de Venise, en passant par les bancs de l'Assemblée Nationale, les cabarets et les plateaux de cinéma.</desc>
-  </programme>
-  <programme start="20260330222000 +0000" stop="20260330234000 +0000" channel="France4.fr">
-    <title lang="fr">L'effet miroir</title>
-    <sub-title lang="fr">Comédie ║ 2023</sub-title>
-    <desc lang="fr">Ecrivain à succès sur le déclin, Théophile retrouve enfin son inspiration lorsqu'il se lance dans l'écriture d'un petit conte poétique et aquatique. La réussite est au rendez-vous et l'oeuvre fait son petit effet auprès d'un public totalement conquis. Mais l'interprétation du texte par des membres de son proche entourage se révèle cataclysmique. En effet, ces derniers se reconnaissent dans les traits des personnages d'oursins, de poulpes et autres créatures marines, décelant dans les métaphores des messages cachés. Ce soir, ils se réunissent autour d'un dîner pour régler leurs comptes.</desc>
-  </programme>
-  <programme start="20260330234000 +0000" stop="20260331000000 +0000" channel="France4.fr">
-    <title lang="fr">Lisa Delmoitiez : Remontada</title>
-    <sub-title lang="fr">Spectacle ║ 2024</sub-title>
-    <desc lang="fr">Chroniqueuse radio dans l'émission "La Bande originale" sur France Inter, Lisa Delmoitiez a construit son premier spectacle dans la plus pure tradition du stand-up en rassemblant 60 minutes de blagues écrites et testées en comedy club depuis ses débuts en janvier 2019. Ce spectacle est le récit d'une tentative de "remontada" dans une vie où Lisa se sent un peu toujours à̀ la traîne. Au passage, elle parle aussi de singes qui avortent et de mezzes libanais.</desc>
+  <programme start="20260403040000 +0000" stop="20260403063000 +0000" channel="BFMTV.fr">
+    <title lang="fr">BFM Première week-end</title>
+    <sub-title lang="fr">Actualités ║ 2026</sub-title>
+    <desc lang="fr">Un tour d'horizon de l'actualité du jour. Quatre heures d'information en direct, mêlant info "chaude" et info "de proximité".</desc>
   </programme>
   <programme start="20260331000000 +0000" stop="20260331013000 +0000" channel="France4.fr">
     <title lang="fr">Outre-mer Street Art</title>
@@ -2542,17 +2056,2036 @@ Donald Reignoux (Acteur) .. Rafik
 Jeff Schjerlund (Acteur) .. Rafik / Ozzy
 Yoann Sover (Acteur) .. Boyster.</desc>
   </programme>
+  <programme start="20260402143700 +0000" stop="20260402143800 +0000" channel="France4.fr">
+    <title lang="fr">Molusco</title>
+    <sub-title lang="fr">S1E18 ║ Vanille vidéo star ║ Série De Dessins Animés ║ 2014</sub-title>
+    <desc lang="fr">Petit garçon mi-huître mi-humain, Molusco est différent. En effet, quel autre enfant comprend le langage des baleines, possède une coquille qui parle ou peut fabriquer des perles en mangeant de la craie bien calcaire? Pourtant, Molusco n'a qu'un souhait : vivre la vie normale et épanouie d'un enfant de 11 ans... et une seule crainte : que son secret soit découvert. Comment les autres pourraient-ils aimer un mollusque ? Le monde est-il prêt à accueillir cet être hors du commun ? Ainsi, entre cour de récré et contrôles de maths, bagarres et histoires de coeur, un épisode typique de la série nous fait partager le quotidien semé d'embûches de Molusco qui tente de vivre pleinement la vie d'un enfant de son âge, tout en préservant le secret de ses origines... La vie de petit garçon n'est pas facile quand on est une huître...
+Marc Bretonnière (Acteur) .. Mr. Pluss
+Matthew Forbes (Acteur) .. Shelby
+Emmanuel Garijo (Acteur) .. Shelby
+Rasmus Hardiker (Acteur) .. Rafik
+Akie Kotabe (Acteur) .. Boyster
+Caroline Mozzone (Acteur) .. Alicia
+Rob Rackstraw (Acteur) .. Mr. Pluss
+Donald Reignoux (Acteur) .. Rafik
+Jeff Schjerlund (Acteur) .. Rafik / Ozzy
+Yoann Sover (Acteur) .. Boyster.</desc>
+  </programme>
+  <programme start="20260402143800 +0000" stop="20260402145800 +0000" channel="France4.fr">
+    <title lang="fr">Molusco</title>
+    <sub-title lang="fr">S1E19 ║ Un look d'enfer ║ Série De Dessins Animés ║ 2014</sub-title>
+    <desc lang="fr">Petit garçon mi-huître mi-humain, Molusco est différent. En effet, quel autre enfant comprend le langage des baleines, possède une coquille qui parle ou peut fabriquer des perles en mangeant de la craie bien calcaire? Pourtant, Molusco n'a qu'un souhait : vivre la vie normale et épanouie d'un enfant de 11 ans... et une seule crainte : que son secret soit découvert. Comment les autres pourraient-ils aimer un mollusque ? Le monde est-il prêt à accueillir cet être hors du commun ? Ainsi, entre cour de récré et contrôles de maths, bagarres et histoires de coeur, un épisode typique de la série nous fait partager le quotidien semé d'embûches de Molusco qui tente de vivre pleinement la vie d'un enfant de son âge, tout en préservant le secret de ses origines... La vie de petit garçon n'est pas facile quand on est une huître...
+Marc Bretonnière (Acteur) .. Mr. Pluss
+Matthew Forbes (Acteur) .. Shelby
+Emmanuel Garijo (Acteur) .. Shelby
+Rasmus Hardiker (Acteur) .. Rafik
+Akie Kotabe (Acteur) .. Boyster
+Caroline Mozzone (Acteur) .. Alicia
+Rob Rackstraw (Acteur) .. Mr. Pluss
+Donald Reignoux (Acteur) .. Rafik
+Jeff Schjerlund (Acteur) .. Rafik / Ozzy
+Yoann Sover (Acteur) .. Boyster.</desc>
+  </programme>
+  <programme start="20260402145800 +0000" stop="20260402151000 +0000" channel="France4.fr">
+    <title lang="fr">Mystery Lane</title>
+    <sub-title lang="fr">S1E4 ║ Le trésor des catacombes ║ Série D'animation ║ 2022</sub-title>
+    <desc lang="fr">Clever est la cochon d'Inde la plus intelligente du monde. Et cet esprit hors du commun est au service d'une noble cause : la justice. Ou la vérité. Ou les deux si possible. Car Clever enquête, et pas n'importe où. Au coeur du Londres mystérieux et brumeux à souhaits, Clever résout les mystères les plus épais qui touchent les animaux de compagnie londoniens et leurs maîtres.
+Kaycie Chase (Acteur) .. Clever
+Andy Chase (Acteur)
+Rudi James Jephcott (Acteur)
+Doug Rand (Acteur)
+Barbara Scaff (Acteur)
+Benoît Du Pac (Acteur)
+Martial Le Minoux (Acteur)
+Guillaume Orsat (Acteur)
+Jérémy Prévost (Acteur)
+Barbara Tissier (Acteur).</desc>
+  </programme>
+  <programme start="20260402151000 +0000" stop="20260402153000 +0000" channel="France4.fr">
+    <title lang="fr">Mystery Lane</title>
+    <sub-title lang="fr">S1E7 ║ Le piège de la pieuvre ║ Série D'animation ║ 2022</sub-title>
+    <desc lang="fr">A Londres, dans le quartier de Lexington, Clever, une cochon d'Inde au sens aiguisé de l'observation, et Bro, son frère un peu impulsif, se lancent dans des enquêtes policières. Les deux s'attaquent à des affaires complexes que même Scotland Yard ne parvient à résoudre depuis des années.
+Kaycie Chase (Acteur) .. Clever
+Andy Chase (Acteur)
+Rudi James Jephcott (Acteur)
+Doug Rand (Acteur)
+Barbara Scaff (Acteur)
+Benoît Du Pac (Acteur)
+Martial Le Minoux (Acteur)
+Guillaume Orsat (Acteur)
+Jérémy Prévost (Acteur)
+Barbara Tissier (Acteur).</desc>
+  </programme>
+  <programme start="20260402153000 +0000" stop="20260402154600 +0000" channel="France4.fr">
+    <title lang="fr">Okoo-koo</title>
+    <sub-title lang="fr">Emission du 1 avril 2026 ║ Emission Jeunesse ║ 2026</sub-title>
+    <desc lang="fr">Okoo-koo est l'émission d'accueil et de divertissement quotidienne d'Okoo, portée par une bande de jeunes animateurs : Manon, Julia et Karim et Jason. Rendez-vous inspirant et véritable repère ouvert à tous les enfants dès 6-7 ans, Okoo-koo est l'émission où l'on partage, on discute, on cuisine, on découvre, on s'amuse. Point de contact chaleureux et sécurisé entre Okoo et son jeune public, notre bande retrouve les enfants tous les jours sur l'appli Okoo et sur France 4 à partir de 17h30. Okoo-koo les invite à partager des activités (contenus originaux), propose des trucs et astuces pour rendre la vie quotidienne plus marrante, un lieu de vie pour inventer ensemble le monde de demain.</desc>
+  </programme>
+  <programme start="20260402154600 +0000" stop="20260402155800 +0000" channel="France4.fr">
+    <title lang="fr">Les aventures de Pil</title>
+    <sub-title lang="fr">S1E2 ║ Godefroy le Bouillant ║ Série D'animation ║ 2026</sub-title>
+    <desc lang="fr">Pil est une fillette vive et malicieuse, une véritable petite rebelle capable aussi bien de bondir de toit en toit que de se glisser dans les habits d'une princesse. Dans la cité médiévale de Roc-en-Brume, elle protège avec courage les habitants, épaulée par Crobar, le chevalier gaffeur, et Rigolin, le bouffon fantasque, ses fidèles compagnons. Après le succès du long métrage "Pil"; ses créateurs reviennent avec une série d'animation qui leur donne l'occasion d'étoffer l'histoire de chacun de ses personnages attachants.</desc>
+  </programme>
+  <programme start="20260402155800 +0000" stop="20260402160100 +0000" channel="France4.fr">
+    <title lang="fr">Les aventures de Pil</title>
+    <sub-title lang="fr">S1E3 ║ Fan de Crobar ║ Série D'animation ║ 2026</sub-title>
+    <desc lang="fr">Pil est une fillette vive et malicieuse, une véritable petite rebelle capable aussi bien de bondir de toit en toit que de se glisser dans les habits d'une princesse. Dans la cité médiévale de Roc-en-Brume, elle protège avec courage les habitants, épaulée par Crobar, le chevalier gaffeur, et Rigolin, le bouffon fantasque, ses fidèles compagnons. Après le succès du long métrage "Pil"; ses créateurs reviennent avec une série d'animation qui leur donne l'occasion d'étoffer l'histoire de chacun de ses personnages attachants.</desc>
+  </programme>
+  <programme start="20260402160100 +0000" stop="20260402161700 +0000" channel="France4.fr">
+    <title lang="fr">Okoo-koo</title>
+    <sub-title lang="fr">Emission du 1 avril 2026 ║ Emission Jeunesse ║ 2026</sub-title>
+    <desc lang="fr">Okoo-koo est l'émission d'accueil et de divertissement quotidienne d'Okoo, portée par une bande de jeunes animateurs : Manon, Julia et Karim et Jason. Rendez-vous inspirant et véritable repère ouvert à tous les enfants dès 6-7 ans, Okoo-koo est l'émission où l'on partage, on discute, on cuisine, on découvre, on s'amuse. Point de contact chaleureux et sécurisé entre Okoo et son jeune public, notre bande retrouve les enfants tous les jours sur l'appli Okoo et sur France 4 à partir de 17h30. Okoo-koo les invite à partager des activités (contenus originaux), propose des trucs et astuces pour rendre la vie quotidienne plus marrante, un lieu de vie pour inventer ensemble le monde de demain.</desc>
+  </programme>
+  <programme start="20260402161700 +0000" stop="20260402162000 +0000" channel="France4.fr">
+    <title lang="fr">Les aventures de Pil</title>
+    <sub-title lang="fr">S1E4 ║ Le Maitre du foin ║ Série D'animation ║ 2026</sub-title>
+    <desc lang="fr">Pil est une fillette vive et malicieuse, une véritable petite rebelle capable aussi bien de bondir de toit en toit que de se glisser dans les habits d'une princesse. Dans la cité médiévale de Roc-en-Brume, elle protège avec courage les habitants, épaulée par Crobar, le chevalier gaffeur, et Rigolin, le bouffon fantasque, ses fidèles compagnons. Après le succès du long métrage "Pil"; ses créateurs reviennent avec une série d'animation qui leur donne l'occasion d'étoffer l'histoire de chacun de ses personnages attachants.</desc>
+  </programme>
+  <programme start="20260402162000 +0000" stop="20260402163200 +0000" channel="France4.fr">
+    <title lang="fr">Les aventures de Pil</title>
+    <sub-title lang="fr">S1E5 ║ Le conseil des nobles ║ Série D'animation ║ 2026</sub-title>
+    <desc lang="fr">Rigolin a un peu honte de sa grand-mère Gisèle. Elle passe son temps à lui donner des petits noms ridicules et à raconter des anecdotes gênantes. Mais quand Gisèle mange par inadvertance un plat de haricots magiques et qu'elle devient géante, Rigolin comprend que sa grand-mère est la seule capable de défendre Roc-en-Brume comme l'assaut du terrible Drac...</desc>
+  </programme>
+  <programme start="20260402163200 +0000" stop="20260402164800 +0000" channel="France4.fr">
+    <title lang="fr">Okoo-koo</title>
+    <sub-title lang="fr">Emission du 2 avril 2026 ║ Emission Jeunesse ║ 2026</sub-title>
+    <desc lang="fr">Okoo-koo est l'émission d'accueil et de divertissement quotidienne d'Okoo, portée par une bande de jeunes animateurs : Manon, Julia et Karim et Jason. Rendez-vous inspirant et véritable repère ouvert à tous les enfants dès 6-7 ans, Okoo-koo est l'émission où l'on partage, on discute, on cuisine, on découvre, on s'amuse. Point de contact chaleureux et sécurisé entre Okoo et son jeune public, notre bande retrouve les enfants tous les jours sur l'appli Okoo et sur France 4 à partir de 17h30. Okoo-koo les invite à partager des activités (contenus originaux), propose des trucs et astuces pour rendre la vie quotidienne plus marrante, un lieu de vie pour inventer ensemble le monde de demain.</desc>
+  </programme>
+  <programme start="20260402164800 +0000" stop="20260402165500 +0000" channel="France4.fr">
+    <title lang="fr">Bluey</title>
+    <sub-title lang="fr">S2E39 ║ Deux baby ║ Série D'animation ║ 2018</sub-title>
+    <desc lang="fr">Bluey est de retour, avec sa petite sœur Bingo, pour transformer la vie de tous les jours en jeu amusant ! Quand Bluey est invitée à une fête d'anniversaire, Bingo utilise sa plume magique pour rendre les préparatifs difficiles. Lorsque c'est au tour de papa d'emmener les filles à l'école, le duo des Heeler juniors va assurément lui compliquer la tâche. Grâce à son imagination sans limites et avec sa sœur à ses côtés, Bluey continue de diriger sa petite famille dans les jeux… comme dans tout le reste.
+David McCormack (Acteur) .. Dad
+Melanie Zanetti (Acteur) .. Mum.</desc>
+  </programme>
+  <programme start="20260402165500 +0000" stop="20260402165700 +0000" channel="France4.fr">
+    <title lang="fr">Bluey</title>
+    <sub-title lang="fr">S2E37 ║ Le jeu du silence ║ Série D'animation ║ 2018</sub-title>
+    <desc lang="fr">Bluey est de retour, avec sa petite sœur Bingo, pour transformer la vie de tous les jours en jeu amusant ! Quand Bluey est invitée à une fête d'anniversaire, Bingo utilise sa plume magique pour rendre les préparatifs difficiles. Lorsque c'est au tour de papa d'emmener les filles à l'école, le duo des Heeler juniors va assurément lui compliquer la tâche. Grâce à son imagination sans limites et avec sa sœur à ses côtés, Bluey continue de diriger sa petite famille dans les jeux… comme dans tout le reste.
+David McCormack (Acteur) .. Dad
+Melanie Zanetti (Acteur) .. Mum.</desc>
+  </programme>
+  <programme start="20260402165700 +0000" stop="20260402170800 +0000" channel="France4.fr">
+    <title lang="fr">Bluey</title>
+    <sub-title lang="fr">S2E36 ║ La factrice ║ Série D'animation ║ 2018</sub-title>
+    <desc lang="fr">Bluey est de retour, avec sa petite sœur Bingo, pour transformer la vie de tous les jours en jeu amusant ! Quand Bluey est invitée à une fête d'anniversaire, Bingo utilise sa plume magique pour rendre les préparatifs difficiles. Lorsque c'est au tour de papa d'emmener les filles à l'école, le duo des Heeler juniors va assurément lui compliquer la tâche. Grâce à son imagination sans limites et avec sa sœur à ses côtés, Bluey continue de diriger sa petite famille dans les jeux… comme dans tout le reste.
+David McCormack (Acteur) .. Dad
+Melanie Zanetti (Acteur) .. Mum.</desc>
+  </programme>
+  <programme start="20260402170800 +0000" stop="20260402171400 +0000" channel="France4.fr">
+    <title lang="fr">Bluey</title>
+    <sub-title lang="fr">S2E35 ║ Au café ║ Série D'animation ║ 2018</sub-title>
+    <desc lang="fr">Bluey est de retour, avec sa petite sœur Bingo, pour transformer la vie de tous les jours en jeu amusant ! Quand Bluey est invitée à une fête d'anniversaire, Bingo utilise sa plume magique pour rendre les préparatifs difficiles. Lorsque c'est au tour de papa d'emmener les filles à l'école, le duo des Heeler juniors va assurément lui compliquer la tâche. Grâce à son imagination sans limites et avec sa sœur à ses côtés, Bluey continue de diriger sa petite famille dans les jeux… comme dans tout le reste.
+David McCormack (Acteur) .. Dad
+Melanie Zanetti (Acteur) .. Mum.</desc>
+  </programme>
+  <programme start="20260402171400 +0000" stop="20260402171600 +0000" channel="France4.fr">
+    <title lang="fr">Bluey</title>
+    <sub-title lang="fr">S2E43 ║ La collerette de Muffin ║ Série D'animation ║ 2018</sub-title>
+    <desc lang="fr">Bluey est de retour, avec sa petite sœur Bingo, pour transformer la vie de tous les jours en jeu amusant ! Quand Bluey est invitée à une fête d'anniversaire, Bingo utilise sa plume magique pour rendre les préparatifs difficiles. Lorsque c'est au tour de papa d'emmener les filles à l'école, le duo des Heeler juniors va assurément lui compliquer la tâche. Grâce à son imagination sans limites et avec sa sœur à ses côtés, Bluey continue de diriger sa petite famille dans les jeux… comme dans tout le reste.
+David McCormack (Acteur) .. Dad
+Melanie Zanetti (Acteur) .. Mum.</desc>
+  </programme>
+  <programme start="20260402171600 +0000" stop="20260402172700 +0000" channel="France4.fr">
+    <title lang="fr">Bluey</title>
+    <sub-title lang="fr">S2E33 ║ Le cirque ║ Série D'animation ║ 2018</sub-title>
+    <desc lang="fr">Bluey est de retour, avec sa petite sœur Bingo, pour transformer la vie de tous les jours en jeu amusant ! Quand Bluey est invitée à une fête d'anniversaire, Bingo utilise sa plume magique pour rendre les préparatifs difficiles. Lorsque c'est au tour de papa d'emmener les filles à l'école, le duo des Heeler juniors va assurément lui compliquer la tâche. Grâce à son imagination sans limites et avec sa sœur à ses côtés, Bluey continue de diriger sa petite famille dans les jeux… comme dans tout le reste.
+David McCormack (Acteur) .. Dad
+Melanie Zanetti (Acteur) .. Mum.</desc>
+  </programme>
+  <programme start="20260402172700 +0000" stop="20260402173800 +0000" channel="France4.fr">
+    <title lang="fr">Bluey</title>
+    <sub-title lang="fr">S2E46 ║ Le trajet en voiture ║ Série D'animation ║ 2018</sub-title>
+    <desc lang="fr">Bluey est de retour, avec sa petite sœur Bingo, pour transformer la vie de tous les jours en jeu amusant ! Quand Bluey est invitée à une fête d'anniversaire, Bingo utilise sa plume magique pour rendre les préparatifs difficiles. Lorsque c'est au tour de papa d'emmener les filles à l'école, le duo des Heeler juniors va assurément lui compliquer la tâche. Grâce à son imagination sans limites et avec sa sœur à ses côtés, Bluey continue de diriger sa petite famille dans les jeux… comme dans tout le reste.
+David McCormack (Acteur) .. Dad
+Melanie Zanetti (Acteur) .. Mum.</desc>
+  </programme>
+  <programme start="20260402173800 +0000" stop="20260402181900 +0000" channel="France4.fr">
+    <title lang="fr">Les maternelles XXL</title>
+    <sub-title lang="fr">Famille + Education ║ 2026</sub-title>
+    <desc lang="fr">Les Maternelles XXL c'est la maison qui s'agrandit. L'émission iconique ouvre encore plus grand ses portes pour accueillir toutes les générations : jeunes parents, enfants, ados, grands parents et toutes les formes de famille. Marie Portolano, accompagnée par Houssem Loussaief et toute la bande des Maternelles XXL explore la vie de famille sous toutes ses formes : parentalité, enfance, adolescence, grands bouleversements du quotidien, tendances éducatives et sociétales. Grâce au tchat en direct, aux vidéos envoyées par les tvsp, aux votes en live, le talk est connecté à son époque, utile et joyeux.</desc>
+  </programme>
+  <programme start="20260402181900 +0000" stop="20260402185600 +0000" channel="France4.fr">
+    <title lang="fr">Les maternelles XXL</title>
+    <sub-title lang="fr">Famille + Education ║ 2026</sub-title>
+    <desc lang="fr">Les Maternelles XXL c'est la maison qui s'agrandit. L'émission iconique ouvre encore plus grand ses portes pour accueillir toutes les générations : jeunes parents, enfants, ados, grands parents et toutes les formes de famille. Marie Portolano, accompagnée par Houssem Loussaief et toute la bande des Maternelles XXL explore la vie de famille sous toutes ses formes : parentalité, enfance, adolescence, grands bouleversements du quotidien, tendances éducatives et sociétales. Grâce au tchat en direct, aux vidéos envoyées par les tvsp, aux votes en live, le talk est connecté à son époque, utile et joyeux.</desc>
+  </programme>
+  <programme start="20260402185600 +0000" stop="20260402190000 +0000" channel="France4.fr">
+    <title lang="fr">Planète Rap la quotidienne</title>
+    <sub-title lang="fr">Art + Culture ║ 2026</sub-title>
+    <desc lang="fr">Animation : Fred Musa Production : Prod et Cie Planète Rap La Quotidienne débarque sur france.tv ! France Télévisions poursuit son engagement pour les cultures urbaines en proposant des formats courts quotidiens incarnés par Fred Musa. Interviews d'artistes, décryptage, portraits, Planète Rap La Quotidienne, c'est l'émission de toutes les cultures urbaines à la fois feel good, ludique et dynamique.</desc>
+  </programme>
+  <programme start="20260402190000 +0000" stop="20260402205500 +0000" channel="France4.fr">
+    <title lang="fr">L'établi (2023)</title>
+    <sub-title lang="fr">Drame ║ 2023</sub-title>
+    <desc lang="fr">Après ses études à l'Ecole normale supérieure, Robert se fait embaucher chez Citroën. Plusieurs mois se sont écoulés depuis les manifestations de mai 68, mais la colère est toujours présente chez ce militant d'extrême-gauche. Il souhaite raviver le feu révolutionnaire parmi les ouvriers. Si au départ ses collègues ne veulent plus entendre parler de politique, un événement fait basculer leurs regards sur la situation. Leur employeur exige qu'ils travaillent trois heures hebdomadaires supplémentaires à titre gracieux. Robert sent le vent tourner et veut désormais convaincre ses collègues de l'utilité d'un mouvement social...</desc>
+  </programme>
+  <programme start="20260402205500 +0000" stop="20260402220500 +0000" channel="France4.fr">
+    <title lang="fr">Libre antenne</title>
+    <sub-title lang="fr">Documentaire ║ 2025</sub-title>
+    <desc lang="fr">A l'aube des années 1990, Fun Radio et Skyrock, deux radios FM nationales, décident de mettre le grappin sur la même cible commerciale : les jeunes. Pour ça, ils ont une arme fatale : la Libre antenne. Un espace libre et décomplexé, où l'on peut rire, parler, écouter, et surtout, être écoutés. Un endroit déjanté, où on peut tout dire, poser toutes les questions, surtout les plus intimes, qu'on n'aurait évidemment pas osé aborder en famille et encore moins en cours. Surtout, on se rend compte qu'à l'autre bout de la France des filles et des garçons du même âge rencontrent les mêmes galères, ont les mêmes interrogations.</desc>
+  </programme>
+  <programme start="20260402220500 +0000" stop="20260402224000 +0000" channel="France4.fr">
+    <title lang="fr">Les rencontres du Papotin</title>
+    <sub-title lang="fr">S3E1 ║ Entretien ║ 2024</sub-title>
+    <desc lang="fr">Les journalistes de la rédaction du Papotin rencontrent Philippe Katerine. Artiste polyvalent, il est aujourd'hui reconnu tant comme auteur-interprète, ayant remporté une Victoire de la Musique en 2020, que comme acteur, avec un César du meilleur acteur dans un second rôle pour "Le Grand Bain". Sa poésie et sa simplicité ont transformé cette rencontre avec la rédaction de ce journal atypique en un moment joyeux, musical et festif.</desc>
+  </programme>
+  <programme start="20260402224000 +0000" stop="20260402231000 +0000" channel="France4.fr">
+    <title lang="fr">Les rencontres du Papotin</title>
+    <sub-title lang="fr">Entretien ║ 2024</sub-title>
+    <desc lang="fr">Révelé au grand public à 13 ans dans "La vie est un long fleuve tranquille", d'Etienne Chatiliez, Benoît Magimel a su s'imposer dans le paysage cinématographique français. Lauréat de trois César et d'un prix d'interprétation au Festival de Cannes en 2001, il exprime tout son talent aussi bien dans des films d'auteurs que des comédies grand public. A l'aune de ses 50 ans, il a discuté librement avec la rédaction du "Papotin", abordant avec franchise et pudeur sa vie de famille, ses démons mais aussi ce qui fait le sel de son quotidien.</desc>
+  </programme>
+  <programme start="20260402231000 +0000" stop="20260402232500 +0000" channel="France4.fr">
+    <title lang="fr">Modules culture prime</title>
+    <sub-title lang="fr">Dans les coulisses d'Eugène Onéguine à l'Opéra de Paris ║ Histoire ║ 2026</sub-title>
+    <desc lang="fr">Cinq minutes pour en apprendre plus sur un sujet culturel de façon divertissante et pédagogique.</desc>
+  </programme>
+  <programme start="20260402232500 +0000" stop="20260403001000 +0000" channel="France4.fr">
+    <title lang="fr">Les Noces de Figaro</title>
+    <sub-title lang="fr">Opéra ║ 2023</sub-title>
+    <desc lang="fr">Production: Camera Lucida Réalisation: François-René Martin Filmé au Festival de Salzbourg en juillet 2023 Musique de Wolfgang Amadeus Mozart Livret de Lorenzo Da Ponte, d'après Beaumarchais Mise en scène : Martin Kušej Wiener Philharmoniker Direction musicale : Raphaël Pichon Première collaboration entre Mozart et le librettiste Lorenzo da Ponte, l'opéra Les Noces de Figaro narre les amours de Figaro et Susanna, valet et camériste au service du Comte et de la Comtesse Almaviva, et qui doivent surmonter les obstacles posés par le très volage Comte sur leur chemin vers le bonheur… Ce monument de l'opera buffa est parfaitement mis en valeur dans cette production de 2023 filmé par François-René Martin au Festival de Salzbourg, dans une mise en scène de Martin Kušej et avec un casting de superstars parmi lesquelles Sabine Devieilhe dans le rôle de Susanna et Lea Desandre dans celui de Cherubino. Dans la fosse, l'illustre Orchestre philharmonique de Vienne interprète la partition de Mozart sous la direction du talentueux chef français Raphaël Pichon.</desc>
+  </programme>
+  <programme start="20260403001000 +0000" stop="20260403010000 +0000" channel="France4.fr">
+    <title lang="fr">Le Grand Bazhart</title>
+    <sub-title lang="fr">S9E1 ║ Magazine Info ║ 2023</sub-title>
+    <desc lang="fr">Production: Simone et Raymond Productions Ce mois-ci, Le grand BaZH.art célèbre les 40 ans du festival Art Rock de Saint-Brieuc. Depuis 40 ans, toutes les stars de la pop, du rock et de la danse sont passées par Saint-Brieuc. La nouvelle édition ne change rien à cette bonne recette en conviant Benjamin Biolay, Christine and the Queens, Alt-J, Izïa, Zaho de Sagazan, soit une quarantaine d'artistes rien que pour le In du festival. Et c'est un habitué d'Art Rock, programmé plusieurs fois à Saint-Brieuc depuis les années 1980, qui vient souffler les 40 bougies du festival dans Le grand BaZH.art. Philippe Decouflé est de retour en Côtes-d'Armor avec sa compagnie DCA. Le danseur et chorégraphe superstar est le maître de cérémonie idéal. Mondialement reconnu depuis qu'il a mis en scène les cérémonies d'ouverture et de clôture des JO d'Albertville en 1992, le chorégraphe est aussi fortement lié à la Bretagne où il a créé de nombreux spectacles comme artiste associé du TNB à Rennes. Invité à Saint-Brieuc avec Stéréo, sa dernière création, Philippe Decouflé résume à lui tout seul l'esprit du festival Art Rock. Son ballet-rock mêle ses passions pour le rock, la danse, le cirque, le cinéma et toujours l'humour.</desc>
+  </programme>
+  <programme start="20260403010000 +0000" stop="20260403023000 +0000" channel="France4.fr">
+    <title lang="fr">Outre-mer Street Art</title>
+    <sub-title lang="fr">De la Martinique à Mayotte ║ Art Figuratif ║ 2023</sub-title>
+    <desc lang="fr">Jamais le street art n'a été aussi présent en Outre-mer. A Tahiti, à Fort-de-France ou à La Réunion, les festivals se multiplient et on y expose les street artistes les plus reconnus, qui bénéficient parfois d'un rayonnement international. Là où les graffitis, les peintures murales et les collages faisaient jusqu'à présent l'objet d'interventions ponctuelles et isolées, le street art est désormais accepté comme oeuvre picturale majeure mais aussi et surtout comme un support d'expression.</desc>
+  </programme>
+  <programme start="20260403023000 +0000" stop="20260403025500 +0000" channel="France4.fr">
+    <title lang="fr">Moonwalk</title>
+    <sub-title lang="fr">S2E15 ║ Magazine ║ 2024</sub-title>
+    <desc lang="fr">Kendji Girac raconte son incroyable histoire à Oumar : son enfance, sa vie de nomade, la notoriété, passion pour Dragon Ball Z, Mi Vida, son ancien métier, Soprano, Habibi, son public, Bollywood, Tu vas manquer, ses inquiétudes.</desc>
+  </programme>
+  <programme start="20260403025500 +0000" stop="20260403030500 +0000" channel="France4.fr">
+    <title lang="fr">Les matinales</title>
+    <sub-title lang="fr">Musique Classique ║ 2026</sub-title>
+  </programme>
+  <programme start="20260403030500 +0000" stop="20260403032500 +0000" channel="France4.fr">
+    <title lang="fr">L'armure de Jade</title>
+    <sub-title lang="fr">S2E17 ║ Même pas mal ║ Série D'animation ║ 2022</sub-title>
+    <desc lang="fr">C'est jour de fête à Ban Tang. Les Ye ont prévu d'aller ensemble au festival et Lan Jun espère y retrouver Kai. Ce qui n'est pas du goût de Liam... Heureusement, Lan Jun peut compter sur sa mère pour la couvrir. Mais quand elle aperçoit enfin Kai, il est aux côtés de ses parents et du Spectre Rouge ! Que peuvent-ils bien conspirer tous ensemble ? De son côté, Jiu Wei Hu profite des festivités pour jouer un nouveau tour à Jade…
+Elle Hallock (Acteur) .. Lan Jun / Jade
+Jasmine Putmon (Acteur) .. Alisha
+Jeremy Ang Jones (Acteur) .. Kai
+Ana Yi Puig (Acteur) .. Pearl
+Jing Lusi (Acteur) .. Black Tiger
+Kate Liu (Acteur) .. Gram
+Jensen Olaya (Acteur) .. Gramgram &amp; Mom &amp; Lucy
+Anne Yatco (Acteur) .. Zuchue &amp; Baihu
+Alfonso Freeman (Acteur) .. Shenwu
+Lance Krall (Acteur) .. Chinlon.</desc>
+  </programme>
+  <programme start="20260403032500 +0000" stop="20260403034600 +0000" channel="France4.fr">
+    <title lang="fr">L'armure de Jade</title>
+    <sub-title lang="fr">S2E18 ║ Le stage ║ Série D'animation ║ 2022</sub-title>
+    <desc lang="fr">Depuis quelque temps, Lan Jun se demande si elle doit dire à Kai qu'elle est Jade. Elle a peur qu'il prenne mal cette révélation... Au même moment, un Éclat frappe d'amnésie tous les habitants de Ban Tang. Ignorante du secret qu'elle cache, Lan Jun cherche qui elle est … avec l'aide de Kai. De son côté, Perle est l'une des rares à ne pas être atteinte, et profite de l'amnésie de Mme Bao pour la transformer en mère parfaite.
+Elle Hallock (Acteur) .. Lan Jun / Jade
+Jasmine Putmon (Acteur) .. Alisha
+Jeremy Ang Jones (Acteur) .. Kai
+Ana Yi Puig (Acteur) .. Pearl
+Jing Lusi (Acteur) .. Black Tiger
+Kate Liu (Acteur) .. Gram
+Jensen Olaya (Acteur) .. Gramgram &amp; Mom &amp; Lucy
+Anne Yatco (Acteur) .. Zuchue &amp; Baihu
+Alfonso Freeman (Acteur) .. Shenwu
+Lance Krall (Acteur) .. Chinlon.</desc>
+  </programme>
+  <programme start="20260403034600 +0000" stop="20260403040700 +0000" channel="France4.fr">
+    <title lang="fr">L'armure de Jade</title>
+    <sub-title lang="fr">S2E19 ║ Le babysitting ║ Série D'animation ║ 2022</sub-title>
+    <desc lang="fr">Les Zhu veulent construire une Armure Rouge pour Kai. Avec leur toute nouvelle machine, ils parcourent la ville pour collecter les Éclats qu'ils réveillent sur leur passage ! Au même moment, une Jade de fiction sort de l'affiche d'un film sous l'effet d'un autre Éclat. Jade va devoir faire équipe avec ce personnage mal écrit, pour comprendre quel chaos frappe Ban Tang... La piste des éclats les conduit sur la trace des Zhu : Kai est en grave danger ! Il n'y a pas de temps à perdre.
+Elle Hallock (Acteur) .. Lan Jun / Jade
+Jasmine Putmon (Acteur) .. Alisha
+Jeremy Ang Jones (Acteur) .. Kai
+Ana Yi Puig (Acteur) .. Pearl
+Jing Lusi (Acteur) .. Black Tiger
+Kate Liu (Acteur) .. Gram
+Jensen Olaya (Acteur) .. Gramgram &amp; Mom &amp; Lucy
+Anne Yatco (Acteur) .. Zuchue &amp; Baihu
+Alfonso Freeman (Acteur) .. Shenwu
+Lance Krall (Acteur) .. Chinlon.</desc>
+  </programme>
+  <programme start="20260403040700 +0000" stop="20260403042800 +0000" channel="France4.fr">
+    <title lang="fr">L'armure de Jade</title>
+    <sub-title lang="fr">S2E20 ║ Le procès ║ Série D'animation ║ 2022</sub-title>
+    <desc lang="fr">Jade est une super-héroïne de légende. C'est maintenant à Lan Jun, une adolescente ordinaire, de porter son armure. Celle-ci va utiliser ses talents en kung-fu pour combattre le mal. Avec l'aide de ses amis, Théo et Alisha, ainsi que le soutien des Beasticons, les quatre légendaires serviteurs de l'Armure, Lan Jun doit lutter contre des super-vilains tout en gérant sa vie d'adolescente.
+Elle Hallock (Acteur) .. Lan Jun / Jade
+Jasmine Putmon (Acteur) .. Alisha
+Jeremy Ang Jones (Acteur) .. Kai
+Ana Yi Puig (Acteur) .. Pearl
+Jing Lusi (Acteur) .. Black Tiger
+Kate Liu (Acteur) .. Gram
+Jensen Olaya (Acteur) .. Gramgram &amp; Mom &amp; Lucy
+Anne Yatco (Acteur) .. Zuchue &amp; Baihu
+Alfonso Freeman (Acteur) .. Shenwu
+Lance Krall (Acteur) .. Chinlon.</desc>
+  </programme>
+  <programme start="20260403043000 +0200" stop="20260403060000 +0200" channel="BFMTV.fr">
+    <title lang="fr">Première édition : Pré-matinale</title>
+    <sub-title lang="fr">BFM PREMIÈRE</sub-title>
+    <desc lang="fr">Un nouveau tandem prend les commandes du rdv tv d'Informations le plus matinal de France. Dès 4h30, ils accompagnent les Français qui se lèvent tôt en présentant les informations qui feront l'actualité de la journée.</desc>
+    <category lang="fr">Actualites</category>
+    <category lang="fr">Journal</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/123069582" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331014000 +0200" stop="20260331024500 +0200" channel="France4.fr">
+    <title lang="fr">Lisa Delmoitiez : Remontada</title>
+    <desc lang="fr">Chroniqueuse radio dans l'émission "La Bande originale" sur France Inter, Lisa Delmoitiez a construit son premier spectacle dans la plus pure tradition du stand-up en rassemblant 60 minutes de blagues écrites et testées en comedy club depuis ses débuts en janvier 2019. Ce spectacle est le récit d'une tentative de "remontada" dans une vie où Lisa se sent un peu toujours à̀ la traîne. Au passage, elle parle aussi de singes qui avortent et de mezzes libanais.</desc>
+    <credits>
+      <director>Lionel Chabert</director>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">Spectacle</category>
+    <category lang="fr">One man show</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/E3514A034AA0BBBA357D26B0C6CAF70C.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>-10</value>
+      <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Moins10.svg/200px-Moins10.svg.png" />
+    </rating>
+  </programme>
   <programme start="20260331024500 +0200" stop="20260331035000 +0200" channel="France4.fr">
     <title lang="fr">Marion Mezadorian : Pépites</title>
-    <sub-title lang="fr">Spectacle Humour</sub-title>
+    <desc lang="fr">Depuis que son père l'a persuadée que l'on trouvait des pierres précieuses dans le jardin, Marion ne cesse d'être à la recherche de pépites. C'est ainsi qu'elle repère des instants de vie comme des diamants bruts. Les pépites sont là, par exemple derrière les réparties fantasques de Martin, 4 ans ; les explications toutes personnelles de son père sur les pirates et les lesbiennes ou encore les réflexions décalées de sa grand-mère arménienne.</desc>
+    <credits>
+      <director>Ybao Benedetti</director>
+      <guest>Marion Mezadorian</guest>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">Spectacle</category>
+    <category lang="fr">Humour</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/46F012F26A92A31CE9D35A8C1B8549A5.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
   </programme>
   <programme start="20260331035000 +0200" stop="20260331044500 +0200" channel="France4.fr">
     <title lang="fr">Loïc Léry, du flingue au stylo</title>
-    <sub-title lang="fr">Doc. Société</sub-title>
+    <desc lang="fr">Loïc Léry arrive à Paris en 1973. Les conséquences du Bumidom sont déjà là : chômage, précarité ; les Antillais ont compris que les promesses faites ne sont que chimères. En choisissant un temps le gangstérisme, il répond à sa façon à la politique néo coloniale de la France. C'est lui qui choisit son destin et non la France qui choisit pour lui. Loïc Léry se fait arrêter le 12 octobre 1979. Léry, surnommé "Colibri" lors des braquages, n'aura passé qu'un an avec le gang des Antillais. La prison a été pour lui une école de la rédemption, inscrivant dans sa chair le passage du statut de gangster à celui d'écrivain.</desc>
+    <credits>
+      <director>Stéphane Krausz</director>
+      <director>Sonia Medina</director>
+      <guest>Zycopolis Productions</guest>
+      <guest>France Télévisions</guest>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">Documentaire</category>
+    <category lang="fr">Société</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/8BF5520B27B960126339557FE0E1AE9A.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
   </programme>
   <programme start="20260331044500 +0200" stop="20260331050500 +0200" channel="France4.fr">
     <title lang="fr">Les matinales</title>
+    <desc lang="fr">Programme de musique classique pour se réveiller en douceur.</desc>
+    <date>2026</date>
+    <category lang="fr">Magazine</category>
+    <category lang="fr">Musique</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/E46EF9B2C34715FBB931BA1D0AFA89E3.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331051500 +0200" stop="20260331051600 +0200" channel="France4.fr">
+    <title lang="fr">Angelo la débrouille</title>
+    <sub-title lang="fr">La guerre des stands</sub-title>
+    <desc lang="fr">Il existe une ribambelle de manuels, guides et encyclopédies à l'usage des enfants qui ont tant à apprendre ! Pourtant, à ce jour, un ouvrage manque encore à l'appel. Un guide tellement essentiel, tellement indispensable, qu'il semble tout juste incroyable que personne ne se soit encore penché sur le sujet... Voilà la mission essentielle et indi...</desc>
+    <credits>
+      <director>Maxime Maleo</director>
+      <director>Kevin Marry</director>
+      <actor>Gerry Rosenthal</actor>
+      <actor>Jason Harris</actor>
+      <actor>Ray Hurd</actor>
+      <producer>Marie-Pierre Journet</producer>
+      <producer>Patrick Dedieu</producer>
+      <producer>Jean Baptiste Spieser</producer>
+      <producer>Caroline Souris</producer>
+      <producer>Corinne Kouper</producer>
+      <producer>Guillaume Hellouin</producer>
+      <producer>Edward Galton</producer>
+      <composer>Vincent Boutolleau</composer>
+      <editor>Andy Rheingold</editor>
+      <editor>Sylvie De Mathuisieulx</editor>
+      <editor>Sébastien Diologent</editor>
+      <editor>Amy Jackson</editor>
+      <guest> TeamTO</guest>
+      <guest>Emma Adele Galvin</guest>
+      <guest>Khaliah Adams</guest>
+      <guest>Doug Trapp</guest>
+      <guest>Cake Entertainment</guest>
+      <guest>Danny McDermott</guest>
+      <guest>Bill Morgan</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/948E3DDF7999A09E7E367643AEB341F1.jpg" />
+    <country lang="fr">France - Grande-Bretagne - Etats-Unis - Canada</country>
+    <episode-num system="xmltv_ns">4.37.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331051600 +0200" stop="20260331053600 +0200" channel="France4.fr">
+    <title lang="fr">Angelo la débrouille</title>
+    <sub-title lang="fr">Le roi du kung-fu</sub-title>
+    <desc lang="fr">Quand Angelo apprend que sa star préférée Kung-Fu Kenny utilise une doublure pour les scènes d'actions et ne sait pas faire de Karaté, il organise pour Kenny des cours de karaté avec maître Zonka.</desc>
+    <credits>
+      <director>Kevin Marry</director>
+      <director>Maxime Maleo</director>
+      <actor>Jason Harris</actor>
+      <actor>Ray Hurd</actor>
+      <actor>Jackson Rheingold</actor>
+      <actor>Katie DiCicco</actor>
+      <actor>Nate Rheingold</actor>
+      <actor>Gerry Rosenthal</actor>
+      <actor>Misty Lee</actor>
+      <adapter>Jeffrey Paul Kearney</adapter>
+      <producer>Guillaume Hellouin</producer>
+      <producer>Patrick Dedieu</producer>
+      <producer>Marie-Pierre Journet</producer>
+      <producer>Jean Baptiste Spieser</producer>
+      <producer>Caroline Souris</producer>
+      <producer>Corinne Kouper</producer>
+      <producer>Tom van Waveren</producer>
+      <producer>Edward Galton</producer>
+      <composer>Vincent Boutolleau</composer>
+      <editor>Andy Rheingold</editor>
+      <editor>Sébastien Diologent</editor>
+      <editor>Amy Jackson</editor>
+      <editor>Sylvie De Mathuisieulx</editor>
+      <guest>Bill Morgan</guest>
+      <guest>Gail Thomas</guest>
+      <guest>Khaliah Adams</guest>
+      <guest>Doug Trapp</guest>
+      <guest>Alexa Magro</guest>
+      <guest> TeamTO</guest>
+      <guest>Danny McDermott</guest>
+      <guest>Jay Kat</guest>
+      <guest>Emma Adele Galvin</guest>
+      <guest>Cake Entertainment</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/68E232A45952245ECD133388151AE25B.jpg" />
+    <country lang="fr">France - Grande-Bretagne - Etats-Unis - Canada</country>
+    <episode-num system="xmltv_ns">4.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331053600 +0200" stop="20260331053700 +0200" channel="France4.fr">
+    <title lang="fr">Angelo la débrouille</title>
+    <sub-title lang="fr">Angelo contre le conseil municipal</sub-title>
+    <desc lang="fr">Lorsque Eddy est arrêté pour avoir enfreint une ancienne loi municipale absurde, Angelo et ses amis prennent l'affaire en main pour le faire libérer.</desc>
+    <credits>
+      <director>Maxime Maleo</director>
+      <director>Kevin Marry</director>
+      <producer>Corinne Kouper</producer>
+      <producer>Tom van Waveren</producer>
+      <producer>Edward Galton</producer>
+      <producer>Guillaume Hellouin</producer>
+      <producer>Patrick Dedieu</producer>
+      <producer>Marie-Pierre Journet</producer>
+      <producer>Jean Baptiste Spieser</producer>
+      <producer>Caroline Souris</producer>
+      <composer>Vincent Boutolleau</composer>
+      <editor>Andy Rheingold</editor>
+      <editor>Sylvie De Mathuisieulx</editor>
+      <editor>Sébastien Diologent</editor>
+      <editor>Amy Jackson</editor>
+      <guest> TeamTO</guest>
+      <guest>Jennifer Visalli</guest>
+      <guest>Cassandra Lee Morris</guest>
+      <guest>Aaron Conley</guest>
+      <guest>Cake Entertainment</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/AC53E970AE51C43BC906C734727C957D.jpg" />
+    <country lang="fr">France - Grande-Bretagne - Etats-Unis - Canada</country>
+    <episode-num system="xmltv_ns">4.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331053700 +0200" stop="20260331055700 +0200" channel="France4.fr">
+    <title lang="fr">Angelo la débrouille</title>
+    <sub-title lang="fr">Obéis</sub-title>
+    <desc lang="fr">Pour occuper Pierre et être tranquille, Angelo lui offre "OBEIS", un nouveau jouet - Un gros succès ! Pierre adore suivre les ordres simples d'"OBEIS", mais il n'est pas le seul à succomber aux charmes addictifs de ce jeu.</desc>
+    <credits>
+      <director>Maxime Maleo</director>
+      <director>Kevin Marry</director>
+      <actor>Gerry Rosenthal</actor>
+      <actor>Jason Harris</actor>
+      <actor>Ray Hurd</actor>
+      <producer>Marie-Pierre Journet</producer>
+      <producer>Patrick Dedieu</producer>
+      <producer>Jean Baptiste Spieser</producer>
+      <producer>Caroline Souris</producer>
+      <producer>Corinne Kouper</producer>
+      <producer>Guillaume Hellouin</producer>
+      <producer>Edward Galton</producer>
+      <composer>Vincent Boutolleau</composer>
+      <editor>Andy Rheingold</editor>
+      <editor>Sylvie De Mathuisieulx</editor>
+      <editor>Sébastien Diologent</editor>
+      <editor>Amy Jackson</editor>
+      <guest> TeamTO</guest>
+      <guest>Emma Adele Galvin</guest>
+      <guest>Khaliah Adams</guest>
+      <guest>Doug Trapp</guest>
+      <guest>Cake Entertainment</guest>
+      <guest>Danny McDermott</guest>
+      <guest>Bill Morgan</guest>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/B8C76E3AD646856336EDF97EB439482B.jpg" />
+    <country lang="fr">France - Grande-Bretagne - Etats-Unis - Canada</country>
+    <episode-num system="xmltv_ns">4.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331055700 +0200" stop="20260331055800 +0200" channel="France4.fr">
+    <title lang="fr">Angelo la débrouille</title>
+    <sub-title lang="fr">Sauvons la planete</sub-title>
+    <desc lang="fr">Inspiré par Lilou, Angelo adopte un mode de vie respectueux de l'environnement. Jusqu'à ce que son engagement aille trop loin.</desc>
+    <credits>
+      <director>Chloé Miller</director>
+      <director>Maxime Maleo</director>
+      <director>Kevin Marry</director>
+      <adapter>Jeffrey Paul Kearney</adapter>
+      <producer>Corinne Kouper</producer>
+      <producer>Tom van Waveren</producer>
+      <producer>Edward Galton</producer>
+      <producer>Guillaume Hellouin</producer>
+      <producer>Patrick Dedieu</producer>
+      <producer>Marie-Pierre Journet</producer>
+      <producer>Jean Baptiste Spieser</producer>
+      <producer>Caroline Souris</producer>
+      <composer>Vincent Boutolleau</composer>
+      <editor>Amy Jackson</editor>
+      <editor>Andy Rheingold</editor>
+      <editor>Sylvie De Mathuisieulx</editor>
+      <editor>Sébastien Diologent</editor>
+      <guest> TeamTO</guest>
+      <guest>Jennifer Visalli</guest>
+      <guest>Cassandra Lee Morris</guest>
+      <guest>Aaron Conley</guest>
+      <guest>Cake Entertainment</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/7C292EECA24AC646BC2AA033B7E72DD8.jpg" />
+    <country lang="fr">France - Grande-Bretagne - Etats-Unis - Canada</country>
+    <episode-num system="xmltv_ns">4.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331055800 +0200" stop="20260331061800 +0200" channel="France4.fr">
+    <title lang="fr">Angelo la débrouille</title>
+    <sub-title lang="fr">En attendant les lasagnes</sub-title>
+    <desc lang="fr">Pendant que leurs lasagnes dégèlent au four, Angelo et ses amis enchaînent jeux et défis loufoques pour contrer l'ennui et l'impatience de leur faim.</desc>
+    <credits>
+      <director>Maxime Maleo</director>
+      <director>Kevin Marry</director>
+      <producer>Corinne Kouper</producer>
+      <producer>Tom van Waveren</producer>
+      <producer>Edward Galton</producer>
+      <producer>Guillaume Hellouin</producer>
+      <producer>Patrick Dedieu</producer>
+      <producer>Marie-Pierre Journet</producer>
+      <producer>Jean Baptiste Spieser</producer>
+      <producer>Caroline Souris</producer>
+      <composer>Vincent Boutolleau</composer>
+      <editor>Andy Rheingold</editor>
+      <editor>Sylvie De Mathuisieulx</editor>
+      <editor>Sébastien Diologent</editor>
+      <editor>Amy Jackson</editor>
+      <guest> TeamTO</guest>
+      <guest>Jennifer Visalli</guest>
+      <guest>Cassandra Lee Morris</guest>
+      <guest>Aaron Conley</guest>
+      <guest>Cake Entertainment</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/7DE48E0EFDF3110EF801DE8504EB5BC6.jpg" />
+    <country lang="fr">France - Grande-Bretagne - Etats-Unis - Canada</country>
+    <episode-num system="xmltv_ns">4.40.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331061800 +0200" stop="20260331063000 +0200" channel="France4.fr">
+    <title lang="fr">Angelo la débrouille</title>
+    <sub-title lang="fr">Jordan la débrouille</sub-title>
+    <desc lang="fr">Quand Jordan, l'ennemi juré d'Angelo, arrive dans son école pour un échange d'étudiant, Angelo va tout faire pour que Jordan retourne à l'école Marie Curie.</desc>
+    <credits>
+      <director>Maxime Maleo</director>
+      <director>Kevin Marry</director>
+      <producer>Corinne Kouper</producer>
+      <producer>Tom van Waveren</producer>
+      <producer>Edward Galton</producer>
+      <producer>Guillaume Hellouin</producer>
+      <producer>Patrick Dedieu</producer>
+      <producer>Marie-Pierre Journet</producer>
+      <producer>Jean Baptiste Spieser</producer>
+      <producer>Caroline Souris</producer>
+      <composer>Vincent Boutolleau</composer>
+      <editor>Andy Rheingold</editor>
+      <editor>Sylvie De Mathuisieulx</editor>
+      <editor>Sébastien Diologent</editor>
+      <editor>Amy Jackson</editor>
+      <guest> TeamTO</guest>
+      <guest>Jennifer Visalli</guest>
+      <guest>Cassandra Lee Morris</guest>
+      <guest>Aaron Conley</guest>
+      <guest>Cake Entertainment</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/AE10860A7C1B234FBFF40B3A42B1B3B1.jpg" />
+    <country lang="fr">France - Grande-Bretagne - Etats-Unis - Canada</country>
+    <episode-num system="xmltv_ns">4.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331063000 +0200" stop="20260331064500 +0200" channel="France4.fr">
+    <title lang="fr">L'armure de Jade</title>
+    <sub-title lang="fr">La nouvelle Jade</sub-title>
+    <desc lang="fr">Alors que toutes les Jades du passé sont appréciées pour leurs qualités, Jade 8 est qualifiée de "Spéciale" par Malik Melki. Vexée, elle cherche à redorer son image.</desc>
+    <credits>
+      <director>Denis Do</director>
+      <director>Mary Bredin</director>
+      <director>Chloé Miller</director>
+      <director>Corinne Kouper</director>
+      <editor>Pongo Kou</editor>
+      <guest>France Television Images</guest>
+      <guest>Super RTL</guest>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/0F20F002B7D3782CF0851CB4DD523390.jpg" />
+    <country lang="fr">France - Allemagne - Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">1.13.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331065800 +0200" stop="20260331071000 +0200" channel="France4.fr">
+    <title lang="fr">Les aventures de Pil</title>
+    <sub-title lang="fr">La demoiselle du Rock Fort</sub-title>
+    <desc lang="fr">Rigolin vole le kazoo enchanté de Lugan le ménestrel et sème la zizanie dans la ville. Pil doit apprendre les rudiments de la musique auprès de Lugan pour contrer le sortilège.</desc>
+    <credits>
+      <director>Benjamin Lagard</director>
+      <director>Julien Fournet</director>
+      <director>Jérémie Guneau</director>
+      <composer>Olivier Cussac</composer>
+      <guest>France Télévisions</guest>
+      <guest>TAT Productions</guest>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/0AB8752B9431D8BB10C155DA6E02B906.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.19.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331071000 +0200" stop="20260331072500 +0200" channel="France4.fr">
+    <title lang="fr">Les aventures de Pil</title>
+    <sub-title lang="fr">Des vacances parfaites</sub-title>
+    <desc lang="fr">Crobar et Rigolin organisent à Pil des vacances à Caboulot, un charmant village de bord de mer. Mais des Vikings se mettent à envahir le village.</desc>
+    <credits>
+      <director>Benjamin Lagard</director>
+      <director>Julien Fournet</director>
+      <director>Jérémie Guneau</director>
+      <composer>Olivier Cussac</composer>
+      <guest>France Télévisions</guest>
+      <guest>TAT Productions</guest>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/1806E9769A7A4F0681D0F4453E960F92.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331073700 +0200" stop="20260331074800 +0200" channel="France4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+    <sub-title lang="fr">La Marionnette</sub-title>
+    <desc lang="fr">Oscar et Malika rencontrent Garett, une marionnette magique qui adore faire des blagues pour amuser son public. Justement, il cherche un nouveau partenaire de jeu, et Oscar est ravi d'être choisi ! Mais grâce à Malika, il comprend que les blagues de Garett sont plus blessantes qu'amusantes. Vexée, la marionnette kidnappe Oscar pour le forcer à jouer dans son spectacle, et Malika se retrouve seule pour le sauver !</desc>
+    <credits>
+      <director>Jérémy Guiter</director>
+      <actor>Ariane Sallis</actor>
+      <adapter>Wagner Cardeña</adapter>
+      <guest>WatchNext Media</guest>
+      <guest>Super RTL</guest>
+      <guest>Nate Is Late Productions</guest>
+      <guest>Kids First</guest>
+      <guest>France Télévisions</guest>
+      <guest>Channel 9 Television</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/E7DA24D2E4D4E8D2E336B8749FAA52E3.jpg" />
+    <country lang="fr">Australie - France - Allemagne</country>
+    <episode-num system="xmltv_ns">1.15.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331074800 +0200" stop="20260331080800 +0200" channel="France4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+    <sub-title lang="fr">La Mandragore</sub-title>
+    <desc lang="fr">Alors qu'Oscar et Malika s'affairent dans le parc pour remplir l'herbier qu'ils doivent apporter à l'école, Oscar déterre par accident un bébé Mandragore. Elle s'enfuit dans le parc en poussant d'affreux cris... et ses pleurs sèment des ronces maléfiques sur son passage. Avec l'aide de Violette, nos héros doivent calmer le bébé végétal qui met leur patience à rude épreuve.</desc>
+    <credits>
+      <director>Jérémy Guiter</director>
+      <actor>Ariane Sallis</actor>
+      <guest>WatchNext Media</guest>
+      <guest>Super RTL</guest>
+      <guest>Nate Is Late Productions</guest>
+      <guest>Kids First</guest>
+      <guest>France Télévisions</guest>
+      <guest>Channel 9 Television</guest>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/E24A2E0C63CA2142DFBE79A6F53168E0.jpg" />
+    <country lang="fr">Australie - France - Allemagne</country>
+    <episode-num system="xmltv_ns">1.16.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331080800 +0200" stop="20260331080900 +0200" channel="France4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+    <sub-title lang="fr">Les Vampires</sub-title>
+    <desc lang="fr">Oscar et Malika rencontrent Winifred, un gentil vampire en voyage scolaire chez les humains. Mais sa camarade Harmonie a de mauvaises intentions, et bientôt, nos héros se retrouvent confrontés à une vraie vampire revenue des ténèbres ! Nos héros doivent la renvoyer d'où elle vient avec l'aide de leurs nouveaux amis.</desc>
+    <credits>
+      <director>Edouard Kuchiman</director>
+      <director>Jérémy Guiter</director>
+      <actor>Ariane Sallis</actor>
+      <guest>WatchNext Media</guest>
+      <guest>Super RTL</guest>
+      <guest>Nate Is Late Productions</guest>
+      <guest>Kids First</guest>
+      <guest>France Télévisions</guest>
+      <guest>Channel 9 Television</guest>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/3D1A8527EAB7EA3A4F7084A9A1ADAEAD.jpg" />
+    <country lang="fr">Australie - France - Allemagne</country>
+    <episode-num system="xmltv_ns">1.17.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331080900 +0200" stop="20260331082900 +0200" channel="France4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+    <sub-title lang="fr">La Sphinge</sub-title>
+    <desc lang="fr">En découvrant un passage secret dans les ruines romaines de leur ville, Oscar et Malika rencontrent une sphinge qui leur propose de répondre à une série d'énigmes. A la clef : le trésor légendaire de l'empereur Maximus ! Mais alors que nos héros enchaînent les victoires, la créature leur met des bâtons dans les roues, menaçant même de les emprisonner pour toujours dans son monde d'énigmes !</desc>
+    <credits>
+      <director>Edouard Kuchiman</director>
+      <director>Jérémy Guiter</director>
+      <actor>Ariane Sallis</actor>
+      <guest>WatchNext Media</guest>
+      <guest>Super RTL</guest>
+      <guest>Nate Is Late Productions</guest>
+      <guest>Kids First</guest>
+      <guest>France Télévisions</guest>
+      <guest>Channel 9 Television</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/E7DA24D2E4D4E8D2E336B8749FAA52E3.jpg" />
+    <country lang="fr">Australie - France - Allemagne</country>
+    <episode-num system="xmltv_ns">1.18.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331082900 +0200" stop="20260331084000 +0200" channel="France4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+    <sub-title lang="fr">Le Pendule</sub-title>
+    <desc lang="fr">Lors d'un spectacle de rue, Malika se prête au jeu d'un hypnotiseur, Marvo, sans savoir que celui-ci utilise un pendule très spécial. Ainsi, sans s'en rendre compte, Malika vole un diamant qu'elle remet ensuite à Marvo ! Mais quand nos héros retrouvent ce dernier, lui non plus ne se souvient plus de rien ! Désormais accusés de vol, Oscar et Malika doivent retrouver le diamant et surtout : le véritable coupable !</desc>
+    <credits>
+      <director>Jérémy Guiter</director>
+      <actor>Ariane Sallis</actor>
+      <guest>WatchNext Media</guest>
+      <guest>Super RTL</guest>
+      <guest>Nate Is Late Productions</guest>
+      <guest>Kids First</guest>
+      <guest>France Télévisions</guest>
+      <guest>Channel 9 Television</guest>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/96F1E90B708C000FBE20DB9A6657B0FC.jpg" />
+    <country lang="fr">Australie - France - Allemagne</country>
+    <episode-num system="xmltv_ns">1.19.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331084000 +0200" stop="20260331084100 +0200" channel="France4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+    <sub-title lang="fr">La carpe géante</sub-title>
+    <desc lang="fr">Oscar et Malika se font avaler par une carpe géante qui surgit du lac ! Dans le ventre du poisson, ils retrouvent Maxime Dermy, le trafiquant d'animaux. Nos héros décident de faire équipe avec lui pour se libérer... mais le trafiquant saura-t-il se montrer digne de leur confiance ?</desc>
+    <credits>
+      <director>Edouard Kuchiman</director>
+      <director>Jérémy Guiter</director>
+      <actor>Ariane Sallis</actor>
+      <adapter>Jonathan Evans</adapter>
+      <guest>WatchNext Media</guest>
+      <guest>Super RTL</guest>
+      <guest>Nate Is Late Productions</guest>
+      <guest>Kids First</guest>
+      <guest>France Télévisions</guest>
+      <guest>Channel 9 Television</guest>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/94332EB62D64CD5F27FC1C9584642D8F.jpg" />
+    <country lang="fr">Australie - France - Allemagne</country>
+    <episode-num system="xmltv_ns">1.20.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331084100 +0200" stop="20260331085500 +0200" channel="France4.fr">
+    <title lang="fr">Oscar &amp; Malika, toujours en retard</title>
+    <sub-title lang="fr">La robe de mariée</sub-title>
+    <desc lang="fr">Sur le chemin de l'école, Oscar et Malika tombent sur une robe de mariée magique, capable de donner vie à d'autres vêtements. Elle jette son dévolu sur le nouveau nœud papillon d'Oscar… et embarque Oscar lui-même dans sa course folle?! Aidée par Chloé la jeune sorcière, Malika doit libérer son ami et capturer la robe avant qu'elle ne dépouille tous les habitants de leurs garde-robes.</desc>
+    <credits>
+      <director>Jérémy Guiter</director>
+      <actor>Ariane Sallis</actor>
+      <guest>WatchNext Media</guest>
+      <guest>Super RTL</guest>
+      <guest>Nate Is Late Productions</guest>
+      <guest>Kids First</guest>
+      <guest>France Télévisions</guest>
+      <guest>Channel 9 Television</guest>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/783CDC3873725DDB56E8BDC1AFCF2FE5.jpg" />
+    <country lang="fr">Australie - France - Allemagne</country>
+    <episode-num system="xmltv_ns">1.21.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331090800 +0200" stop="20260331091500 +0200" channel="France4.fr">
+    <title lang="fr">Zoé et Milo, les voyageurs du monde</title>
+    <sub-title lang="fr">Voyage en Corée</sub-title>
+    <desc lang="fr">Zoé part avec Alim en Corée à la rencontre de Kachiko après avoir appris que sa mère, qui célèbre son anniversaire, n'aime pas du tout les gâteaux.</desc>
+    <credits>
+      <guest> Tinkerland</guest>
+      <guest>PM SA</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/E354ACCBB6691B80CA73E829EEC44B96.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331092200 +0200" stop="20260331092500 +0200" channel="France4.fr">
+    <title lang="fr">Zoé et Milo, les voyageurs du monde</title>
+    <sub-title lang="fr">Voyage en Indonésie</sub-title>
+    <desc lang="fr">Alors que Zoé prépare un cadeau pour sa copine Noa, Milo s'étonne : elle a déjà fait un cadeau à Noa il y a trois semaines et un autre encore plus tôt. Zoé explique qu'elle a plusieurs amies qui s'appellent Noa. Alim suggère que ce sont sûrement les aînés de leur famille.</desc>
+    <credits>
+      <guest> Tinkerland</guest>
+      <guest>PM SA</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/E354ACCBB6691B80CA73E829EEC44B96.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">1.4.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331093400 +0200" stop="20260331093700 +0200" channel="France4.fr">
+    <title lang="fr">Anatole Latuile</title>
+    <sub-title lang="fr">Le rêve d'Anatole</sub-title>
+    <desc lang="fr">Anatole fait deux rêves qui se réalisent plus ou moins le lendemain. Naomie le convainc qu'ils prédisent l'avenir. Un troisième rêve horrifie alors Anatole.</desc>
+    <credits>
+      <director>Thibaut Chatel</director>
+      <director>Eric Gutierrez</director>
+      <guest> Superprod</guest>
+      <guest>Pyramide Productions</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/087708AB708C71732142BCD0229CB314.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331093700 +0200" stop="20260331095900 +0200" channel="France4.fr">
+    <title lang="fr">Anatole Latuile</title>
+    <sub-title lang="fr">Ma soeur invisible</sub-title>
+    <desc lang="fr">Anatole Latuile, un écolier dissipé mais plein de ressources, dépense toute son énergie à s'attirer des ennuis.</desc>
+    <credits>
+      <director>Thibaut Chatel</director>
+      <director>Eric Gutierrez</director>
+      <guest> Superprod</guest>
+      <guest>Pyramide Productions</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/F14648D85FB961EA0B76B0144B2B9F27.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331095900 +0200" stop="20260331101100 +0200" channel="France4.fr">
+    <title lang="fr">Anatole Latuile</title>
+    <sub-title lang="fr">La ferme à la maison</sub-title>
+    <desc lang="fr">Anatole Latuile, un écolier dissipé mais plein de ressources, dépense toute son énergie à s'attirer des ennuis.</desc>
+    <credits>
+      <director>Thibaut Chatel</director>
+      <director>Eric Gutierrez</director>
+      <guest> Superprod</guest>
+      <guest>Pyramide Productions</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/651B02453924C8F99324F19DD4D0A5AF.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331101100 +0200" stop="20260331102300 +0200" channel="France4.fr">
+    <title lang="fr">Anatole Latuile</title>
+    <sub-title lang="fr">Le casse-tête Morvoxien</sub-title>
+    <desc lang="fr">Anatole Latuile est un cancre sympathique. Doté d'une imagination sans limite, il ne manque jamais de ressources pour résoudre les problèmes qu'il doit affronter. Malheureusement, les solutions qu'il met au point avec ses copains de CM1 dégénèrent imman...</desc>
+    <credits>
+      <director>Thibaut Chatel</director>
+      <director>Eric Gutierrez</director>
+      <guest> Superprod</guest>
+      <guest>Pyramide Productions</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/651B02453924C8F99324F19DD4D0A5AF.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331102300 +0200" stop="20260331103500 +0200" channel="France4.fr">
+    <title lang="fr">Anatole Latuile</title>
+    <sub-title lang="fr">La meilleure amie d'Olympe</sub-title>
+    <desc lang="fr">Anatole Latuile est un cancre sympathique. Doté dune imagination sans limite, il ne manque jamais de ressources pour</desc>
+    <credits>
+      <director>Thibaut Chatel</director>
+      <director>Eric Gutierrez</director>
+      <guest> Superprod</guest>
+      <guest>Pyramide Productions</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/651B02453924C8F99324F19DD4D0A5AF.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331103500 +0200" stop="20260331103700 +0200" channel="France4.fr">
+    <title lang="fr">Anatole Latuile</title>
+    <sub-title lang="fr">Richard, la Glue</sub-title>
+    <desc lang="fr">S'il se comporte de manière exemplaire toute la journée, Anatole recevra de ses parents deux places pour l'avant-première du film Startruc. Motivé, Anatole affute ses bonnes résolutions et embarque Jason dans le défi. Mais la présence imposée de Richard chez les Latuile vient compromettre le plan "enfant exemplaire" d'Anatole…</desc>
+    <credits>
+      <director>Thibaut Chatel</director>
+      <director>Eric Gutierrez</director>
+      <guest> Superprod</guest>
+      <guest>Pyramide Productions</guest>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/F4DBD0508DDFB5D99C8E1A43D16652B7.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">1.44.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331103700 +0200" stop="20260331105000 +0200" channel="France4.fr">
+    <title lang="fr">Anatole Latuile</title>
+    <sub-title lang="fr">Trop fort Anatole</sub-title>
+    <desc lang="fr">Anatole est un petit gars imaginatif, inventif et rebelle. Et quand les stratagèmes qu'il met en place se retournent contre lui et qu'il se prend dans ses propres filets, il reste un beau perdant, un looser magnifique. C'est dans ses glorieuses défaites qu'il gagne l'amitié et le respect des autres, en particulier des jeunes téléspectateurs. Quel plaisir de le retrouver pour une deuxième saison ! " On ne change pas une équipe qui gagne ! "</desc>
+    <credits>
+      <director>Thibaut Chatel</director>
+      <director>Eric Gutierrez</director>
+      <guest> Superprod</guest>
+      <guest>Pyramide Productions</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/651B02453924C8F99324F19DD4D0A5AF.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331110300 +0200" stop="20260331110400 +0200" channel="France4.fr">
+    <title lang="fr">Les as de la jungle à la rescousse</title>
+    <sub-title lang="fr">Le surfer d'argan</sub-title>
+    <desc lang="fr">Chronique des aventures de Maurice, le pingouin-tigre, et de son équipe de justiciers.</desc>
+    <credits>
+      <director>Benoît Somville</director>
+      <director>Laurent Bru</director>
+      <guest>TAT Productions</guest>
+      <guest> Films</guest>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/E576ED4E4E57C2942D46D3931357870B.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">2.20.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331110400 +0200" stop="20260331112400 +0200" channel="France4.fr">
+    <title lang="fr">Les as de la jungle à la rescousse</title>
+    <sub-title lang="fr">La goyave ou la papaye</sub-title>
+    <desc lang="fr">Les suricates ne veulent plus jouer au foot, ne veulent plus faire la cueillette, ne veulent plus bouger. Les As vont découvrir que les suricates sont victimes d'un méchant qui leur livre de faux fruits en échange d'objets, ils n'ont plus besoin de se bouger ou de faire la cueillette...</desc>
+    <credits>
+      <director>Sylvain Charreau</director>
+      <director>Julien Fournet</director>
+      <actor>Paul Borne</actor>
+      <actor>Laurent Morteau</actor>
+      <actor>Michel Mella</actor>
+      <actor>Emmanuel Curtil</actor>
+      <actor>Philippe Bozo</actor>
+      <adapter>Hervé Benedetti</adapter>
+      <adapter>Nicolas Robin</adapter>
+      <editor>Eric Tosti</editor>
+      <guest>PGS Entertainment</guest>
+    </credits>
+    <date>2016</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/4C345BA4B5580B0B608A9A919BFBECF9.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">1.18.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331112400 +0200" stop="20260331112500 +0200" channel="France4.fr">
+    <title lang="fr">Les as de la jungle à la rescousse</title>
+    <sub-title lang="fr">21 Jungle Street</sub-title>
+    <desc lang="fr">Des écoliers de la jungle sont victimes de vols mystérieux. Le coupable, qui ne laisse aucune trace, reste introuvable. Une intervention des As ne passerait pas inaperçue et pourrait perturber les cours... Pas le choix, Maurice va devoir infiltrer l'école et se faire passer pour un élève.</desc>
+    <credits>
+      <director>David Alaux</director>
+      <director>Eric Tosti</director>
+      <guest>PGS HK Ltd</guest>
+    </credits>
+    <date>2019</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/142F6A0C03597A69E9422ACFBF094A9E.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331112500 +0200" stop="20260331113700 +0200" channel="France4.fr">
+    <title lang="fr">Les as de la jungle : en direct</title>
+    <sub-title lang="fr">La peur du noir</sub-title>
+    <desc lang="fr">Batricia est une chauve-souris un peu spéciale. En effet, elle a peur du noir...</desc>
+    <credits>
+      <director>Eric Tosti</director>
+      <director>David Alaux</director>
+      <adapter>David Alaux</adapter>
+      <adapter>Eric Tosti</adapter>
+      <producer>Bernard Birebent</producer>
+      <producer>Jean-François Tosti</producer>
+      <producer>Francois Cedéne</producer>
+      <composer>Olivier Cussac</composer>
+      <editor>Jean-François Tosti</editor>
+      <guest>Paul Borne</guest>
+      <guest>Laurent Morteau</guest>
+      <guest>Philippe Bozo</guest>
+      <guest>Pascal Casanova</guest>
+      <guest>TAT Productions</guest>
+      <guest>Erin Fitzgerald</guest>
+      <guest>Emmanuel Curtil</guest>
+      <guest>Michel Mella</guest>
+      <guest>Jean-Philippe Puymartin</guest>
+      <guest>Céline Monsarrat</guest>
+      <guest>Dre Gordon</guest>
+      <guest>Kirk Thornton</guest>
+      <guest>Cam Stance</guest>
+    </credits>
+    <date>2011</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/DF92A4CCF93109873C6A4E7DCF4A88F0.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331113700 +0200" stop="20260331113900 +0200" channel="France4.fr">
+    <title lang="fr">Shaun le mouton</title>
+    <sub-title lang="fr">Coup de sifflet</sub-title>
+    <desc lang="fr">Réalisant que Bitzer possède une série de sifflets qui peuvent contrôler les mouvements du troupeau, Shaun les vole et fait bientôt danser le troupeau sur son air.</desc>
+    <credits>
+      <director>Seamus Malone</director>
+      <adapter>Seamus Malone</adapter>
+      <producer>Julie Lockhart</producer>
+      <composer>Mark Thomas</composer>
+      <editor>Bob Baker</editor>
+      <editor>Nick Park</editor>
+      <guest>John Sparkes</guest>
+      <guest>Justin Fletcher</guest>
+      <guest>Aardman Animations</guest>
+      <guest>Richard Webber</guest>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/CD706EA3A64703E719F05E202257C015.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">6.8.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331113900 +0200" stop="20260331115000 +0200" channel="France4.fr">
+    <title lang="fr">Shaun le mouton</title>
+    <sub-title lang="fr">Camping sauvage</sub-title>
+    <desc lang="fr">Après avoir été enfermé à l'extérieur de la bergerie, le troupeau peut-il survivre au camping avec Shaun ou va-t-il rejoindre la tente convenable et fiable de Bitzer ?</desc>
+    <credits>
+      <director>Seamus Malone</director>
+      <adapter>Isabel Fay</adapter>
+      <producer>Julie Lockhart</producer>
+      <composer>Mark Thomas</composer>
+      <editor>Bob Baker</editor>
+      <editor>Nick Park</editor>
+      <guest>John Sparkes</guest>
+      <guest>Justin Fletcher</guest>
+      <guest>Aardman Animations</guest>
+      <guest>Richard Webber</guest>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/3AA789D2621B01BD0E5A31CF6CBF16B5.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">6.9.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331115000 +0200" stop="20260331115700 +0200" channel="France4.fr">
+    <title lang="fr">Shaun le mouton</title>
+    <sub-title lang="fr">Le coup de foudre</sub-title>
+    <desc lang="fr">Un nouveau mouton ébouriffé arrive dans le troupeau. Après un bon bain, le nouveau venu s'avère être une ravissante brebis...</desc>
+    <credits>
+      <director>Richard Starzak</director>
+      <director>Richard Webber</director>
+      <adapter>Kay Stonham</adapter>
+      <adapter>Lee Pressman</adapter>
+      <producer>Julie Lockhart</producer>
+      <composer>Mark Thomas</composer>
+      <editor>Nick Park</editor>
+      <editor>Richard Starzak</editor>
+      <guest>Justin Fletcher</guest>
+      <guest>Aardman Animations</guest>
+      <guest>Kate Harbour</guest>
+      <guest>Richard Webber</guest>
+      <guest>John Sparkes</guest>
+    </credits>
+    <date>2009</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/DD083D5FC1BF850397910CF27286ED42.jpg" />
+    <country lang="fr">Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">1.18.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331115700 +0200" stop="20260331115900 +0200" channel="France4.fr">
+    <title lang="fr">Les 3 Mousquetaires</title>
+    <sub-title lang="fr">La garnison</sub-title>
+    <desc lang="fr">Avec l'autorisation de Richelieu, Rochefort fait construire une garnison dans les jardins du palais. Les Trois Mousquetaires tentent de s'y opposer.</desc>
+    <credits>
+      <director>Stéphane Mit</director>
+      <editor>Alexandre Dumas</editor>
+      <guest>Method Animation</guest>
+      <guest>France Télévisions</guest>
+      <guest>Palomar Animation</guest>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/4A7CEC947B9ED76E17F5087C456736BF.jpg" />
+    <country lang="fr">France - Italie</country>
+    <episode-num system="xmltv_ns">0.48.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331115900 +0200" stop="20260331122000 +0200" channel="France4.fr">
+    <title lang="fr">Les 3 Mousquetaires</title>
+    <sub-title lang="fr">Le grand prix</sub-title>
+    <desc lang="fr">Richelieu est décidé à se débarrasser des Trois Mousquetaires. Milady éloigne d'Artagnan, Athos et Aramis le temps que Manfred lance une tarte à la crème sur le roi.</desc>
+    <credits>
+      <director>Stéphane Mit</director>
+      <editor>Alexandre Dumas</editor>
+      <guest>Method Animation</guest>
+      <guest>France Télévisions</guest>
+      <guest>Palomar Animation</guest>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/4A7CEC947B9ED76E17F5087C456736BF.jpg" />
+    <country lang="fr">France - Italie</country>
+    <episode-num system="xmltv_ns">0.49.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331122000 +0200" stop="20260331123100 +0200" channel="France4.fr">
+    <title lang="fr">Les 3 Mousquetaires</title>
+    <sub-title lang="fr">Le blason de l'amitié</sub-title>
+    <desc lang="fr">Afin d'obtenir son blason, Milady fait enlever Monsieur de Tréville. Sa fille Olivia n'ose pas se confier à ses amies. D'Artagnan fait échouer la remise de la rançon.</desc>
+    <credits>
+      <director>Stéphane Mit</director>
+      <adapter>Marie De Banville</adapter>
+      <composer>Matteo Locasciulli</composer>
+      <editor>Alexandre Dumas</editor>
+      <guest>Method Animation</guest>
+      <guest>Mediawan Kids 1 Family</guest>
+      <guest>Palomar Animation</guest>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/34140878033C3D9BF34FA8357EB7EDB8.jpg" />
+    <country lang="fr">France - Italie</country>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331123100 +0200" stop="20260331124400 +0200" channel="France4.fr">
+    <title lang="fr">Les 3 Mousquetaires</title>
+    <sub-title lang="fr">La couronne volée</sub-title>
+    <desc lang="fr">Lors d'une assemblée, Louis XIII porte la couronne de son père. Une occasion unique pour Richelieu de l'échanger contre sa réplique parfaite.</desc>
+    <credits>
+      <director>Stéphane Mit</director>
+      <adapter>Elisa Loké</adapter>
+      <composer>Matteo Locasciulli</composer>
+      <editor>Alexandre Dumas</editor>
+      <guest>Method Animation</guest>
+      <guest>France Télévisions</guest>
+      <guest>Palomar Animation</guest>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/4779C33A90A133942E04438C6F441213.jpg" />
+    <country lang="fr">France - Italie</country>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331124400 +0200" stop="20260331130600 +0200" channel="France4.fr">
+    <title lang="fr">Belfort &amp; Lupin</title>
+    <sub-title lang="fr">Le crime d'Ariane</sub-title>
+    <desc lang="fr">Belfort et Lupin mettent tout en oeuvre pour innocenter leur amie Ariane. La chatte est en effet accusée d'avoir dévoré le perroquet de la Reine.</desc>
+    <credits>
+      <director>Philippe Vidal</director>
+      <adapter>Cyril Deydier</adapter>
+      <adapter>Catherine Bilimoff</adapter>
+      <adapter>Baptiste Grosfiley</adapter>
+      <producer>Audrey Serre</producer>
+      <composer>Thibault Agyeman</composer>
+      <composer>Gabriel Samba</composer>
+      <editor>T.J. Stehly</editor>
+      <guest>Alexandre Nguyen</guest>
+      <guest>Ellipse Programme</guest>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/231761F4402F00633336E81AF8B52EBE.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331130600 +0200" stop="20260331133000 +0200" channel="France4.fr">
+    <title lang="fr">Belfort &amp; Lupin</title>
+    <sub-title lang="fr">La maison perruque</sub-title>
+    <desc lang="fr">Aujourd'hui, Monsieur Binet, le perruquier royal, est en panique : la perruque favorite de la Reine a disparu. Gazette, la souris, est bouleversée, car cette perruque, c'est sa maison.</desc>
+    <credits>
+      <director>Philippe Vidal</director>
+      <adapter>T.J. Stehly</adapter>
+      <adapter>Cyril Deydier</adapter>
+      <adapter>Catherine Bilimoff</adapter>
+      <producer>Audrey Serre</producer>
+      <composer>Thibault Agyeman</composer>
+      <editor>T.J. Stehly</editor>
+      <guest>Hugo Brunswick</guest>
+      <guest>Barbara Tissier</guest>
+      <guest>Emmanuel Rausenberger</guest>
+      <guest>Antoine Schoumsky</guest>
+      <guest>Alexandre Nguyen</guest>
+      <guest>Guillaume Beaujolais</guest>
+      <guest>Ellipse Programme</guest>
+      <guest>Nathalie Homs</guest>
+      <guest>Magali Rosenzweig</guest>
+    </credits>
+    <date>2025</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/2B657B3F32A9FF76756D59D344DFBD6E.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331135900 +0200" stop="20260331140400 +0200" channel="France4.fr">
+    <title lang="fr">ASKIP</title>
+    <sub-title lang="fr">Le jour du 1er avril</sub-title>
+    <desc lang="fr">La mixité au collège, c'est terminé ! Certains élèves apprécient cette initiative, d'autres trouvent qu'il s'agit d'une régression terrible.</desc>
+    <credits>
+      <director>Yannig Dumoulin</director>
+      <actor>Nassima Benchicou</actor>
+      <actor>Gabriel Caballero</actor>
+      <actor>Agnès Miguras</actor>
+      <actor>Guillaume Auvert</actor>
+      <actor>Emilia Blayer</actor>
+      <guest>Capa Drama</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Jeunesse</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/EC94BA4944B7CD87BD1AF5CB50283639.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">2.43.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331140400 +0200" stop="20260331142800 +0200" channel="France4.fr">
+    <title lang="fr">ASKIP</title>
+    <sub-title lang="fr">Le jour du brevet blanc</sub-title>
+    <desc lang="fr">Les 3èmes stressent à cause du brevet blanc qui doit avoir lieu cet après-midi, surtout Noa qui est dans tous ses états. Chacun tente de gérer son stress à sa manière, mais l'angoisse de Noa contamine toute la classe…</desc>
+    <credits>
+      <director>Yannig Dumoulin</director>
+      <actor>Nassima Benchicou</actor>
+      <actor>Gabriel Caballero</actor>
+      <actor>Agnès Miguras</actor>
+      <actor>Guillaume Auvert</actor>
+      <actor>Emilia Blayer</actor>
+      <guest>Capa Drama</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Jeunesse</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/EC94BA4944B7CD87BD1AF5CB50283639.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">2.45.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331142800 +0200" stop="20260331144400 +0200" channel="France4.fr">
+    <title lang="fr">L'Académie des Super-Héros</title>
+    <sub-title lang="fr">La chambre de la peur</sub-title>
+    <desc lang="fr">Les élèves sont mis à l'épreuve lorsqu'ils doivent affronter leur plus grande peur dans la \" Chambre de la peur \". Et les élèves de première année Jenny, Sonya et Magnet tentent de participer à la soirée organisée par Pierre.</desc>
+    <credits>
+      <director>Andrea Eckerbom</director>
+      <director>Are Valle Skjelvan</director>
+      <actor>Selome Emnetu</actor>
+      <actor>Elita Marie Mack Roald</actor>
+      <actor>Natalia Dellaporta</actor>
+      <actor>Iver Aunbu Sandemose</actor>
+      <actor>Noelia Thorstensen</actor>
+      <actor>Sahil Abbas</actor>
+      <actor>Kristine Grændsen</actor>
+      <actor>Elsa Nandi Ndimande</actor>
+      <actor>Jonathan Lockwood Nissen-Meyer</actor>
+      <actor>Ingrid Olivia Bjerknes</actor>
+      <actor>Agnes Duvold</actor>
+      <actor>Leopold Løw Thu</actor>
+      <adapter>Birgitte Rustad Wegener</adapter>
+      <producer>Are Valle Skjelvan</producer>
+      <producer>Nina Wikstøl</producer>
+      <producer>Trine Dommarsnes Stubberud</producer>
+      <producer>Aleksander Herresthal</producer>
+      <composer>Øystein Bø Sollie</composer>
+      <editor>Are Valle Skjelvan</editor>
+      <guest>Seefood Productions</guest>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Jeunesse</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/84B9F5F169026A7948E76CC39EB3D621.jpg" />
+    <country lang="fr">Norvège - Allemagne</country>
+    <episode-num system="xmltv_ns">1.1.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331144400 +0200" stop="20260331145200 +0200" channel="France4.fr">
+    <title lang="fr">L'Académie des Super-Héros</title>
+    <sub-title lang="fr">L'examen d'ArchiVolt</sub-title>
+    <desc lang="fr">Quand ArchiVolt perd sa licence d'enseignant, Raymond et Tellie doivent l'aider à repasser son examen. Uno et Bettina jouent à un jeu de société, mais ils ne veulent pas laisser le jeu sans surveillance.</desc>
+    <credits>
+      <director>Andrea Eckerbom</director>
+      <director>Are Valle Skjelvan</director>
+      <director>Torstein Bjørklund</director>
+      <actor>Olli Wermskog</actor>
+      <actor>Bjørn Isak Winther</actor>
+      <actor>Elita Marie Mack Roald</actor>
+      <actor>Natalia Dellaporta</actor>
+      <actor>Nils Peder Vassnes</actor>
+      <actor>John F. Brungot</actor>
+      <actor>Selome Emnetu</actor>
+      <actor>Ingrid Olivia Bjerknes</actor>
+      <actor>Birgitte Victoria Svendsen</actor>
+      <actor>Kadir Duran</actor>
+      <adapter>Eirik Moen Holsve</adapter>
+      <adapter>Astrid Urdal</adapter>
+      <producer>Are Valle Skjelvan</producer>
+      <producer>Nina Wikstøl</producer>
+      <producer>Trine Dommarsnes Stubberud</producer>
+      <producer>Aleksander Herresthal</producer>
+      <composer>Øystein Bø Sollie</composer>
+      <editor>Are Valle Skjelvan</editor>
+      <guest>Seefood Productions</guest>
+    </credits>
+    <date>2024</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Jeunesse</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/74D2C22D2010B48C2FC9E7952639A11F.jpg" />
+    <country lang="fr">Norvège - Allemagne</country>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331145200 +0200" stop="20260331151300 +0200" channel="France4.fr">
+    <title lang="fr">Héros à moitié</title>
+    <sub-title lang="fr">Dramédie mon amie</sub-title>
+    <desc lang="fr">Lorsque Mo découvre que Stella est son binôme pour participer au grand jeu vidéo "Live" de l'année, c'est le plus beau jour de sa vie. Mais il va aller de surprise en surprise.</desc>
+    <credits>
+      <director>Cédric Frémeaux</director>
+      <adapter>Chloé Sastre</adapter>
+      <adapter>Romain Gadiou</adapter>
+      <guest>Emmanuel Curtil</guest>
+      <guest>Thomas Sagols</guest>
+      <guest>Claire Baradat</guest>
+      <guest>Benjamin Bollen</guest>
+      <guest>Adeline Chetail</guest>
+      <guest>Emmanuel Garijo</guest>
+      <guest>Cyber Group Studios</guest>
+      <guest>Fanny Bloc</guest>
+      <guest>Yoann Sover</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/6EFA18DAB7C5F77BFB8B0671FB0CC098.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.26.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331151300 +0200" stop="20260331151400 +0200" channel="France4.fr">
+    <title lang="fr">Héros à moitié</title>
+    <sub-title lang="fr">Le Mozart de la guitare</sub-title>
+    <desc lang="fr">Sam s'est vu refuser son hymne des APDs sur un célèbre site d'oeuvres d'art animalières. Il faut avouer qu'il s'est enregistrée seule à la guimbarde.</desc>
+    <credits>
+      <director>Cédric Frémeaux</director>
+      <adapter>Chloé Sastre</adapter>
+      <adapter>Romain Gadiou</adapter>
+      <guest>Emmanuel Curtil</guest>
+      <guest>Thomas Sagols</guest>
+      <guest>Claire Baradat</guest>
+      <guest>Benjamin Bollen</guest>
+      <guest>Adeline Chetail</guest>
+      <guest>Emmanuel Garijo</guest>
+      <guest>Cyber Group Studios</guest>
+      <guest>Fanny Bloc</guest>
+      <guest>Yoann Sover</guest>
+    </credits>
+    <date>2022</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/6EFA18DAB7C5F77BFB8B0671FB0CC098.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.27.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331151400 +0200" stop="20260331153400 +0200" channel="France4.fr">
+    <title lang="fr">Héros à moitié</title>
+    <sub-title lang="fr">Les rois de la cantine</sub-title>
+    <desc lang="fr">M. Brick a cuisiné les "bon petits plats d'antan" de sa mère aux élèves. Sam et Mo demandent au Sceptre le pouvoir de faire apparaître toute la nourriture qu'ils veulent.</desc>
+    <credits>
+      <director>Cédric Frémeaux</director>
+      <adapter>Chloé Sastre</adapter>
+      <adapter>Romain Gadiou</adapter>
+      <guest>Emmanuel Curtil</guest>
+      <guest>Thomas Sagols</guest>
+      <guest>Claire Baradat</guest>
+      <guest>Benjamin Bollen</guest>
+      <guest>Adeline Chetail</guest>
+      <guest>Emmanuel Garijo</guest>
+      <guest>Cyber Group Studios</guest>
+      <guest>Fanny Bloc</guest>
+      <guest>Yoann Sover</guest>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/1A92929F6448D3C1D37B2EFAEF6DF9C2.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.28.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331153400 +0200" stop="20260331153500 +0200" channel="France4.fr">
+    <title lang="fr">Héros à moitié</title>
+    <sub-title lang="fr">Le pouvoir du cornichon</sub-title>
+    <desc lang="fr">Sam demande un pouvoir pour récupérer Riton coincé dans le conduit de ventilation de l'école, mais se trompe de mot lors du rituel sceptral.</desc>
+    <credits>
+      <director>Cédric Frémeaux</director>
+      <adapter>Chloé Sastre</adapter>
+      <adapter>Romain Gadiou</adapter>
+      <guest>Emmanuel Curtil</guest>
+      <guest>Thomas Sagols</guest>
+      <guest>Claire Baradat</guest>
+      <guest>Benjamin Bollen</guest>
+      <guest>Adeline Chetail</guest>
+      <guest>Emmanuel Garijo</guest>
+      <guest>Cyber Group Studios</guest>
+      <guest>Fanny Bloc</guest>
+      <guest>Yoann Sover</guest>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/1A92929F6448D3C1D37B2EFAEF6DF9C2.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.29.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331153500 +0200" stop="20260331155500 +0200" channel="France4.fr">
+    <title lang="fr">Héros à moitié</title>
+    <sub-title lang="fr">Le zapping de l'ennui</sub-title>
+    <desc lang="fr">Mo demande au Sceptre Spectral de pouvoir zapper les moments "inutiles" de sa série préférée pour savoir la fin. Mais le système fonctionne beaucoup trop bien.</desc>
+    <credits>
+      <director>Cédric Frémeaux</director>
+      <adapter>Chloé Sastre</adapter>
+      <adapter>Romain Gadiou</adapter>
+      <guest>Emmanuel Curtil</guest>
+      <guest>Thomas Sagols</guest>
+      <guest>Claire Baradat</guest>
+      <guest>Benjamin Bollen</guest>
+      <guest>Adeline Chetail</guest>
+      <guest>Emmanuel Garijo</guest>
+      <guest>Cyber Group Studios</guest>
+      <guest>Fanny Bloc</guest>
+      <guest>Yoann Sover</guest>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/1A92929F6448D3C1D37B2EFAEF6DF9C2.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.30.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331155500 +0200" stop="20260331155700 +0200" channel="France4.fr">
+    <title lang="fr">Héros à moitié</title>
+    <sub-title lang="fr">Libres comme l'air</sub-title>
+    <desc lang="fr">Pour récupérer son drone, sur lequel il pense que Riton est monté par accident, Mo demande au sceptre le pouvoir de voler. Le résultat est chaotique.</desc>
+    <credits>
+      <director>Cédric Frémeaux</director>
+      <adapter>Chloé Sastre</adapter>
+      <adapter>Romain Gadiou</adapter>
+      <guest>Emmanuel Curtil</guest>
+      <guest>Thomas Sagols</guest>
+      <guest>Claire Baradat</guest>
+      <guest>Benjamin Bollen</guest>
+      <guest>Adeline Chetail</guest>
+      <guest>Emmanuel Garijo</guest>
+      <guest>Cyber Group Studios</guest>
+      <guest>Fanny Bloc</guest>
+      <guest>Yoann Sover</guest>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/6EFA18DAB7C5F77BFB8B0671FB0CC098.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.31.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331155700 +0200" stop="20260331161800 +0200" channel="France4.fr">
+    <title lang="fr">Molusco</title>
+    <sub-title lang="fr">Sauvez Poissonou</sub-title>
+    <desc lang="fr">Molusco casse accidentellement la précieuse télé de Coco et la remplace par un poisson rouge. Mais Molusco regrette vite son geste : ce poisson est en train de lui prendre sa place dans le coeur de Coco...</desc>
+    <credits>
+      <director>Franck Ekinci</director>
+      <adapter>Ciaran Murtagh</adapter>
+      <producer>Camille Serceau</producer>
+      <producer>Franck Ekinci</producer>
+      <composer>Alexis Pecharman</composer>
+      <composer>Denis Vautrin</composer>
+      <guest>Emmanuel Garijo</guest>
+      <guest>Caroline Mozzone</guest>
+      <guest>The Walt Disney Company</guest>
+      <guest>Yoann Sover</guest>
+      <guest>Marc Bretonnière</guest>
+      <guest>Je Suis Bien Content</guest>
+      <guest>Donald Reignoux</guest>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/93707E2AD48F772A906B8A982A8973CA.jpg" />
+    <country lang="fr">Etats-Unis - France</country>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331161800 +0200" stop="20260331161900 +0200" channel="France4.fr">
+    <title lang="fr">Molusco</title>
+    <sub-title lang="fr">Musculo</sub-title>
+    <desc lang="fr">Pour avoir l'air aussi musclé qu'Ozzy, Molusco se met à la musculation, en vain. Il a finalement une idée de génie : il dispose des perles dans tout son corps.</desc>
+    <credits>
+      <director>Damien Barrau</director>
+      <director>Fabien Limousin</director>
+      <adapter>Neil Mossey</adapter>
+      <adapter>Tim Dann</adapter>
+      <producer>Camille Serceau</producer>
+      <producer>Franck Ekinci</producer>
+      <composer>Alexis Pecharman</composer>
+      <composer>Denis Vautrin</composer>
+      <guest>Jeff Schjerlund</guest>
+      <guest>The Walt Disney Company</guest>
+      <guest>Marc Bretonnière</guest>
+      <guest>Donald Reignoux</guest>
+      <guest>Akie Kotabe</guest>
+      <guest>Yoann Sover</guest>
+      <guest>Emmanuel Garijo</guest>
+      <guest>Caroline Mozzone</guest>
+      <guest>Je Suis Bien Content</guest>
+      <guest>Matthew Forbes</guest>
+      <guest>Rasmus Hardiker</guest>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/93707E2AD48F772A906B8A982A8973CA.jpg" />
+    <country lang="fr">Etats-Unis - France</country>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331161900 +0200" stop="20260331163900 +0200" channel="France4.fr">
+    <title lang="fr">Molusco</title>
+    <sub-title lang="fr">Le squelette</sub-title>
+    <desc lang="fr">Molusco fait une chute à l'école et on l'envoie à l'hôpital pour faire des radios. Catastrophe, il n'a pas de squelette ! Il en trouve un dans le bureau d'un médecin et l'avale, rassuré. Sauf que c'est un squelette de singe et qu'on le prend pour le chaînon manquant...</desc>
+    <credits>
+      <director>Fabien Limousin</director>
+      <director>Damien Barrau</director>
+      <adapter>Joel Jessup</adapter>
+      <producer>Camille Serceau</producer>
+      <producer>Franck Ekinci</producer>
+      <composer>Alexis Pecharman</composer>
+      <composer>Denis Vautrin</composer>
+      <guest>The Walt Disney Company</guest>
+      <guest>Jeff Schjerlund</guest>
+      <guest>Donald Reignoux</guest>
+      <guest>Marc Bretonnière</guest>
+      <guest>Yoann Sover</guest>
+      <guest>Akie Kotabe</guest>
+      <guest>Rob Rackstraw</guest>
+      <guest>Emmanuel Garijo</guest>
+      <guest>Caroline Mozzone</guest>
+      <guest>Je Suis Bien Content</guest>
+      <guest>Matthew Forbes</guest>
+      <guest>Rasmus Hardiker</guest>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/93707E2AD48F772A906B8A982A8973CA.jpg" />
+    <country lang="fr">Etats-Unis - France</country>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331163900 +0200" stop="20260331165200 +0200" channel="France4.fr">
+    <title lang="fr">Molusco</title>
+    <sub-title lang="fr">La Reine du quiz</sub-title>
+    <desc lang="fr">Molusco et Rafik inscrivent Coco à un jeu télévisé auquel il est particulièrement doué. Pour y aller, Molusco fait le corps et Coco la tête. Mais les autres concurrents ne sont pas très honnêtes…</desc>
+    <credits>
+      <director>Fabien Limousin</director>
+      <director>Damien Barrau</director>
+      <adapter>Ciaran Murtagh</adapter>
+      <adapter>Andrew Jones</adapter>
+      <producer>Camille Serceau</producer>
+      <producer>Franck Ekinci</producer>
+      <composer>Alexis Pecharman</composer>
+      <composer>Denis Vautrin</composer>
+      <guest>Jeff Schjerlund</guest>
+      <guest>The Walt Disney Company</guest>
+      <guest>Marc Bretonnière</guest>
+      <guest>Donald Reignoux</guest>
+      <guest>Akie Kotabe</guest>
+      <guest>Yoann Sover</guest>
+      <guest>Emmanuel Garijo</guest>
+      <guest>Caroline Mozzone</guest>
+      <guest>Je Suis Bien Content</guest>
+      <guest>Matthew Forbes</guest>
+      <guest>Rasmus Hardiker</guest>
+    </credits>
+    <date>2014</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/93707E2AD48F772A906B8A982A8973CA.jpg" />
+    <country lang="fr">Etats-Unis - France</country>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331165200 +0200" stop="20260331171400 +0200" channel="France4.fr">
+    <title lang="fr">Mystery Lane</title>
+    <sub-title lang="fr">Le chevalier maléfique</sub-title>
+    <desc lang="fr">Clever est la cochon d'inde la plus intelligente du monde. Et cet esprit hors du commun est au service d'une noble cause : la justice. Ou la vérité. Ou les deux si possible. Car Clever enquête, et pas n'importe oAı. Au cA"ur du Londres mystérieux et brumeux A souhaits, Clever résout les mystères les plus épais qui touchent les animaux de compagnie londoniens et leurs maîtres.</desc>
+    <credits>
+      <director>Victor-Emmanuel Moulin</director>
+      <adapter>Antoine Rodelet</adapter>
+      <adapter>Elisa Rodelet</adapter>
+      <adapter>Josselin Charier</adapter>
+      <producer>Antoine Rodelet</producer>
+      <producer>Josselin Charier</producer>
+      <guest>Barbara Scaff</guest>
+      <guest>Barbara Tissier</guest>
+      <guest>Guillaume Orsat</guest>
+      <guest>Martial Le Minoux</guest>
+      <guest>Studio Hari</guest>
+      <guest>Rudi James Jephcott</guest>
+      <guest>Jérémy Prévost</guest>
+      <guest>Kaycie Chase</guest>
+      <guest>Doug Rand</guest>
+      <guest>Benoît Du Pac</guest>
+      <guest>Andy Chase</guest>
+    </credits>
+    <date>2021</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/93D55EE77D643EFAEDF9BAC6C0BCCA25.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331171400 +0200" stop="20260331172800 +0200" channel="France4.fr">
+    <title lang="fr">Mystery Lane</title>
+    <sub-title lang="fr">Une cage vide à Wimbledon</sub-title>
+    <desc lang="fr">Flash, le champion de course de lévriers, disparaît dans des circonstances incompréhensibles de son box ultra sécurisé la veille d'une course importante.</desc>
+    <credits>
+      <director>Cédric Lachenaud</director>
+      <adapter>Antoine Rodelet</adapter>
+      <adapter>Elisa Rodelet</adapter>
+      <adapter>Josselin Charier</adapter>
+      <producer>Antoine Rodelet</producer>
+      <producer>Josselin Charier</producer>
+      <guest>Barbara Scaff</guest>
+      <guest>Barbara Tissier</guest>
+      <guest>Guillaume Orsat</guest>
+      <guest>Martial Le Minoux</guest>
+      <guest>Studio Hari</guest>
+      <guest>Kaycie Chase</guest>
+      <guest>Andy Chase</guest>
+      <guest>Rudi James Jephcott</guest>
+      <guest>Jérémy Prévost</guest>
+      <guest>Doug Rand</guest>
+      <guest>Benoît Du Pac</guest>
+    </credits>
+    <date>2023</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/973D4BFED8F7CCA1B6D6837522A746E4.jpg" />
+    <country lang="fr">France</country>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331172800 +0200" stop="20260331174600 +0200" channel="France4.fr">
+    <title lang="fr">Okoo-koo</title>
     <sub-title lang="fr">Emission du 31 mars 2026</sub-title>
+    <desc lang="fr">Okoo-koo est l'émission daccueil et de divertissement avec une pointe de pédagogie, portée par une bande de jeunes animateurs : Manon, Julia, Karim et Jason.</desc>
+    <date>2026</date>
+    <category lang="fr">Magazine</category>
+    <category lang="fr">Jeunesse</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/D701455A48712604B3C06B13C1E43EDB.jpg" />
+    <country lang="fr">France</country>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331185000 +0200" stop="20260331185200 +0200" channel="France4.fr">
+    <title lang="fr">Bluey</title>
+    <sub-title lang="fr">Les crabes-chatouilleurs</sub-title>
+    <desc lang="fr">Lorsque les enfants veulent jouer aux crabes chatouilleurs, papa doit endurer d'atroces souffrances, avant d'être finalement secouru par une mouette amicale.</desc>
+    <credits>
+      <director>Richard Jeffery</director>
+      <adapter>Joe Brumm</adapter>
+      <producer>Sam Moor</producer>
+      <producer>Charlie Aspinwall</producer>
+      <producer>Daley Pearson</producer>
+      <composer>Joff Bush</composer>
+      <guest>Australian Broadcasting Corporation</guest>
+      <guest>Melanie Zanetti</guest>
+      <guest>David McCormack</guest>
+      <guest>BBC Studios</guest>
+      <guest>Ludo Studio</guest>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/415DC17A9664CE36316593BC8B48C689.jpg" />
+    <country lang="fr">Australie - Grande-Bretagne - Etats-Unis</country>
+    <episode-num system="xmltv_ns">1.19.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331185200 +0200" stop="20260331190300 +0200" channel="France4.fr">
+    <title lang="fr">Bluey</title>
+    <sub-title lang="fr">L'évasion</sub-title>
+    <desc lang="fr">Maman et papa annoncent aux filles qu'ils les déposent chez Nana pour avoir un peu de temps à eux.</desc>
+    <credits>
+      <director>Richard Jeffery</director>
+      <adapter>Joe Brumm</adapter>
+      <producer>Charlie Aspinwall</producer>
+      <producer>Sam Moor</producer>
+      <producer>Daley Pearson</producer>
+      <composer>Joff Bush</composer>
+      <guest>Australian Broadcasting Corporation</guest>
+      <guest>Melanie Zanetti</guest>
+      <guest>David McCormack</guest>
+      <guest>Chris Brumm</guest>
+      <guest>BBC Studios</guest>
+      <guest>Ludo Studio</guest>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/99347AF75A8EF31A153961CD6FA3C4C3.jpg" />
+    <country lang="fr">Australie - Grande-Bretagne - Etats-Unis</country>
+    <episode-num system="xmltv_ns">1.20.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331190300 +0200" stop="20260331190900 +0200" channel="France4.fr">
+    <title lang="fr">Bluey</title>
+    <sub-title lang="fr">Le bus</sub-title>
+    <desc lang="fr">Les Heeler jouent au bus avec papa comme chauffeur et maman comme passagère, tandis que Bluey et Bingo jouent les mamies.</desc>
+    <credits>
+      <director>Richard Jeffery</director>
+      <adapter>Joe Brumm</adapter>
+      <producer>Sam Moor</producer>
+      <producer>Charlie Aspinwall</producer>
+      <producer>Daley Pearson</producer>
+      <composer>Joff Bush</composer>
+      <guest>Melanie Zanetti</guest>
+      <guest>Ludo Studio</guest>
+      <guest>David McCormack</guest>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/EAC69FEF2957A06C446F4F95720860B1.jpg" />
+    <country lang="fr">Australie - Grande-Bretagne - Etats-Unis</country>
+    <episode-num system="xmltv_ns">1.21.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331190900 +0200" stop="20260331191600 +0200" channel="France4.fr">
+    <title lang="fr">Bluey</title>
+    <sub-title lang="fr">L'école des mamans</sub-title>
+    <desc lang="fr">Maman et Bluey jouent à l'école des mamans quand Maman apprend à Bluey comment gérer ses enfants dissipés et à devenir une meilleure mère.</desc>
+    <credits>
+      <director>Richard Jeffery</director>
+      <adapter>Joe Brumm</adapter>
+      <producer>Sam Moor</producer>
+      <producer>Charlie Aspinwall</producer>
+      <producer>Daley Pearson</producer>
+      <composer>Steve Peach</composer>
+      <composer>Joff Bush</composer>
+      <guest>Australian Broadcasting Corporation</guest>
+      <guest>Melanie Zanetti</guest>
+      <guest>David McCormack</guest>
+      <guest>BBC Studios</guest>
+      <guest>Ludo Studio</guest>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/46653CD5BBB46F01C1961FEDE063CD70.jpg" />
+    <country lang="fr">Australie - Grande-Bretagne - Etats-Unis</country>
+    <episode-num system="xmltv_ns">1.13.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331191800 +0200" stop="20260331192900 +0200" channel="France4.fr">
+    <title lang="fr">Bluey</title>
+    <sub-title lang="fr">Plume-baguette</sub-title>
+    <desc lang="fr">Quand un cacatoès perd une plume, Bingo invente un nouveau jeu. D'un coup de plume-baguette, elle rend les objets incroyablement lourds.</desc>
+    <credits>
+      <director>Richard Jeffery</director>
+      <adapter>Joe Brumm</adapter>
+      <producer>Charlie Aspinwall</producer>
+      <producer>Sam Moor</producer>
+      <producer>Daley Pearson</producer>
+      <composer>Joseph Twist</composer>
+      <composer>Joff Bush</composer>
+      <guest>Australian Broadcasting Corporation</guest>
+      <guest>Melanie Zanetti</guest>
+      <guest>David McCormack</guest>
+      <guest>BBC Studios</guest>
+      <guest>Ludo Studio</guest>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/CF1F293490257812866F751E49B4E15F.jpg" />
+    <country lang="fr">Australie - Etats-Unis - Grande-Bretagne</country>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
+  </programme>
+  <programme start="20260331192900 +0200" stop="20260331193800 +0200" channel="France4.fr">
+    <title lang="fr">Bluey</title>
+    <sub-title lang="fr">La balançoire</sub-title>
+    <desc lang="fr">Papa a eu l'impolitesse de s'asseoir à un bout de la balançoire. Bluey et Bingo font le tour de l'aire de jeu pour trouver de l'aide afin de l'en faire descendre, mais ils ont besoin d'une aide supplémentaire pour y parvenir.</desc>
+    <credits>
+      <director>Richard Jeffery</director>
+      <adapter>Joe Brumm</adapter>
+      <producer>Sam Moor</producer>
+      <producer>Charlie Aspinwall</producer>
+      <producer>Daley Pearson</producer>
+      <composer>Joseph Twist</composer>
+      <composer>Joff Bush</composer>
+      <guest>Australian Broadcasting Corporation</guest>
+      <guest>David McCormack</guest>
+      <guest>BBC Studios</guest>
+      <guest>Melanie Zanetti</guest>
+      <guest>Suzy Brumm</guest>
+      <guest>Ludo Studio</guest>
+    </credits>
+    <date>2020</date>
+    <category lang="fr">Série</category>
+    <category lang="fr">Animation</category>
+    <icon src="https://img.bouygtel.fr/CMS/images/D963D8A3ED87145E9213FF2325569AFC.jpg" />
+    <country lang="fr">Australie - Grande-Bretagne - Etats-Unis</country>
+    <episode-num system="xmltv_ns">1.27.</episode-num>
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
   </programme>
   <programme start="20260401020000 +0200" stop="20260401033000 +0200" channel="France4.fr">
     <title lang="fr">Outre-mer Street Art</title>
@@ -2606,5 +4139,16 @@ Yoann Sover (Acteur) .. Boyster.</desc>
   <programme start="20260402043500 +0200" stop="20260402050500 +0200" channel="France4.fr">
     <title lang="fr">Les matinales</title>
     <sub-title lang="fr">Emission du 02 avr. 2026</sub-title>
+  </programme>
+  <programme start="20260403042000 +0200" stop="20260403045500 +0200" channel="France4.fr">
+    <title lang="fr">Basique, les sessions</title>
+    <sub-title lang="fr">David Walters</sub-title>
+    <desc lang="fr">Originaire des Caraïbes, installé à Marseille, David Walters a trouvé l'équilibre entre l'afro-beat, le reggae-dub, la kompa et les sonorités électroniques.</desc>
+    <category lang="fr">Musique</category>
+    <category lang="fr">Mag Musique</category>
+    <icon src="https://thumb.canalplus.pro/http/unsafe/640x360/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/123078486" />
+    <rating system="CSA">
+      <value>Tout public</value>
+    </rating>
   </programme>
 </tv>
