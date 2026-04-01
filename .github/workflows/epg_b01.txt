@@ -1,0 +1,51 @@
+name: epg b01
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # Tous les jours à 03:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Vérifier le code source
+        uses: actions/checkout@v5
+
+      - name: Configurer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'  # Version de Python à utiliser
+
+      - name: Installer les dépendances
+        run: |
+         pip install requests  # Installer requests
+        # Ajouter d'autres dépendances si nécessaire
+
+      - name: Configurer Git
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "BG47510"
+
+    #  - name: Rendre le script exécutable
+    #    run: chmod +x ${GITHUB_WORKSPACE}/b02/script_xml.sh
+
+      - name: Exécuter le script
+        run: python ${GITHUB_WORKSPACE}/b01/script_epg.py
+
+      - name: Ajouter les modifications à Git
+        run: |
+          git add -A
+          git status
+      
+      - name: Commit et push des modifications
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Mise à jour automatique de l'EPG"
+            git push
+          else
+            echo "Aucune modification à committer"
+          fi
