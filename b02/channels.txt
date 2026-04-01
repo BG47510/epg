@@ -35,3 +35,11 @@ NOVO19.fr
 Animaux.fr
 Mezzo.fr
 PlanetePlus.fr
+# http://www.xmltvepg.nl/rytecCH_Basic.xz
+RSILa2.ch
+RTSDeux.ch
+carac5.ch
+carac4.ch
+carac3.ch
+carac2.ch
+carac1.ch
