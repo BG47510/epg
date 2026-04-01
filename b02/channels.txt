@@ -43,3 +43,8 @@ carac4.ch
 carac3.ch
 carac2.ch
 carac1.ch
+# http://www.xmltvepg.nl/rytecNWS.xz
+France24fr.fr
+EuronewsFR.nws
+TV5MondeFBS.fr
+TV5MondeEurope.fr
