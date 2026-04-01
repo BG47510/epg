@@ -12,7 +12,7 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CHANNELS_FILE = os.path.join(BASE_DIR, "channels.txt") # Fichier contenant les IDs à garder
 URLS_FILE = os.path.join(BASE_DIR, "urls.txt")         # Fichier contenant les URLs sources
 OUTPUT_FILE = os.path.join(BASE_DIR, "filtered_epg.xml") # Nom du fichier de sortie
-DAYS_AHEAD = 3 # Nombre de jours de programmes à conserver dans le futur
+DAYS_AHEAD = 2 # Nombre de jours de programmes à conserver dans le futur
 
 def indent(elem, level=0):
     """
