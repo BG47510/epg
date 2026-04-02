@@ -30,9 +30,6 @@ jobs:
           git config --global user.email "action@github.com"
           git config --global user.name "BG47510"
 
-    #  - name: Rendre le script exécutable
-    #    run: chmod +x ${GITHUB_WORKSPACE}/b02/script_xml.sh
-
       - name: Exécuter le script
         run: python ${GITHUB_WORKSPACE}/b01/script_epg.py
 
