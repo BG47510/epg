@@ -6,8 +6,21 @@ import gzip
 import shutil
 import io
 import lzma
+import logging
 
+# Configuration du logging
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+LOG_FILE = os.path.join(SCRIPT_DIR, "epg_script.log")
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    handlers=[
+        logging.FileHandler(LOG_FILE, encoding='utf-8'),
+        logging.StreamHandler()
+    ]
+)
+logger = logging.getLogger(__name__)
+
 CHANNELS_FILE = os.path.join(SCRIPT_DIR, "channels.txt")
 URLS_FILE = os.path.join(SCRIPT_DIR, "urls.txt")
 OUTPUT_FILE = os.path.join(SCRIPT_DIR, "epg.xml.gz")
@@ -27,12 +40,12 @@ with open(CHANNELS_FILE, 'r') as f:
                 ID_MAP[old_id] = new_id
                 CHANNEL_IDS.append(old_id)
         except ValueError:
-            print(f"Erreur de format dans la ligne : {line}.")
+            logger.warning(f"Erreur de format dans la ligne : {line}.")
 
 NOW = datetime.now().strftime("%Y%m%d%H%M")
 LIMIT = (datetime.now() + timedelta(days=1)).strftime("%Y%m%d%H%M")
 
-print("--- Démarrage du traitement ---")
+logger.info("--- Démarrage du traitement ---")
 
 CHANNELS_FILLED = {}
 count = 0
@@ -43,16 +56,16 @@ with open(URLS_FILE, 'r') as f:
 
 for url in URLs:
     count += 1
-    print(f"Source {count} : {url}")
+    logger.info(f"Source {count} : {url}")
 
     try:
         response = requests.get(url, timeout=10)
     except Exception as e:
-        print(f"Erreur HTTP pour {url} : {e}")
+        logger.error(f"Erreur HTTP pour {url} : {e}")
         continue
 
     if response.status_code != 200:
-        print(f"Erreur lors de la récupération de {url} (status {response.status_code}).")
+        logger.error(f"Erreur lors de la récupération de {url} (status {response.status_code}).")
         continue
 
     # Préparer le buffer de contenu
@@ -68,7 +81,7 @@ for url in URLs:
         else:
             content = io.BytesIO(content.getvalue())
     except Exception as e:
-        print(f"Erreur de décompression pour {url} : {e}")
+        logger.error(f"Erreur de décompression pour {url} : {e}")
         continue
 
     try:
@@ -120,14 +133,16 @@ for url in URLs:
                             output_lines.append(line)
 
     except ET.ParseError as e:
-        print(f"Erreur lors du parsing de {url} : {e}")
+        logger.error(f"Erreur lors du parsing de {url} : {e}")
 
 # Écriture finale
-print("Assemblage du fichier final...")
+logger.info("Assemblage du fichier final...")
 
-with gzip.open(OUTPUT_FILE, 'wt', encoding='utf-8') as output_file:
-    output_file.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
-    output_file.write('\n'.join(output_lines) + '\n')
-    output_file.write('</tv>\n')
-
-print(f"SUCCÈS : {OUTPUT_FILE} généré.")
+try:
+    with gzip.open(OUTPUT_FILE, 'wt', encoding='utf-8') as output_file:
+        output_file.write('<?xml version="1.0" encoding="UTF-8"?>\n<tv>\n')
+        output_file.write('\n'.join(output_lines) + '\n')
+        output_file.write('</tv>\n')
+    logger.info(f"SUCCÈS : {OUTPUT_FILE} généré.")
+except Exception as e:
+    logger.error(f"Erreur lors de l'écriture du fichier final : {e}")
