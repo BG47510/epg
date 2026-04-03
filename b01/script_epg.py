@@ -3,7 +3,6 @@ import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 import gzip
-import shutil
 import io
 import lzma
 import logging
@@ -29,7 +28,7 @@ OUTPUT_FILE = os.path.join(SCRIPT_DIR, "epg.xml.gz")
 ID_MAP = {}
 CHANNEL_IDS = []
 
-with open(CHANNELS_FILE, 'r') as f:
+with open(CHANNELS_FILE, 'r', encoding='utf-8') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('#'):
@@ -51,7 +50,7 @@ CHANNELS_FILLED = {}
 count = 0
 output_lines = []
 
-with open(URLS_FILE, 'r') as f:
+with open(URLS_FILE, 'r', encoding='utf-8') as f:
     URLs = [line.strip() for line in f if line.strip() and not line.startswith('#')]
 
 for url in URLs:
@@ -88,7 +87,7 @@ for url in URLs:
         tree = ET.parse(content)
         root = tree.getroot()
 
-        ids_in_source = [channel.attrib['id'] for channel in root.findall('channel')]
+        ids_in_source = [channel.attrib.get('id') for channel in root.findall('channel') if channel.attrib.get('id')]
         found_new_content = False
 
         for old_id in ids_in_source:
@@ -101,7 +100,7 @@ for url in URLs:
             seen = {}
             # Suppression des canaux non requis
             for channel in list(root.findall('channel')):
-                if all(channel.attrib['id'] != old_id for old_id in ids_in_source):
+                if all(channel.attrib.get('id') != old_id for old_id in ids_in_source):
                     root.remove(channel)
 
             # Suppression des programmes hors limites
@@ -134,6 +133,13 @@ for url in URLs:
 
     except ET.ParseError as e:
         logger.error(f"Erreur lors du parsing de {url} : {e}")
+
+# Après avoir traité toutes les sources, lister les chaînes récoltées
+if CHANNELS_FILLED:
+    chaines = sorted(CHANNELS_FILLED.keys())
+    logger.info("Liste des chaînes récupérées : " + ", ".join(chaines))
+else:
+    logger.info("Aucune chaîne récupérée.")
 
 # Écriture finale
 logger.info("Assemblage du fichier final...")
