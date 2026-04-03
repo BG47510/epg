@@ -1,0 +1,6 @@
+2026-04-03 13:21:07,930 [INFO] --- Démarrage du traitement ---
+2026-04-03 13:21:07,930 [INFO] Source 1 : http://www.xmltvepg.nl/rytecTNT_Basic.xz
+2026-04-03 13:21:10,866 [INFO] Source 2 : https://xmltvfr.fr/xmltv/xmltv.xml.gz
+2026-04-03 13:21:16,853 [INFO] Source 3 : https://github.com/Catch-up-TV-and-More/xmltv/raw/master/tv_guide_fr.xml
+2026-04-03 13:21:17,714 [INFO] Assemblage du fichier final...
+2026-04-03 13:21:17,716 [INFO] SUCCÈS : /home/runner/work/epg/epg/b01/epg.xml.gz généré.
