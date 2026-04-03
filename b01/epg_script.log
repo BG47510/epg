@@ -4,3 +4,10 @@
 2026-04-03 13:21:16,853 [INFO] Source 3 : https://github.com/Catch-up-TV-and-More/xmltv/raw/master/tv_guide_fr.xml
 2026-04-03 13:21:17,714 [INFO] Assemblage du fichier final...
 2026-04-03 13:21:17,716 [INFO] SUCCÈS : /home/runner/work/epg/epg/b01/epg.xml.gz généré.
+2026-04-03 13:26:33,631 [INFO] --- Démarrage du traitement ---
+2026-04-03 13:26:33,631 [INFO] Source 1 : http://www.xmltvepg.nl/rytecTNT_Basic.xz
+2026-04-03 13:26:36,597 [INFO] Source 2 : https://xmltvfr.fr/xmltv/xmltv.xml.gz
+2026-04-03 13:26:42,718 [INFO] Source 3 : https://github.com/Catch-up-TV-and-More/xmltv/raw/master/tv_guide_fr.xml
+2026-04-03 13:26:44,089 [INFO] Liste des chaînes récupérées : 6tertest, fr2test
+2026-04-03 13:26:44,089 [INFO] Assemblage du fichier final...
+2026-04-03 13:26:44,091 [INFO] SUCCÈS : /home/runner/work/epg/epg/b01/epg.xml.gz généré.
