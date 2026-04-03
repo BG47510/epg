@@ -1,2 +1,3 @@
+http://www.xmltvepg.nl/rytecTNT_Basic.xz
 https://xmltvfr.fr/xmltv/xmltv.xml.gz
 https://github.com/Catch-up-TV-and-More/xmltv/raw/master/tv_guide_fr.xml
