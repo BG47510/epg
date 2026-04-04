@@ -1,4 +1,4 @@
-6ter.fr, 6tertest
-France2.fr, fr2test
-C1403.api.telerama.fr, 6tertest
-C4.api.telerama.fr, fr2test
+6ter.fr, C.6ter
+France2.fr, C.fr2
+C1403.api.telerama.fr, C.6ter
+C4.api.telerama.fr, C.fr2
