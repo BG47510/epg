@@ -32,3 +32,10 @@
 2026-04-06 05:27:09,644 [INFO] Liste des chaînes récupérées : C.6ter, C.fr2
 2026-04-06 05:27:09,644 [INFO] Assemblage du fichier final...
 2026-04-06 05:27:09,646 [INFO] SUCCÈS : /home/runner/work/epg/epg/b01/epg.xml.gz généré.
+2026-04-07 05:11:28,978 [INFO] --- Démarrage du traitement ---
+2026-04-07 05:11:28,978 [INFO] Source 1 : http://www.xmltvepg.nl/rytecTNT_Basic.xz
+2026-04-07 05:11:32,261 [INFO] Source 2 : https://xmltvfr.fr/xmltv/xmltv.xml.gz
+2026-04-07 05:11:38,159 [INFO] Source 3 : https://github.com/Catch-up-TV-and-More/xmltv/raw/master/tv_guide_fr.xml
+2026-04-07 05:11:39,740 [INFO] Liste des chaînes récupérées : C.6ter, C.fr2
+2026-04-07 05:11:39,741 [INFO] Assemblage du fichier final...
+2026-04-07 05:11:39,742 [INFO] SUCCÈS : /home/runner/work/epg/epg/b01/epg.xml.gz généré.
