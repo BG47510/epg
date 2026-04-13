@@ -1,6 +1,6 @@
 # http://www.xmltvepg.nl/rytecTNT_Basic.xz
 BFMTV.fr, C.BFMTV
-France4.fr, C.Fr4
+France4.fr, C.fr4
 TMC.fr, C.TMC
 Gulli.fr, C.Gulli
 T18.fr, C.T18
