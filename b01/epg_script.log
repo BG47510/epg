@@ -121,3 +121,13 @@
 2026-04-16 05:32:58,008 [INFO] Liste des chaînes récupérées : C.6ter, C.Animaux_fr, C.Arte, C.BFMTV, C.BFMgrandsreportages, C.Cnews, C.Cstar, C.Figaro, C.France24_fr, C.Gulli, C.LCI, C.LCP, C.Lequipe, C.M6, C.MCM_fr, C.Mezzo, C.NOVO19, C.Planeteplus_fr, C.RMCdecouverte, C.RMClife, C.RMCstory, C.RSIla2_ch, C.RTS2_ch, C.T18, C.TF1, C.TF1seriesfilms, C.TFX, C.TMC, C.TV5mondeFBS_fr, C.TV5mondeeurope_fr, C.TV7bordeaux, C.Tech_co, C.W9, C.carac1, C.carac2, C.carac3, C.carac4, C.carac5, C.euronews_fr, C.fr2, C.fr3, C.fr3noa, C.fr4, C.fr5, C.frinfo
 2026-04-16 05:32:58,008 [INFO] Assemblage du fichier final...
 2026-04-16 05:32:58,049 [INFO] SUCCÈS : /home/runner/work/epg/epg/b01/epg.xml.gz généré.
+2026-04-17 05:29:49,363 [INFO] --- Démarrage du traitement ---
+2026-04-17 05:29:49,363 [INFO] Source 1 : http://www.xmltvepg.nl/rytecTNT_Basic.xz
+2026-04-17 05:29:52,631 [INFO] Source 2 : http://www.xmltvepg.nl/rytecFR_Mixte.xz
+2026-04-17 05:29:56,605 [INFO] Source 3 : http://www.xmltvepg.nl/rytecBE_FR_Common.xz
+2026-04-17 05:30:00,991 [INFO] Source 4 : http://www.xmltvepg.nl/rytecCH_Basic.xz
+2026-04-17 05:30:03,814 [INFO] Source 5 : http://www.xmltvepg.nl/rytecNWS.xz
+2026-04-17 05:30:05,014 [INFO] Source 6 : https://github.com/Catch-up-TV-and-More/xmltv/raw/master/tv_guide_fr.xml
+2026-04-17 05:30:06,716 [INFO] Liste des chaînes récupérées : C.6ter, C.Animaux_fr, C.Arte, C.BFMTV, C.BFMgrandsreportages, C.Cnews, C.Cstar, C.Figaro, C.France24_fr, C.Gulli, C.LCI, C.LCP, C.Lequipe, C.M6, C.MCM_fr, C.Mezzo, C.NOVO19, C.Planeteplus_fr, C.RMCdecouverte, C.RMClife, C.RMCstory, C.RSIla2_ch, C.RTS2_ch, C.T18, C.TF1, C.TF1seriesfilms, C.TFX, C.TMC, C.TV5mondeFBS_fr, C.TV5mondeeurope_fr, C.TV7bordeaux, C.Tech_co, C.W9, C.carac1, C.carac2, C.carac3, C.carac4, C.carac5, C.euronews_fr, C.fr2, C.fr3, C.fr3noa, C.fr4, C.fr5, C.frinfo
+2026-04-17 05:30:06,716 [INFO] Assemblage du fichier final...
+2026-04-17 05:30:06,756 [INFO] SUCCÈS : /home/runner/work/epg/epg/b01/epg.xml.gz généré.
